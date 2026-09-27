@@ -1,0 +1,2000 @@
+Category,Sub Category,City,Region,State,Sales,Discount,Order_Year,Order_Month,Order_Day,Actual Profit,Predicted Profit
+Fruits & Veggies,Organic Fruits,Madurai,West,Tamil Nadu,523,0.14,2018,3,12,120.29,118.05
+Beverages,Health Drinks,Nagercoil,Central,Tamil Nadu,1301,0.11,2017,3,4,390.3,305.19
+Food Grains,Dals & Pulses,Madurai,West,Tamil Nadu,1154,0.21,2015,11,29,138.48,310.24
+"Eggs, Meat & Fish",Chicken,Cumbum,Central,Tamil Nadu,2045,0.23,2016,12,27,879.35,525.91
+Beverages,Health Drinks,Ooty,West,Tamil Nadu,639,0.23,2018,4,17,146.97,162.25
+Snacks,Chocolates,Chennai,East,Tamil Nadu,1121,0.33,2015,1,11,257.83,230.9
+"Eggs, Meat & Fish",Fish,Tenkasi,East,Tamil Nadu,1229,0.2,2016,5,11,184.35,310.72
+Fruits & Veggies,Organic Vegetables,Cumbum,West,Tamil Nadu,1379,0.21,2018,6,11,262.01,308.31
+Beverages,Soft Drinks,Nagercoil,West,Tamil Nadu,1953,0.23,2017,5,30,722.61,583.15
+Bakery,Cakes,Ramanadhapuram,East,Tamil Nadu,596,0.24,2015,9,20,59.6,165.78
+Fruits & Veggies,Fresh Fruits,Bodi,West,Tamil Nadu,1083,0.2,2016,11,13,379.05,286.09
+Snacks,Chocolates,Chennai,East,Tamil Nadu,1272,0.35,2018,8,12,381.6,291.71
+Food Grains,Dals & Pulses,Kanyakumari,West,Tamil Nadu,2490,0.14,2017,9,22,697.2,556.51
+Bakery,Cakes,Kanyakumari,West,Tamil Nadu,1069,0.14,2018,2,11,363.46,298.37
+Food Grains,Atta & Flour,Karur,East,Tamil Nadu,1498,0.19,2018,5,19,179.76,337.68
+Food Grains,Rice,Krishnagiri,Central,Tamil Nadu,1792,0.29,2015,4,18,752.64,515.42
+Beverages,Soft Drinks,Tenkasi,South,Tamil Nadu,1471,0.27,2015,5,4,397.17,297.66
+"Eggs, Meat & Fish",Chicken,Namakkal,West,Tamil Nadu,1314,0.15,2017,6,26,118.26,225.62
+Food Grains,Dals & Pulses,Salem,Central,Tamil Nadu,794,0.22,2015,3,6,277.9,209.12
+"Eggs, Meat & Fish",Chicken,Perambalur,South,Tamil Nadu,1337,0.13,2015,11,2,601.65,356.54
+Oil & Masala,Spices,Viluppuram,West,Tamil Nadu,1223,0.15,2018,4,23,61.15,316.78
+"Eggs, Meat & Fish",Fish,Vellore,East,Tamil Nadu,2159,0.19,2015,12,24,647.7,524.83
+"Eggs, Meat & Fish",Mutton,Bodi,West,Tamil Nadu,1514,0.32,2018,3,19,514.76,281.44
+Bakery,Breads & Buns,Tirunelveli,West,Tamil Nadu,1714,0.35,2017,10,11,702.74,525.05
+Fruits & Veggies,Fresh Fruits,Salem,West,Tamil Nadu,2263,0.21,2015,7,25,271.56,504.06
+Snacks,Cookies,Tirunelveli,South,Tamil Nadu,536,0.34,2018,11,23,176.88,130.81
+Food Grains,Atta & Flour,Theni,East,Tamil Nadu,2175,0.23,2018,3,25,326.25,709.22
+Bakery,Biscuits,Trichy,West,Tamil Nadu,794,0.28,2016,8,17,230.26,182.22
+Oil & Masala,Edible Oil & Ghee,Virudhunagar,East,Tamil Nadu,773,0.19,2017,7,5,85.03,201.72
+Beverages,Soft Drinks,Pudukottai,West,Tamil Nadu,2103,0.1,2018,1,21,883.26,462.74
+Food Grains,Organic Staples,Tenkasi,East,Tamil Nadu,1063,0.35,2016,1,10,340.16,226.44
+Bakery,Biscuits,Pudukottai,Central,Tamil Nadu,2245,0.32,2015,11,7,269.4,516.81
+Oil & Masala,Spices,Tirunelveli,East,Tamil Nadu,1620,0.14,2015,4,8,615.6,484.36
+Oil & Masala,Masalas,Nagercoil,West,Tamil Nadu,1839,0.34,2016,11,5,183.9,371.34
+Fruits & Veggies,Organic Fruits,Tirunelveli,South,Tamil Nadu,2381,0.19,2017,4,8,380.96,698.41
+Beverages,Soft Drinks,Nagercoil,West,Tamil Nadu,1765,0.13,2015,2,11,353.0,490.67
+"Eggs, Meat & Fish",Eggs,Tirunelveli,Central,Tamil Nadu,1265,0.22,2017,8,12,569.25,265.53
+"Eggs, Meat & Fish",Chicken,Ooty,South,Tamil Nadu,996,0.28,2017,7,16,239.04,268.77
+Oil & Masala,Masalas,Dharmapuri,West,Tamil Nadu,2500,0.26,2016,1,30,400.0,557.8
+"Eggs, Meat & Fish",Fish,Tirunelveli,East,Tamil Nadu,584,0.15,2016,7,23,210.24,130.09
+Bakery,Breads & Buns,Dindigul,South,Tamil Nadu,1660,0.2,2017,12,8,348.6,439.08
+Snacks,Cookies,Chennai,West,Tamil Nadu,1375,0.18,2017,5,9,426.25,342.89
+"Eggs, Meat & Fish",Eggs,Karur,West,Tamil Nadu,1666,0.3,2016,7,25,383.18,432.15
+Fruits & Veggies,Organic Fruits,Trichy,West,Tamil Nadu,2082,0.28,2016,1,12,520.5,573.3
+Oil & Masala,Masalas,Kanyakumari,South,Tamil Nadu,988,0.1,2018,12,24,424.84,274.28
+Oil & Masala,Spices,Nagercoil,West,Tamil Nadu,1712,0.17,2018,3,25,154.08,403.84
+Snacks,Noodles,Namakkal,South,Tamil Nadu,562,0.13,2018,8,3,56.2,133.17
+Oil & Masala,Edible Oil & Ghee,Tenkasi,South,Tamil Nadu,2493,0.1,2017,9,5,673.11,553.17
+Fruits & Veggies,Organic Vegetables,Chennai,West,Tamil Nadu,2226,0.23,2018,9,5,400.68,507.51
+Snacks,Noodles,Trichy,Central,Tamil Nadu,2023,0.34,2017,12,6,627.13,437.97
+Oil & Masala,Masalas,Pudukottai,East,Tamil Nadu,1657,0.1,2017,8,5,182.27,374.17
+Snacks,Chocolates,Vellore,West,Tamil Nadu,1479,0.17,2015,8,12,473.28,374.87
+Fruits & Veggies,Fresh Vegetables,Bodi,East,Tamil Nadu,1527,0.1,2017,2,21,152.7,353.71
+Snacks,Chocolates,Ramanadhapuram,West,Tamil Nadu,1460,0.27,2016,6,23,116.8,469.97
+Bakery,Breads & Buns,Chennai,West,Tamil Nadu,2357,0.23,2017,4,11,164.99,713.28
+Beverages,Soft Drinks,Perambalur,East,Tamil Nadu,1840,0.34,2016,8,11,644.0,473.7
+Snacks,Cookies,Chennai,West,Tamil Nadu,1572,0.32,2018,9,22,267.24,323.04
+Fruits & Veggies,Fresh Fruits,Coimbatore,West,Tamil Nadu,959,0.15,2015,7,26,76.72,230.18
+Bakery,Biscuits,Namakkal,Central,Tamil Nadu,561,0.23,2016,11,29,134.64,130.94
+Oil & Masala,Edible Oil & Ghee,Ramanadhapuram,East,Tamil Nadu,2028,0.35,2018,9,29,365.04,565.25
+Oil & Masala,Masalas,Madurai,West,Tamil Nadu,720,0.24,2016,10,25,244.8,189.71
+Fruits & Veggies,Fresh Fruits,Ooty,South,Tamil Nadu,886,0.29,2018,3,27,256.94,203.99
+Fruits & Veggies,Organic Vegetables,Nagercoil,South,Tamil Nadu,772,0.2,2017,12,25,331.96,214.89
+Food Grains,Dals & Pulses,Tenkasi,West,Tamil Nadu,1958,0.2,2016,9,24,665.72,528.53
+Snacks,Noodles,Ooty,West,Tamil Nadu,1902,0.13,2018,7,9,646.68,555.7
+Food Grains,Rice,Theni,East,Tamil Nadu,1715,0.24,2015,1,14,771.75,481.48
+Oil & Masala,Edible Oil & Ghee,Ramanadhapuram,West,Tamil Nadu,2122,0.11,2018,5,20,169.76,611.23
+"Eggs, Meat & Fish",Eggs,Tirunelveli,East,Tamil Nadu,1487,0.28,2017,12,5,639.41,342.37
+Fruits & Veggies,Organic Fruits,Perambalur,East,Tamil Nadu,1805,0.23,2018,1,20,216.6,542.32
+Food Grains,Dals & Pulses,Pudukottai,West,Tamil Nadu,2319,0.21,2018,11,19,533.37,686.83
+Beverages,Soft Drinks,Theni,East,Tamil Nadu,1791,0.18,2018,1,19,125.37,518.96
+"Eggs, Meat & Fish",Mutton,Trichy,South,Tamil Nadu,2298,0.11,2015,3,21,620.46,700.48
+Food Grains,Rice,Krishnagiri,South,Tamil Nadu,1328,0.12,2015,12,16,544.48,346.63
+"Eggs, Meat & Fish",Mutton,Dindigul,East,Tamil Nadu,618,0.35,2018,9,20,265.74,130.55
+Beverages,Health Drinks,Karur,West,Tamil Nadu,782,0.19,2015,12,21,250.24,226.04
+Fruits & Veggies,Organic Fruits,Dindigul,West,Tamil Nadu,609,0.13,2017,3,7,164.43,164.57
+Snacks,Noodles,Vellore,Central,Tamil Nadu,2031,0.11,2015,5,30,264.03,512.68
+Snacks,Noodles,Trichy,Central,Tamil Nadu,636,0.32,2016,6,2,152.64,152.18
+Bakery,Biscuits,Coimbatore,East,Tamil Nadu,1907,0.35,2016,4,12,247.91,546.74
+Bakery,Biscuits,Pudukottai,South,Tamil Nadu,1178,0.26,2016,8,6,58.9,282.56
+Beverages,Health Drinks,Ooty,South,Tamil Nadu,1366,0.13,2016,2,11,478.1,284.48
+Snacks,Cookies,Tenkasi,West,Tamil Nadu,1468,0.11,2015,6,4,205.52,350.0
+Bakery,Biscuits,Madurai,East,Tamil Nadu,1752,0.31,2018,11,30,700.8,455.15
+"Eggs, Meat & Fish",Eggs,Ramanadhapuram,Central,Tamil Nadu,1292,0.29,2018,5,12,297.16,319.73
+Fruits & Veggies,Fresh Fruits,Nagercoil,East,Tamil Nadu,567,0.19,2018,5,12,175.77,127.02
+"Eggs, Meat & Fish",Fish,Vellore,West,Tamil Nadu,1676,0.24,2018,4,5,636.88,428.34
+Snacks,Chocolates,Namakkal,West,Tamil Nadu,1419,0.32,2018,3,11,454.08,326.12
+Fruits & Veggies,Organic Vegetables,Virudhunagar,East,Tamil Nadu,1313,0.24,2017,4,12,223.21,252.1
+Food Grains,Organic Staples,Perambalur,Central,Tamil Nadu,824,0.3,2018,1,13,321.36,187.8
+Oil & Masala,Edible Oil & Ghee,Coimbatore,Central,Tamil Nadu,1956,0.32,2017,2,5,97.8,448.96
+Bakery,Cakes,Bodi,Central,Tamil Nadu,2338,0.31,2016,12,17,116.9,525.44
+Oil & Masala,Spices,Karur,West,Tamil Nadu,1847,0.35,2018,8,21,258.58,520.04
+Food Grains,Atta & Flour,Nagercoil,South,Tamil Nadu,509,0.14,2017,5,2,35.63,128.15
+Food Grains,Atta & Flour,Cumbum,South,Tamil Nadu,1881,0.11,2018,3,11,733.59,436.24
+Snacks,Cookies,Vellore,South,Tamil Nadu,2117,0.23,2017,10,10,296.38,625.41
+Oil & Masala,Spices,Krishnagiri,East,Tamil Nadu,1925,0.11,2018,5,18,827.75,467.89
+Bakery,Breads & Buns,Salem,East,Tamil Nadu,2114,0.32,2018,1,12,359.38,438.09
+Oil & Masala,Edible Oil & Ghee,Perambalur,West,Tamil Nadu,1877,0.18,2016,9,26,375.4,488.17
+Bakery,Biscuits,Salem,South,Tamil Nadu,1879,0.24,2017,10,28,93.95,423.58
+Beverages,Health Drinks,Salem,South,Tamil Nadu,961,0.13,2015,11,10,76.88,234.78
+Bakery,Breads & Buns,Coimbatore,West,Tamil Nadu,2150,0.21,2015,9,21,150.5,622.85
+Fruits & Veggies,Organic Vegetables,Perambalur,West,Tamil Nadu,2341,0.19,2016,5,9,1053.45,566.67
+Snacks,Chocolates,Ooty,East,Tamil Nadu,700,0.24,2016,6,12,70.0,188.86
+Fruits & Veggies,Organic Fruits,Kanyakumari,West,Tamil Nadu,1920,0.14,2017,2,21,556.8,500.45
+Bakery,Cakes,Vellore,South,Tamil Nadu,1501,0.33,2015,4,4,240.16,383.72
+Bakery,Cakes,Viluppuram,South,Tamil Nadu,1130,0.32,2018,6,15,271.2,258.61
+Bakery,Biscuits,Coimbatore,South,Tamil Nadu,1926,0.24,2016,5,26,154.08,506.02
+Beverages,Health Drinks,Trichy,Central,Tamil Nadu,2433,0.35,2015,3,17,1046.19,490.24
+Snacks,Chocolates,Vellore,West,Tamil Nadu,2417,0.28,2017,12,9,797.61,531.71
+Snacks,Noodles,Karur,West,Tamil Nadu,648,0.22,2017,3,13,174.96,161.94
+Oil & Masala,Edible Oil & Ghee,Kanyakumari,East,Tamil Nadu,931,0.14,2016,4,5,297.92,184.06
+"Eggs, Meat & Fish",Eggs,Coimbatore,Central,Tamil Nadu,1149,0.27,2017,7,31,333.21,252.95
+Snacks,Chocolates,Vellore,South,Tamil Nadu,860,0.27,2016,9,1,189.2,274.42
+Snacks,Chocolates,Tirunelveli,East,Tamil Nadu,1245,0.25,2018,11,19,485.55,340.03
+Snacks,Cookies,Dindigul,East,Tamil Nadu,1009,0.18,2018,9,9,70.63,273.79
+Beverages,Health Drinks,Perambalur,South,Tamil Nadu,584,0.23,2017,5,15,204.4,155.58
+Snacks,Chocolates,Namakkal,West,Tamil Nadu,1512,0.33,2018,8,19,408.24,264.24
+Snacks,Cookies,Cumbum,West,Tamil Nadu,1043,0.34,2016,9,21,469.35,270.7
+Beverages,Health Drinks,Tirunelveli,West,Tamil Nadu,1307,0.29,2016,12,24,287.54,345.64
+Snacks,Chocolates,Dindigul,Central,Tamil Nadu,2070,0.2,2017,11,9,248.4,564.47
+Oil & Masala,Masalas,Karur,West,Tamil Nadu,1532,0.32,2017,4,9,91.92,364.7
+Beverages,Soft Drinks,Trichy,South,Tamil Nadu,2397,0.22,2017,12,29,1030.71,592.89
+Food Grains,Atta & Flour,Bodi,West,Tamil Nadu,750,0.16,2018,1,12,165.0,138.92
+Snacks,Cookies,Dindigul,West,Tamil Nadu,2271,0.35,2017,10,3,522.33,490.53
+Fruits & Veggies,Fresh Vegetables,Krishnagiri,Central,Tamil Nadu,976,0.28,2016,5,25,146.4,272.76
+Bakery,Breads & Buns,Cumbum,South,Tamil Nadu,2398,0.3,2016,11,4,599.5,679.29
+"Eggs, Meat & Fish",Mutton,Salem,South,Tamil Nadu,1565,0.12,2018,2,10,641.65,386.51
+Beverages,Health Drinks,Salem,East,Tamil Nadu,2340,0.34,2015,9,26,561.6,545.57
+Snacks,Noodles,Krishnagiri,Central,Tamil Nadu,884,0.28,2016,3,30,176.8,246.39
+Oil & Masala,Edible Oil & Ghee,Dharmapuri,Central,Tamil Nadu,1747,0.35,2017,8,26,262.05,387.7
+Oil & Masala,Edible Oil & Ghee,Dindigul,West,Tamil Nadu,1285,0.32,2016,12,20,282.7,370.12
+Food Grains,Atta & Flour,Ooty,East,Tamil Nadu,1856,0.21,2018,9,11,723.84,425.91
+Food Grains,Rice,Nagercoil,West,Tamil Nadu,2335,0.17,2017,6,12,607.1,637.92
+Fruits & Veggies,Organic Vegetables,Madurai,West,Tamil Nadu,868,0.26,2018,11,13,78.12,228.66
+Food Grains,Atta & Flour,Ooty,West,Tamil Nadu,1531,0.13,2016,8,21,336.82,347.09
+"Eggs, Meat & Fish",Chicken,Cumbum,East,Tamil Nadu,1235,0.12,2017,12,6,74.1,267.2
+Beverages,Health Drinks,Dindigul,West,Tamil Nadu,531,0.14,2017,11,9,127.44,136.24
+Fruits & Veggies,Fresh Fruits,Tirunelveli,West,Tamil Nadu,2476,0.32,2016,12,12,866.6,533.33
+Oil & Masala,Masalas,Madurai,East,Tamil Nadu,1689,0.34,2016,9,17,337.8,412.59
+"Eggs, Meat & Fish",Fish,Nagercoil,West,Tamil Nadu,1784,0.35,2016,11,9,410.32,459.89
+Food Grains,Rice,Vellore,East,Tamil Nadu,1154,0.17,2016,5,28,473.14,273.63
+Beverages,Soft Drinks,Madurai,Central,Tamil Nadu,762,0.14,2017,10,21,91.44,188.78
+Beverages,Health Drinks,Vellore,East,Tamil Nadu,2247,0.33,2015,10,14,966.21,520.41
+Oil & Masala,Spices,Karur,East,Tamil Nadu,1171,0.16,2015,4,11,363.01,315.1
+Bakery,Biscuits,Ramanadhapuram,West,Tamil Nadu,644,0.22,2017,6,27,167.44,168.66
+Beverages,Health Drinks,Vellore,East,Tamil Nadu,990,0.11,2015,1,16,237.6,272.25
+Fruits & Veggies,Fresh Vegetables,Viluppuram,South,Tamil Nadu,2167,0.12,2018,12,25,195.03,563.62
+Bakery,Cakes,Cumbum,Central,Tamil Nadu,2298,0.15,2018,8,29,1034.1,556.11
+"Eggs, Meat & Fish",Mutton,Dindigul,East,Tamil Nadu,1656,0.16,2018,11,30,629.28,482.27
+Bakery,Breads & Buns,Kanyakumari,East,Tamil Nadu,902,0.13,2018,12,13,279.62,160.38
+Beverages,Health Drinks,Tirunelveli,West,Tamil Nadu,1630,0.23,2016,1,11,342.3,480.3
+Fruits & Veggies,Fresh Fruits,Dindigul,East,Tamil Nadu,1331,0.12,2015,11,11,439.23,328.53
+Snacks,Noodles,Vellore,East,Tamil Nadu,1400,0.11,2016,9,17,420.0,432.86
+Snacks,Chocolates,Ooty,East,Tamil Nadu,1556,0.12,2018,10,23,373.44,383.06
+Bakery,Biscuits,Viluppuram,East,Tamil Nadu,2007,0.26,2017,2,16,501.75,628.41
+Oil & Masala,Masalas,Kanyakumari,East,Tamil Nadu,989,0.17,2016,9,17,69.23,277.21
+Beverages,Health Drinks,Kanyakumari,East,Tamil Nadu,2140,0.33,2017,5,9,791.8,572.27
+Beverages,Health Drinks,Theni,Central,Tamil Nadu,2314,0.11,2018,8,9,439.66,562.58
+Bakery,Cakes,Ooty,East,Tamil Nadu,1118,0.12,2018,12,10,290.68,311.01
+Bakery,Cakes,Kanyakumari,West,Tamil Nadu,1883,0.26,2018,7,14,508.41,441.4
+Beverages,Health Drinks,Cumbum,South,Tamil Nadu,540,0.12,2018,11,23,108.0,108.52
+Beverages,Soft Drinks,Viluppuram,West,Tamil Nadu,1473,0.35,2017,12,24,574.47,484.5
+Bakery,Biscuits,Dharmapuri,East,Tamil Nadu,2481,0.16,2017,7,25,769.11,612.84
+Snacks,Chocolates,Perambalur,East,Tamil Nadu,2348,0.24,2018,5,11,469.6,559.84
+Bakery,Breads & Buns,Salem,East,Tamil Nadu,2086,0.29,2017,11,11,667.52,499.7
+Snacks,Chocolates,Cumbum,West,Tamil Nadu,1908,0.27,2016,11,24,534.24,498.68
+Snacks,Noodles,Ramanadhapuram,East,Tamil Nadu,1127,0.27,2016,4,18,349.37,286.46
+Bakery,Cakes,Namakkal,East,Tamil Nadu,1406,0.16,2018,10,30,323.38,308.94
+Snacks,Cookies,Tirunelveli,West,Tamil Nadu,1613,0.29,2015,4,4,661.33,389.67
+Beverages,Health Drinks,Tenkasi,East,Tamil Nadu,706,0.31,2016,6,25,35.3,157.32
+Oil & Masala,Masalas,Krishnagiri,East,Tamil Nadu,525,0.16,2015,10,15,157.5,129.45
+Oil & Masala,Spices,Karur,Central,Tamil Nadu,1752,0.16,2017,6,13,297.84,393.92
+"Eggs, Meat & Fish",Eggs,Vellore,West,Tamil Nadu,1074,0.12,2018,6,17,311.46,223.26
+"Eggs, Meat & Fish",Chicken,Vellore,Central,Tamil Nadu,925,0.28,2015,11,28,64.75,248.28
+Bakery,Breads & Buns,Tenkasi,West,Tamil Nadu,771,0.2,2018,11,25,246.72,209.98
+"Eggs, Meat & Fish",Eggs,Vellore,South,Tamil Nadu,2006,0.19,2018,12,28,240.72,487.1
+Bakery,Cakes,Theni,East,Tamil Nadu,1073,0.33,2015,1,13,128.76,236.95
+Food Grains,Dals & Pulses,Chennai,East,Tamil Nadu,1650,0.34,2017,3,19,346.5,382.16
+"Eggs, Meat & Fish",Chicken,Madurai,South,Tamil Nadu,2099,0.16,2015,11,28,923.56,598.32
+Food Grains,Rice,Vellore,East,Tamil Nadu,1630,0.13,2017,8,22,537.9,470.09
+Snacks,Noodles,Madurai,West,Tamil Nadu,635,0.17,2018,1,30,254.0,176.46
+Food Grains,Atta & Flour,Bodi,Central,Tamil Nadu,1319,0.33,2017,7,28,290.18,331.14
+Snacks,Noodles,Ooty,Central,Tamil Nadu,1811,0.22,2018,8,9,235.43,368.74
+Fruits & Veggies,Fresh Fruits,Pudukottai,Central,Tamil Nadu,610,0.26,2015,7,9,244.0,175.24
+Oil & Masala,Masalas,Virudhunagar,Central,Tamil Nadu,2215,0.2,2015,8,8,110.75,569.46
+Oil & Masala,Edible Oil & Ghee,Virudhunagar,Central,Tamil Nadu,2331,0.21,2015,3,14,745.92,561.1
+Beverages,Health Drinks,Virudhunagar,East,Tamil Nadu,1110,0.15,2015,11,19,377.4,321.58
+Oil & Masala,Masalas,Tenkasi,West,Tamil Nadu,1354,0.24,2017,3,20,324.96,325.78
+Fruits & Veggies,Organic Fruits,Bodi,West,Tamil Nadu,1043,0.3,2016,9,21,302.47,298.76
+Food Grains,Atta & Flour,Kanyakumari,West,Tamil Nadu,1063,0.2,2018,6,25,95.67,272.52
+"Eggs, Meat & Fish",Chicken,Coimbatore,Central,Tamil Nadu,2303,0.17,2017,5,9,276.36,549.08
+Snacks,Noodles,Ramanadhapuram,East,Tamil Nadu,1352,0.1,2018,11,18,135.2,426.07
+Fruits & Veggies,Fresh Vegetables,Cumbum,West,Tamil Nadu,1801,0.14,2018,3,13,702.39,421.51
+Fruits & Veggies,Fresh Vegetables,Ooty,West,Tamil Nadu,1037,0.2,2017,9,24,414.8,261.53
+"Eggs, Meat & Fish",Fish,Virudhunagar,West,Tamil Nadu,795,0.29,2017,2,22,302.1,157.63
+Food Grains,Organic Staples,Krishnagiri,East,Tamil Nadu,1742,0.13,2015,3,8,487.76,519.39
+Snacks,Chocolates,Vellore,Central,Tamil Nadu,784,0.13,2018,4,20,156.8,220.02
+Fruits & Veggies,Organic Vegetables,Vellore,West,Tamil Nadu,2018,0.34,2016,11,27,585.22,568.17
+"Eggs, Meat & Fish",Chicken,Vellore,South,Tamil Nadu,1678,0.12,2017,6,6,587.3,416.53
+Fruits & Veggies,Organic Vegetables,Vellore,South,Tamil Nadu,525,0.27,2015,2,2,52.5,155.87
+Food Grains,Rice,Dharmapuri,South,Tamil Nadu,981,0.18,2018,9,18,176.58,299.1
+Bakery,Cakes,Vellore,Central,Tamil Nadu,1733,0.31,2016,4,1,225.29,484.35
+Fruits & Veggies,Organic Fruits,Trichy,East,Tamil Nadu,1663,0.19,2016,5,23,315.97,378.87
+"Eggs, Meat & Fish",Chicken,Krishnagiri,East,Tamil Nadu,2178,0.34,2015,9,23,457.38,549.09
+Food Grains,Atta & Flour,Virudhunagar,East,Tamil Nadu,2092,0.23,2015,7,22,188.28,527.2
+Beverages,Soft Drinks,Nagercoil,West,Tamil Nadu,1936,0.14,2017,10,27,484.0,417.62
+Food Grains,Dals & Pulses,Namakkal,Central,Tamil Nadu,1472,0.14,2018,6,26,88.32,329.17
+Snacks,Cookies,Chennai,West,Tamil Nadu,874,0.26,2017,7,7,305.9,215.24
+Fruits & Veggies,Organic Fruits,Vellore,West,Tamil Nadu,1943,0.33,2017,2,8,796.63,549.41
+Fruits & Veggies,Organic Fruits,Salem,East,Tamil Nadu,1238,0.2,2016,7,31,495.2,269.52
+Fruits & Veggies,Fresh Vegetables,Theni,East,Tamil Nadu,1601,0.35,2018,7,11,640.4,441.51
+Bakery,Biscuits,Namakkal,West,Tamil Nadu,2321,0.11,2015,6,25,742.72,712.84
+Fruits & Veggies,Fresh Vegetables,Theni,West,Tamil Nadu,1229,0.32,2018,9,24,405.57,354.76
+"Eggs, Meat & Fish",Eggs,Dindigul,West,Tamil Nadu,1940,0.35,2016,12,24,155.2,536.62
+Bakery,Breads & Buns,Pudukottai,West,Tamil Nadu,2366,0.21,2016,3,29,425.88,779.38
+Beverages,Health Drinks,Nagercoil,West,Tamil Nadu,2300,0.12,2018,5,5,805.0,620.3
+Bakery,Breads & Buns,Coimbatore,South,Tamil Nadu,994,0.34,2015,12,8,377.72,258.32
+Beverages,Soft Drinks,Theni,South,Tamil Nadu,2281,0.26,2016,11,12,433.39,564.45
+Beverages,Health Drinks,Ramanadhapuram,East,Tamil Nadu,1691,0.22,2016,11,13,101.46,334.82
+Fruits & Veggies,Fresh Fruits,Theni,Central,Tamil Nadu,1859,0.28,2017,4,9,204.49,494.78
+Oil & Masala,Masalas,Dindigul,West,Tamil Nadu,1541,0.2,2017,11,12,600.99,399.54
+Beverages,Health Drinks,Ooty,West,Tamil Nadu,2405,0.19,2015,5,26,192.4,619.73
+Beverages,Soft Drinks,Madurai,East,Tamil Nadu,1103,0.13,2017,11,21,297.81,326.42
+Fruits & Veggies,Organic Fruits,Trichy,South,Tamil Nadu,1956,0.35,2016,10,12,136.92,494.84
+Food Grains,Organic Staples,Viluppuram,East,Tamil Nadu,568,0.25,2017,7,24,232.88,105.53
+Beverages,Health Drinks,Ramanadhapuram,South,Tamil Nadu,2493,0.35,2016,9,1,772.83,398.64
+Snacks,Noodles,Krishnagiri,South,Tamil Nadu,638,0.1,2018,1,26,121.22,171.12
+Oil & Masala,Masalas,Cumbum,West,Tamil Nadu,1901,0.12,2016,3,2,684.36,491.55
+Beverages,Health Drinks,Ooty,East,Tamil Nadu,1675,0.34,2017,5,28,268.0,404.87
+Beverages,Health Drinks,Cumbum,East,Tamil Nadu,2392,0.13,2016,2,8,143.52,660.99
+Fruits & Veggies,Fresh Vegetables,Tirunelveli,Central,Tamil Nadu,1845,0.26,2018,6,19,645.75,445.62
+Food Grains,Organic Staples,Dindigul,West,Tamil Nadu,854,0.18,2018,10,21,384.3,211.87
+Bakery,Biscuits,Viluppuram,Central,Tamil Nadu,2062,0.11,2018,8,27,371.16,560.56
+Snacks,Chocolates,Salem,South,Tamil Nadu,1846,0.12,2017,11,12,738.4,429.33
+Food Grains,Atta & Flour,Namakkal,West,Tamil Nadu,2076,0.24,2018,7,28,830.4,553.08
+Beverages,Health Drinks,Kanyakumari,South,Tamil Nadu,2027,0.34,2017,12,6,912.15,497.82
+Oil & Masala,Edible Oil & Ghee,Nagercoil,South,Tamil Nadu,1974,0.13,2015,11,30,335.58,557.41
+Snacks,Chocolates,Pudukottai,East,Tamil Nadu,818,0.16,2017,10,11,261.76,214.71
+Food Grains,Dals & Pulses,Pudukottai,West,Tamil Nadu,2286,0.16,2016,4,13,137.16,666.27
+Fruits & Veggies,Fresh Vegetables,Tirunelveli,South,Tamil Nadu,1288,0.1,2018,1,21,334.88,309.96
+Bakery,Biscuits,Salem,East,Tamil Nadu,1206,0.17,2017,12,8,373.86,259.23
+Bakery,Biscuits,Nagercoil,East,Tamil Nadu,1811,0.32,2017,6,18,488.97,429.03
+Snacks,Chocolates,Perambalur,West,Tamil Nadu,1579,0.26,2016,7,25,663.18,442.68
+Food Grains,Organic Staples,Ooty,West,Tamil Nadu,995,0.3,2017,6,14,238.8,317.43
+Food Grains,Atta & Flour,Madurai,Central,Tamil Nadu,2128,0.14,2016,1,31,383.04,488.19
+Oil & Masala,Spices,Karur,West,Tamil Nadu,979,0.21,2015,9,20,78.32,187.55
+Snacks,Chocolates,Pudukottai,West,Tamil Nadu,1385,0.33,2017,6,12,138.5,343.01
+Snacks,Chocolates,Viluppuram,South,Tamil Nadu,2000,0.17,2016,11,12,400.0,546.49
+"Eggs, Meat & Fish",Mutton,Chennai,Central,Tamil Nadu,1881,0.27,2015,12,26,432.63,509.86
+Fruits & Veggies,Fresh Vegetables,Virudhunagar,East,Tamil Nadu,1486,0.11,2018,12,7,653.84,368.31
+Food Grains,Organic Staples,Namakkal,East,Tamil Nadu,1406,0.14,2017,3,11,140.6,321.34
+Fruits & Veggies,Organic Vegetables,Trichy,East,Tamil Nadu,1318,0.32,2017,5,22,171.34,296.99
+"Eggs, Meat & Fish",Chicken,Chennai,East,Tamil Nadu,1188,0.35,2015,11,18,95.04,312.16
+Fruits & Veggies,Organic Vegetables,Kanyakumari,West,Tamil Nadu,2480,0.23,2018,12,8,694.4,590.1
+Food Grains,Organic Staples,Ramanadhapuram,Central,Tamil Nadu,1683,0.29,2018,9,17,589.05,391.48
+Food Grains,Organic Staples,Madurai,West,Tamil Nadu,2213,0.16,2015,12,29,531.12,654.56
+Snacks,Noodles,Nagercoil,South,Tamil Nadu,983,0.14,2015,3,18,226.09,281.77
+"Eggs, Meat & Fish",Eggs,Chennai,West,Tamil Nadu,740,0.14,2016,7,12,148.0,163.17
+Food Grains,Atta & Flour,Krishnagiri,Central,Tamil Nadu,885,0.1,2016,4,4,203.55,190.38
+Oil & Masala,Edible Oil & Ghee,Theni,West,Tamil Nadu,1668,0.1,2018,1,10,283.56,325.52
+Fruits & Veggies,Fresh Fruits,Perambalur,South,Tamil Nadu,1660,0.17,2017,11,28,730.4,448.2
+Food Grains,Dals & Pulses,Nagercoil,South,Tamil Nadu,531,0.23,2017,9,22,31.86,132.63
+Snacks,Noodles,Salem,West,Tamil Nadu,1497,0.33,2018,6,2,673.65,368.9
+Snacks,Chocolates,Chennai,East,Tamil Nadu,1898,0.19,2015,11,24,702.26,388.11
+Food Grains,Atta & Flour,Karur,East,Tamil Nadu,1874,0.32,2015,6,21,787.08,485.94
+Bakery,Cakes,Kanyakumari,West,Tamil Nadu,1244,0.26,2017,8,4,510.04,289.4
+Fruits & Veggies,Organic Fruits,Pudukottai,East,Tamil Nadu,1579,0.15,2018,7,15,189.48,447.72
+"Eggs, Meat & Fish",Eggs,Coimbatore,West,Tamil Nadu,595,0.21,2018,1,22,89.25,153.18
+"Eggs, Meat & Fish",Eggs,Vellore,Central,Tamil Nadu,1032,0.19,2018,5,29,185.76,250.76
+Snacks,Cookies,Madurai,South,Tamil Nadu,1533,0.14,2016,1,17,76.65,445.65
+Bakery,Cakes,Vellore,West,Tamil Nadu,607,0.19,2018,3,30,157.82,124.59
+Beverages,Soft Drinks,Krishnagiri,East,Tamil Nadu,774,0.3,2018,1,12,216.72,170.07
+Oil & Masala,Spices,Vellore,West,Tamil Nadu,2381,0.14,2018,7,21,333.34,532.74
+"Eggs, Meat & Fish",Mutton,Tenkasi,East,Tamil Nadu,1707,0.24,2015,11,14,170.7,385.56
+Oil & Masala,Masalas,Bodi,East,Tamil Nadu,2399,0.13,2016,3,5,479.8,640.76
+Beverages,Health Drinks,Vellore,South,Tamil Nadu,2239,0.1,2015,1,13,985.16,624.18
+Food Grains,Organic Staples,Dharmapuri,West,Tamil Nadu,2069,0.29,2016,8,9,558.63,479.04
+Snacks,Chocolates,Dindigul,Central,Tamil Nadu,1228,0.14,2018,5,23,319.28,353.9
+Bakery,Breads & Buns,Perambalur,Central,Tamil Nadu,2111,0.21,2017,5,4,189.99,429.22
+Beverages,Health Drinks,Krishnagiri,West,Tamil Nadu,1520,0.22,2015,1,13,243.2,405.03
+Snacks,Chocolates,Ramanadhapuram,East,Tamil Nadu,2125,0.11,2018,12,4,658.75,497.52
+Fruits & Veggies,Fresh Vegetables,Pudukottai,South,Tamil Nadu,793,0.28,2018,10,20,333.06,216.6
+Snacks,Cookies,Krishnagiri,Central,Tamil Nadu,1346,0.28,2016,2,4,296.12,320.76
+"Eggs, Meat & Fish",Chicken,Kanyakumari,Central,Tamil Nadu,1010,0.34,2018,3,7,101.0,252.47
+Food Grains,Rice,Viluppuram,West,Tamil Nadu,1238,0.22,2018,3,13,297.12,257.85
+Oil & Masala,Edible Oil & Ghee,Ooty,East,Tamil Nadu,1139,0.24,2018,4,12,136.68,288.05
+"Eggs, Meat & Fish",Chicken,Viluppuram,West,Tamil Nadu,2432,0.34,2017,3,11,267.52,674.89
+Fruits & Veggies,Organic Fruits,Karur,Central,Tamil Nadu,621,0.26,2017,12,12,223.56,185.83
+Beverages,Soft Drinks,Karur,Central,Tamil Nadu,1036,0.11,2017,2,5,331.52,240.03
+"Eggs, Meat & Fish",Chicken,Viluppuram,South,Tamil Nadu,1949,0.18,2015,1,13,760.11,510.25
+Beverages,Soft Drinks,Dindigul,Central,Tamil Nadu,1750,0.31,2017,11,24,175.0,487.33
+Snacks,Chocolates,Nagercoil,Central,Tamil Nadu,1649,0.12,2018,1,14,478.21,362.15
+Snacks,Noodles,Nagercoil,East,Tamil Nadu,2475,0.14,2018,6,19,470.25,696.18
+Fruits & Veggies,Fresh Vegetables,Karur,South,Tamil Nadu,2097,0.26,2018,2,12,880.74,568.33
+Bakery,Biscuits,Karur,South,Tamil Nadu,805,0.27,2017,10,22,193.2,188.06
+Bakery,Breads & Buns,Ramanadhapuram,East,Tamil Nadu,1490,0.19,2017,12,11,253.3,371.61
+Snacks,Noodles,Krishnagiri,Central,Tamil Nadu,945,0.13,2018,5,29,245.7,226.93
+Food Grains,Atta & Flour,Viluppuram,East,Tamil Nadu,823,0.29,2015,11,17,98.76,209.95
+"Eggs, Meat & Fish",Mutton,Krishnagiri,South,Tamil Nadu,889,0.21,2016,6,23,293.37,264.75
+Oil & Masala,Edible Oil & Ghee,Kanyakumari,East,Tamil Nadu,1622,0.32,2017,11,13,308.18,380.36
+Oil & Masala,Spices,Chennai,Central,Tamil Nadu,600,0.3,2018,10,28,72.0,154.33
+"Eggs, Meat & Fish",Eggs,Tirunelveli,South,Tamil Nadu,556,0.21,2018,11,23,155.68,109.43
+Snacks,Noodles,Kanyakumari,South,Tamil Nadu,1087,0.34,2015,8,19,141.31,264.28
+Food Grains,Organic Staples,Krishnagiri,Central,Tamil Nadu,816,0.24,2018,9,21,155.04,171.84
+Beverages,Soft Drinks,Tirunelveli,East,Tamil Nadu,622,0.24,2018,9,15,37.32,167.71
+Fruits & Veggies,Fresh Fruits,Virudhunagar,West,Tamil Nadu,2457,0.1,2016,3,19,515.97,527.19
+Snacks,Cookies,Coimbatore,South,Tamil Nadu,1234,0.16,2015,3,17,308.5,318.87
+Food Grains,Organic Staples,Bodi,West,Tamil Nadu,2459,0.24,2017,9,26,786.88,565.27
+Food Grains,Dals & Pulses,Karur,West,Tamil Nadu,2171,0.23,2017,3,11,933.53,521.24
+Snacks,Cookies,Dindigul,West,Tamil Nadu,2461,0.18,2018,6,24,393.76,644.39
+"Eggs, Meat & Fish",Eggs,Ooty,East,Tamil Nadu,647,0.27,2017,3,13,226.45,202.54
+Fruits & Veggies,Fresh Vegetables,Krishnagiri,West,Tamil Nadu,1093,0.21,2015,12,29,295.11,289.76
+Food Grains,Rice,Namakkal,Central,Tamil Nadu,760,0.17,2016,2,15,235.6,166.9
+Bakery,Breads & Buns,Bodi,West,Tamil Nadu,920,0.16,2015,10,31,303.6,230.88
+Food Grains,Dals & Pulses,Theni,East,Tamil Nadu,1419,0.26,2017,7,28,85.14,376.92
+"Eggs, Meat & Fish",Fish,Ooty,West,Tamil Nadu,2004,0.28,2017,4,19,340.68,561.45
+Oil & Masala,Masalas,Tenkasi,East,Tamil Nadu,2082,0.22,2018,9,12,541.32,610.68
+Oil & Masala,Edible Oil & Ghee,Vellore,East,Tamil Nadu,2365,0.28,2018,4,14,733.15,582.63
+Snacks,Chocolates,Tenkasi,West,Tamil Nadu,1943,0.24,2016,9,25,408.03,510.9
+Fruits & Veggies,Organic Vegetables,Ramanadhapuram,South,Tamil Nadu,1633,0.17,2015,6,12,195.96,420.01
+Fruits & Veggies,Fresh Vegetables,Dindigul,East,Tamil Nadu,2035,0.29,2017,5,6,834.35,351.42
+Snacks,Chocolates,Ooty,West,Tamil Nadu,2230,0.19,2015,12,12,468.3,497.94
+"Eggs, Meat & Fish",Fish,Trichy,Central,Tamil Nadu,2459,0.34,2018,7,29,1008.19,532.11
+Fruits & Veggies,Fresh Fruits,Kanyakumari,South,Tamil Nadu,1827,0.29,2018,1,5,694.26,494.1
+Snacks,Cookies,Salem,East,Tamil Nadu,1562,0.32,2015,11,19,249.92,374.61
+Food Grains,Rice,Krishnagiri,Central,Tamil Nadu,1653,0.14,2016,11,12,247.95,402.97
+Oil & Masala,Edible Oil & Ghee,Tirunelveli,West,Tamil Nadu,2370,0.19,2015,11,17,663.6,636.29
+Beverages,Health Drinks,Salem,Central,Tamil Nadu,797,0.19,2015,6,20,191.28,176.12
+Snacks,Chocolates,Nagercoil,East,Tamil Nadu,510,0.3,2018,6,10,193.8,91.82
+Oil & Masala,Spices,Chennai,South,Tamil Nadu,1014,0.3,2015,10,21,81.12,210.51
+Snacks,Noodles,Vellore,West,Tamil Nadu,2355,0.18,2018,8,6,894.9,665.18
+Bakery,Cakes,Karur,West,Tamil Nadu,1735,0.14,2018,2,18,381.7,329.91
+"Eggs, Meat & Fish",Mutton,Cumbum,South,Tamil Nadu,2203,0.3,2016,9,18,176.24,562.93
+Food Grains,Organic Staples,Nagercoil,West,Tamil Nadu,770,0.34,2017,10,21,331.1,183.22
+Beverages,Soft Drinks,Vellore,West,Tamil Nadu,1511,0.11,2018,3,5,120.88,363.26
+Beverages,Health Drinks,Vellore,West,Tamil Nadu,2009,0.35,2018,2,11,562.52,508.84
+Snacks,Cookies,Tenkasi,West,Tamil Nadu,795,0.34,2017,8,16,286.2,190.98
+Beverages,Health Drinks,Pudukottai,West,Tamil Nadu,867,0.29,2015,12,12,286.11,219.43
+Beverages,Soft Drinks,Krishnagiri,South,Tamil Nadu,1721,0.32,2018,10,16,206.52,438.13
+Food Grains,Atta & Flour,Pudukottai,West,Tamil Nadu,1071,0.17,2018,4,13,278.46,235.76
+Bakery,Breads & Buns,Coimbatore,East,Tamil Nadu,792,0.34,2016,11,27,324.72,215.45
+Fruits & Veggies,Fresh Vegetables,Virudhunagar,East,Tamil Nadu,721,0.12,2015,11,19,324.45,140.53
+Snacks,Chocolates,Salem,Central,Tamil Nadu,1061,0.29,2015,9,7,392.57,309.72
+Fruits & Veggies,Organic Vegetables,Tirunelveli,West,Tamil Nadu,2044,0.14,2015,4,18,633.64,469.03
+Beverages,Health Drinks,Virudhunagar,Central,Tamil Nadu,2440,0.34,2018,2,7,756.4,490.99
+Oil & Masala,Spices,Chennai,Central,Tamil Nadu,506,0.21,2018,6,19,96.14,112.51
+Bakery,Biscuits,Dharmapuri,Central,Tamil Nadu,2389,0.35,2016,12,6,215.01,476.06
+Oil & Masala,Spices,Nagercoil,Central,Tamil Nadu,708,0.35,2017,4,15,184.08,166.56
+Bakery,Breads & Buns,Salem,South,Tamil Nadu,1013,0.3,2018,9,18,395.07,249.24
+"Eggs, Meat & Fish",Mutton,Virudhunagar,East,Tamil Nadu,540,0.17,2016,11,8,37.8,92.8
+"Eggs, Meat & Fish",Eggs,Cumbum,Central,Tamil Nadu,1482,0.19,2016,11,29,340.86,405.5
+Oil & Masala,Spices,Bodi,West,Tamil Nadu,1296,0.17,2018,2,20,466.56,295.29
+Bakery,Biscuits,Ramanadhapuram,South,Tamil Nadu,568,0.14,2018,10,20,176.08,120.01
+Snacks,Cookies,Salem,East,Tamil Nadu,1869,0.27,2015,6,4,616.77,425.67
+"Eggs, Meat & Fish",Fish,Dharmapuri,West,Tamil Nadu,1536,0.2,2017,2,6,537.6,404.26
+Oil & Masala,Spices,Dindigul,Central,Tamil Nadu,704,0.21,2016,5,12,133.76,141.73
+Beverages,Health Drinks,Ramanadhapuram,West,Tamil Nadu,1534,0.11,2017,8,26,475.54,334.79
+Oil & Masala,Edible Oil & Ghee,Cumbum,Central,Tamil Nadu,2023,0.21,2017,2,10,586.67,452.15
+Oil & Masala,Spices,Dharmapuri,East,Tamil Nadu,1869,0.26,2017,8,26,579.39,493.39
+Fruits & Veggies,Organic Fruits,Dharmapuri,East,Tamil Nadu,1694,0.25,2015,8,25,525.14,386.4
+Fruits & Veggies,Organic Fruits,Ramanadhapuram,West,Tamil Nadu,1752,0.12,2016,11,17,297.84,391.85
+Snacks,Cookies,Pudukottai,South,Tamil Nadu,814,0.14,2017,1,5,113.96,190.53
+Bakery,Biscuits,Krishnagiri,West,Tamil Nadu,931,0.31,2016,9,18,418.95,247.54
+Snacks,Noodles,Ooty,West,Tamil Nadu,1332,0.17,2017,4,24,239.76,318.8
+Fruits & Veggies,Fresh Fruits,Kanyakumari,West,Tamil Nadu,2413,0.28,2018,5,2,1037.59,523.06
+Fruits & Veggies,Organic Fruits,Tenkasi,Central,Tamil Nadu,1850,0.29,2018,11,26,777.0,384.85
+Beverages,Soft Drinks,Virudhunagar,South,Tamil Nadu,899,0.23,2016,3,21,143.84,197.86
+Food Grains,Organic Staples,Trichy,South,Tamil Nadu,1892,0.22,2016,4,20,567.6,589.25
+Beverages,Health Drinks,Chennai,West,Tamil Nadu,1100,0.15,2017,6,20,308.0,318.39
+Oil & Masala,Masalas,Pudukottai,Central,Tamil Nadu,2322,0.1,2017,8,3,348.3,579.23
+Oil & Masala,Masalas,Dharmapuri,East,Tamil Nadu,1178,0.35,2015,7,19,141.36,311.66
+Beverages,Soft Drinks,Namakkal,East,Tamil Nadu,2233,0.19,2018,12,27,870.87,571.97
+Beverages,Health Drinks,Madurai,West,Tamil Nadu,1312,0.16,2018,2,12,524.8,260.83
+Snacks,Noodles,Madurai,South,Tamil Nadu,1318,0.28,2017,12,23,329.5,362.59
+Bakery,Biscuits,Perambalur,Central,Tamil Nadu,1904,0.27,2015,7,26,95.2,536.26
+Bakery,Cakes,Bodi,West,Tamil Nadu,2333,0.13,2018,7,9,839.88,604.93
+Bakery,Biscuits,Dindigul,South,Tamil Nadu,752,0.21,2018,6,8,255.68,141.21
+Bakery,Cakes,Coimbatore,Central,Tamil Nadu,2470,0.12,2017,2,9,197.6,636.89
+Beverages,Health Drinks,Virudhunagar,West,Tamil Nadu,1036,0.13,2018,12,22,424.76,304.53
+Beverages,Soft Drinks,Karur,Central,Tamil Nadu,1457,0.19,2017,5,9,553.66,405.5
+Fruits & Veggies,Fresh Fruits,Karur,South,Tamil Nadu,615,0.35,2016,4,16,221.4,139.66
+Oil & Masala,Edible Oil & Ghee,Kanyakumari,East,Tamil Nadu,2234,0.28,2018,12,24,938.28,509.39
+"Eggs, Meat & Fish",Fish,Tenkasi,West,Tamil Nadu,2157,0.15,2015,6,17,237.27,470.17
+Oil & Masala,Spices,Bodi,West,Tamil Nadu,937,0.25,2016,11,16,168.66,249.11
+Snacks,Chocolates,Viluppuram,Central,Tamil Nadu,1024,0.2,2016,7,11,368.64,251.64
+Oil & Masala,Spices,Karur,Central,Tamil Nadu,904,0.3,2018,4,21,153.68,215.57
+Bakery,Biscuits,Chennai,East,Tamil Nadu,605,0.21,2018,2,24,139.15,161.2
+"Eggs, Meat & Fish",Fish,Madurai,West,Tamil Nadu,527,0.13,2018,3,13,226.61,140.84
+"Eggs, Meat & Fish",Eggs,Pudukottai,West,Tamil Nadu,1878,0.18,2015,5,27,131.46,539.23
+Fruits & Veggies,Fresh Fruits,Pudukottai,East,Tamil Nadu,1893,0.22,2017,4,9,700.41,552.57
+Snacks,Cookies,Vellore,West,Tamil Nadu,2220,0.33,2017,7,21,688.2,586.91
+Oil & Masala,Masalas,Vellore,West,Tamil Nadu,2386,0.18,2017,10,24,190.88,549.46
+Snacks,Noodles,Karur,East,Tamil Nadu,1442,0.25,2015,9,30,115.36,443.76
+Oil & Masala,Edible Oil & Ghee,Bodi,Central,Tamil Nadu,690,0.33,2018,7,8,41.4,165.21
+Beverages,Soft Drinks,Pudukottai,West,Tamil Nadu,1087,0.25,2016,1,8,86.96,294.92
+Bakery,Cakes,Virudhunagar,East,Tamil Nadu,632,0.29,2017,2,12,221.2,123.24
+"Eggs, Meat & Fish",Chicken,Kanyakumari,Central,Tamil Nadu,831,0.22,2016,11,22,207.75,197.57
+"Eggs, Meat & Fish",Mutton,Virudhunagar,East,Tamil Nadu,951,0.17,2016,8,3,133.14,207.74
+Snacks,Chocolates,Tenkasi,West,Tamil Nadu,2198,0.13,2016,12,24,945.14,495.36
+Snacks,Chocolates,Karur,West,Tamil Nadu,1161,0.32,2018,11,14,441.18,301.77
+"Eggs, Meat & Fish",Eggs,Viluppuram,West,Tamil Nadu,1234,0.1,2018,2,26,271.48,306.14
+Beverages,Health Drinks,Karur,South,Tamil Nadu,1722,0.31,2017,8,12,154.98,445.56
+Beverages,Health Drinks,Nagercoil,West,Tamil Nadu,1419,0.21,2017,4,8,340.56,362.06
+Fruits & Veggies,Fresh Fruits,Pudukottai,East,Tamil Nadu,1693,0.11,2017,1,25,474.04,405.87
+Oil & Masala,Spices,Salem,Central,Tamil Nadu,1230,0.11,2016,10,24,467.4,266.03
+Oil & Masala,Spices,Nagercoil,West,Tamil Nadu,1183,0.17,2018,5,19,414.05,296.75
+Bakery,Breads & Buns,Nagercoil,East,Tamil Nadu,2029,0.35,2017,4,25,608.7,566.13
+Oil & Masala,Spices,Viluppuram,West,Tamil Nadu,2260,0.15,2016,8,31,339.0,563.49
+"Eggs, Meat & Fish",Fish,Dharmapuri,Central,Tamil Nadu,1772,0.3,2015,11,2,230.36,458.13
+Snacks,Noodles,Virudhunagar,South,Tamil Nadu,1285,0.15,2017,10,21,295.55,420.31
+Food Grains,Dals & Pulses,Ooty,Central,Tamil Nadu,1934,0.11,2018,11,7,135.38,523.28
+Beverages,Health Drinks,Tenkasi,West,Tamil Nadu,2234,0.31,2017,9,20,580.84,551.58
+Bakery,Biscuits,Pudukottai,West,Tamil Nadu,997,0.26,2018,10,13,239.28,282.44
+Beverages,Soft Drinks,Theni,Central,Tamil Nadu,1836,0.17,2015,9,19,275.4,461.44
+Oil & Masala,Masalas,Dharmapuri,Central,Tamil Nadu,2008,0.19,2017,3,3,702.8,415.46
+Bakery,Breads & Buns,Kanyakumari,West,Tamil Nadu,2000,0.27,2017,3,24,100.0,530.78
+"Eggs, Meat & Fish",Chicken,Cumbum,West,Tamil Nadu,2310,0.14,2018,10,19,392.7,554.87
+Fruits & Veggies,Fresh Fruits,Trichy,East,Tamil Nadu,2147,0.23,2017,7,5,901.74,509.35
+Oil & Masala,Spices,Bodi,West,Tamil Nadu,1986,0.24,2017,7,17,496.5,456.85
+Food Grains,Atta & Flour,Coimbatore,East,Tamil Nadu,775,0.2,2018,10,3,124.0,245.35
+Snacks,Chocolates,Madurai,East,Tamil Nadu,1588,0.23,2018,12,6,285.84,403.16
+Fruits & Veggies,Organic Fruits,Theni,Central,Tamil Nadu,2156,0.33,2015,12,7,668.36,546.35
+Oil & Masala,Edible Oil & Ghee,Namakkal,East,Tamil Nadu,1602,0.31,2017,1,22,224.28,343.1
+Snacks,Chocolates,Theni,East,Tamil Nadu,1102,0.3,2018,3,4,495.9,254.19
+"Eggs, Meat & Fish",Mutton,Bodi,West,Tamil Nadu,1299,0.29,2017,10,1,389.7,368.91
+Bakery,Biscuits,Kanyakumari,Central,Tamil Nadu,1937,0.24,2017,3,3,406.77,406.23
+Bakery,Cakes,Perambalur,West,Tamil Nadu,2324,0.26,2015,9,29,581.0,562.55
+Oil & Masala,Masalas,Ramanadhapuram,West,Tamil Nadu,2308,0.27,2015,1,4,369.28,601.37
+Beverages,Soft Drinks,Virudhunagar,West,Tamil Nadu,2410,0.22,2015,11,15,241.0,582.22
+"Eggs, Meat & Fish",Mutton,Ramanadhapuram,East,Tamil Nadu,2439,0.21,2017,10,21,658.53,676.4
+Bakery,Cakes,Nagercoil,South,Tamil Nadu,2229,0.24,2018,2,10,334.35,615.87
+"Eggs, Meat & Fish",Fish,Cumbum,Central,Tamil Nadu,1219,0.18,2018,8,15,414.46,314.25
+Food Grains,Organic Staples,Namakkal,South,Tamil Nadu,1273,0.24,2017,5,9,343.71,309.06
+Snacks,Chocolates,Theni,Central,Tamil Nadu,2261,0.33,2015,11,2,610.47,541.17
+Bakery,Breads & Buns,Dharmapuri,West,Tamil Nadu,711,0.18,2016,11,14,56.88,159.28
+Fruits & Veggies,Organic Fruits,Krishnagiri,West,Tamil Nadu,703,0.13,2017,7,19,105.45,193.7
+Beverages,Soft Drinks,Kanyakumari,East,Tamil Nadu,1377,0.35,2015,5,21,165.24,369.81
+Snacks,Chocolates,Cumbum,Central,Tamil Nadu,2253,0.14,2018,11,12,292.89,630.86
+Food Grains,Rice,Ooty,East,Tamil Nadu,1398,0.12,2015,1,16,139.8,349.98
+Oil & Masala,Edible Oil & Ghee,Cumbum,East,Tamil Nadu,1733,0.34,2015,2,3,675.87,418.82
+Bakery,Cakes,Chennai,East,Tamil Nadu,2432,0.29,2018,9,4,753.92,583.07
+Fruits & Veggies,Organic Vegetables,Namakkal,East,Tamil Nadu,2052,0.32,2017,3,5,266.76,476.51
+Fruits & Veggies,Fresh Fruits,Karur,Central,Tamil Nadu,1808,0.34,2016,4,16,578.56,447.36
+Beverages,Health Drinks,Coimbatore,Central,Tamil Nadu,947,0.3,2017,1,9,132.58,241.1
+Food Grains,Rice,Virudhunagar,South,Tamil Nadu,604,0.11,2017,12,4,36.24,149.05
+"Eggs, Meat & Fish",Mutton,Pudukottai,West,Tamil Nadu,1186,0.26,2017,12,9,59.3,289.33
+Bakery,Breads & Buns,Vellore,West,Tamil Nadu,653,0.12,2015,10,11,267.73,115.97
+Snacks,Cookies,Tenkasi,East,Tamil Nadu,2226,0.3,2015,7,27,868.14,582.18
+Food Grains,Organic Staples,Cumbum,West,Tamil Nadu,912,0.26,2016,4,13,72.96,180.59
+"Eggs, Meat & Fish",Fish,Madurai,West,Tamil Nadu,779,0.35,2017,8,21,350.55,212.4
+Fruits & Veggies,Fresh Fruits,Pudukottai,South,Tamil Nadu,1376,0.15,2017,7,16,509.12,322.0
+Oil & Masala,Spices,Cumbum,South,Tamil Nadu,2376,0.3,2017,5,2,926.64,562.07
+Beverages,Soft Drinks,Coimbatore,Central,Tamil Nadu,1527,0.17,2017,8,29,671.88,340.85
+Snacks,Noodles,Kanyakumari,South,Tamil Nadu,2213,0.1,2017,12,30,553.25,687.72
+Bakery,Biscuits,Tenkasi,East,Tamil Nadu,2377,0.27,2016,4,16,594.25,551.9
+Snacks,Cookies,Tenkasi,Central,Tamil Nadu,2090,0.25,2018,11,19,292.6,586.02
+Fruits & Veggies,Organic Fruits,Ooty,Central,Tamil Nadu,1250,0.27,2018,9,12,75.0,355.72
+Beverages,Soft Drinks,Dindigul,West,Tamil Nadu,1514,0.1,2016,10,8,439.06,357.85
+Fruits & Veggies,Fresh Fruits,Ramanadhapuram,West,Tamil Nadu,1757,0.24,2018,2,13,140.56,357.15
+Beverages,Health Drinks,Cumbum,East,Tamil Nadu,972,0.33,2018,1,6,408.24,256.58
+Food Grains,Dals & Pulses,Kanyakumari,West,Tamil Nadu,1593,0.24,2017,11,6,461.97,384.11
+Bakery,Breads & Buns,Dindigul,South,Tamil Nadu,1546,0.26,2016,9,3,108.22,404.72
+Food Grains,Dals & Pulses,Krishnagiri,East,Tamil Nadu,1863,0.15,2016,5,31,670.68,480.86
+"Eggs, Meat & Fish",Mutton,Namakkal,Central,Tamil Nadu,1596,0.26,2015,10,29,478.8,403.94
+Snacks,Cookies,Chennai,West,Tamil Nadu,1966,0.18,2018,9,19,845.38,582.63
+Snacks,Cookies,Nagercoil,Central,Tamil Nadu,1073,0.21,2018,9,18,300.44,281.87
+Beverages,Soft Drinks,Virudhunagar,West,Tamil Nadu,2266,0.35,2017,12,26,657.14,511.39
+"Eggs, Meat & Fish",Mutton,Madurai,West,Tamil Nadu,1677,0.35,2017,3,28,620.49,427.66
+Fruits & Veggies,Organic Vegetables,Pudukottai,East,Tamil Nadu,1113,0.21,2018,8,7,356.16,315.0
+Bakery,Biscuits,Salem,West,Tamil Nadu,1088,0.2,2017,11,12,446.08,293.06
+Fruits & Veggies,Fresh Vegetables,Tirunelveli,West,Tamil Nadu,1905,0.27,2018,1,8,476.25,542.79
+Food Grains,Organic Staples,Ramanadhapuram,Central,Tamil Nadu,1639,0.2,2018,3,13,229.46,428.25
+Beverages,Soft Drinks,Madurai,West,Tamil Nadu,801,0.12,2016,6,28,184.23,190.93
+Food Grains,Rice,Ooty,South,Tamil Nadu,528,0.2,2015,8,27,232.32,142.23
+Snacks,Noodles,Salem,West,Tamil Nadu,1875,0.21,2018,12,18,431.25,460.85
+Oil & Masala,Spices,Krishnagiri,East,Tamil Nadu,795,0.15,2017,3,31,127.2,261.4
+Beverages,Soft Drinks,Tenkasi,West,Tamil Nadu,533,0.26,2016,12,12,159.9,137.85
+Beverages,Health Drinks,Theni,Central,Tamil Nadu,2120,0.13,2018,1,29,763.2,600.78
+Fruits & Veggies,Fresh Vegetables,Dharmapuri,South,Tamil Nadu,896,0.25,2016,11,10,89.6,153.47
+"Eggs, Meat & Fish",Fish,Theni,West,Tamil Nadu,525,0.34,2017,4,24,168.0,137.57
+Snacks,Chocolates,Pudukottai,West,Tamil Nadu,1150,0.29,2016,9,28,425.5,302.07
+"Eggs, Meat & Fish",Fish,Trichy,East,Tamil Nadu,1065,0.11,2015,6,21,372.75,278.6
+"Eggs, Meat & Fish",Fish,Kanyakumari,West,Tamil Nadu,1268,0.33,2016,5,25,405.76,303.85
+Food Grains,Rice,Nagercoil,West,Tamil Nadu,654,0.29,2018,7,17,65.4,170.99
+"Eggs, Meat & Fish",Mutton,Theni,South,Tamil Nadu,1747,0.17,2018,6,1,209.64,421.22
+Food Grains,Rice,Chennai,East,Tamil Nadu,1244,0.14,2017,11,20,497.6,274.76
+Fruits & Veggies,Fresh Vegetables,Bodi,Central,Tamil Nadu,1608,0.13,2016,8,28,498.48,400.92
+"Eggs, Meat & Fish",Eggs,Virudhunagar,East,Tamil Nadu,2190,0.1,2016,6,12,547.5,603.73
+Snacks,Cookies,Nagercoil,West,Tamil Nadu,746,0.27,2016,11,7,164.12,222.96
+"Eggs, Meat & Fish",Chicken,Kanyakumari,West,Tamil Nadu,2341,0.31,2018,5,15,117.05,522.77
+Snacks,Noodles,Virudhunagar,Central,Tamil Nadu,2000,0.34,2016,1,19,460.0,510.64
+Beverages,Health Drinks,Kanyakumari,West,Tamil Nadu,2078,0.27,2015,11,11,851.98,545.83
+"Eggs, Meat & Fish",Fish,Theni,East,Tamil Nadu,1565,0.3,2016,9,7,203.45,314.29
+Bakery,Breads & Buns,Nagercoil,East,Tamil Nadu,2109,0.22,2016,9,8,274.17,529.07
+Beverages,Health Drinks,Bodi,Central,Tamil Nadu,1949,0.34,2018,6,13,779.6,443.8
+"Eggs, Meat & Fish",Eggs,Ooty,Central,Tamil Nadu,1293,0.2,2018,11,27,297.39,302.28
+"Eggs, Meat & Fish",Eggs,Salem,East,Tamil Nadu,2030,0.2,2015,10,18,162.4,426.8
+Snacks,Chocolates,Madurai,West,Tamil Nadu,1694,0.31,2015,3,18,677.6,361.88
+Oil & Masala,Edible Oil & Ghee,Krishnagiri,East,Tamil Nadu,2127,0.31,2017,2,21,191.43,539.68
+Food Grains,Atta & Flour,Karur,East,Tamil Nadu,1090,0.34,2017,2,5,65.4,241.28
+Food Grains,Rice,Bodi,West,Tamil Nadu,2050,0.14,2015,12,7,389.5,440.56
+Oil & Masala,Masalas,Pudukottai,East,Tamil Nadu,1820,0.23,2017,1,4,637.0,557.99
+Bakery,Breads & Buns,Krishnagiri,Central,Tamil Nadu,1279,0.3,2015,7,21,306.96,317.93
+"Eggs, Meat & Fish",Eggs,Madurai,South,Tamil Nadu,1267,0.21,2016,6,13,76.02,275.02
+Fruits & Veggies,Organic Fruits,Cumbum,West,Tamil Nadu,1430,0.19,2017,10,13,514.8,306.82
+Bakery,Cakes,Ramanadhapuram,South,Tamil Nadu,1636,0.33,2018,11,15,130.88,413.85
+Snacks,Cookies,Kanyakumari,Central,Tamil Nadu,560,0.11,2015,6,20,95.2,162.27
+Food Grains,Organic Staples,Namakkal,Central,Tamil Nadu,1752,0.24,2017,9,24,438.0,358.94
+Fruits & Veggies,Fresh Vegetables,Pudukottai,Central,Tamil Nadu,505,0.33,2018,11,25,126.25,129.48
+Snacks,Chocolates,Ramanadhapuram,West,Tamil Nadu,826,0.18,2015,7,23,82.6,219.05
+Beverages,Soft Drinks,Namakkal,South,Tamil Nadu,1032,0.26,2017,5,11,206.4,270.37
+Snacks,Chocolates,Salem,West,Tamil Nadu,878,0.16,2017,10,3,175.6,217.91
+Fruits & Veggies,Fresh Vegetables,Trichy,South,Tamil Nadu,2091,0.21,2018,6,13,836.4,502.11
+Fruits & Veggies,Organic Fruits,Krishnagiri,Central,Tamil Nadu,860,0.11,2018,12,14,215.0,202.74
+Oil & Masala,Spices,Dharmapuri,South,Tamil Nadu,1111,0.31,2017,4,9,388.85,262.49
+Snacks,Noodles,Kanyakumari,East,Tamil Nadu,1039,0.31,2018,4,4,166.24,259.51
+Bakery,Biscuits,Trichy,West,Tamil Nadu,2429,0.11,2018,11,21,1093.05,468.58
+Oil & Masala,Edible Oil & Ghee,Dindigul,West,Tamil Nadu,2384,0.32,2015,10,12,596.0,595.98
+Beverages,Soft Drinks,Salem,East,Tamil Nadu,1528,0.28,2018,8,9,106.96,313.56
+Fruits & Veggies,Fresh Vegetables,Namakkal,East,Tamil Nadu,2139,0.35,2015,11,29,513.36,569.18
+"Eggs, Meat & Fish",Eggs,Perambalur,West,Tamil Nadu,718,0.27,2015,11,11,244.12,164.38
+Bakery,Cakes,Kanyakumari,West,Tamil Nadu,611,0.19,2018,7,9,30.55,160.09
+Fruits & Veggies,Organic Fruits,Karur,East,Tamil Nadu,711,0.3,2018,9,20,255.96,186.75
+Beverages,Soft Drinks,Nagercoil,East,Tamil Nadu,1795,0.31,2018,4,20,574.4,515.57
+"Eggs, Meat & Fish",Chicken,Krishnagiri,West,Tamil Nadu,2230,0.29,2015,12,12,802.8,516.35
+Snacks,Noodles,Karur,East,Tamil Nadu,2133,0.12,2017,8,30,490.59,649.2
+Fruits & Veggies,Organic Fruits,Karur,West,Tamil Nadu,1955,0.17,2017,12,11,762.45,556.29
+Snacks,Noodles,Perambalur,West,Tamil Nadu,1399,0.26,2018,1,21,307.78,301.48
+"Eggs, Meat & Fish",Mutton,Trichy,South,Tamil Nadu,2003,0.12,2017,7,25,220.33,537.74
+Beverages,Soft Drinks,Tenkasi,South,Tamil Nadu,2306,0.14,2015,3,19,553.44,639.9
+Bakery,Biscuits,Salem,Central,Tamil Nadu,1512,0.25,2016,12,20,151.2,333.46
+Beverages,Soft Drinks,Tirunelveli,South,Tamil Nadu,2478,0.1,2017,1,5,941.64,577.74
+"Eggs, Meat & Fish",Fish,Tirunelveli,South,Tamil Nadu,2129,0.28,2016,9,17,638.7,510.3
+Snacks,Cookies,Coimbatore,West,Tamil Nadu,610,0.21,2015,7,3,54.9,164.03
+Beverages,Health Drinks,Coimbatore,West,Tamil Nadu,2188,0.21,2016,4,14,700.16,555.97
+Snacks,Noodles,Vellore,West,Tamil Nadu,1206,0.17,2018,1,20,144.72,314.0
+"Eggs, Meat & Fish",Chicken,Krishnagiri,East,Tamil Nadu,2418,0.15,2016,12,27,145.08,604.16
+Snacks,Cookies,Virudhunagar,West,Tamil Nadu,1940,0.11,2018,9,23,679.0,463.8
+Beverages,Soft Drinks,Pudukottai,South,Tamil Nadu,639,0.2,2017,9,8,191.7,158.15
+"Eggs, Meat & Fish",Fish,Chennai,East,Tamil Nadu,2253,0.33,2016,7,12,901.2,592.65
+Oil & Masala,Spices,Chennai,East,Tamil Nadu,993,0.29,2017,1,23,436.92,238.77
+Fruits & Veggies,Organic Vegetables,Nagercoil,East,Tamil Nadu,2370,0.21,2018,11,17,545.1,681.88
+Food Grains,Organic Staples,Dharmapuri,West,Tamil Nadu,2269,0.34,2017,8,7,839.53,459.62
+Food Grains,Dals & Pulses,Theni,West,Tamil Nadu,1253,0.27,2016,12,25,400.96,396.02
+"Eggs, Meat & Fish",Chicken,Salem,West,Tamil Nadu,791,0.17,2018,5,12,55.37,179.43
+Snacks,Noodles,Virudhunagar,West,Tamil Nadu,862,0.27,2018,10,6,370.66,204.97
+"Eggs, Meat & Fish",Chicken,Krishnagiri,Central,Tamil Nadu,557,0.24,2016,6,8,144.82,181.93
+Oil & Masala,Spices,Theni,East,Tamil Nadu,1331,0.19,2015,6,21,598.95,302.16
+Fruits & Veggies,Fresh Vegetables,Virudhunagar,South,Tamil Nadu,852,0.33,2016,7,5,213.0,201.8
+Fruits & Veggies,Organic Fruits,Vellore,West,Tamil Nadu,843,0.12,2017,4,13,143.31,210.43
+Bakery,Biscuits,Bodi,Central,Tamil Nadu,1651,0.11,2015,11,4,115.57,391.39
+Food Grains,Rice,Kanyakumari,Central,Tamil Nadu,1211,0.1,2017,5,30,121.1,307.87
+Beverages,Soft Drinks,Salem,West,Tamil Nadu,557,0.22,2016,8,3,194.95,172.26
+Oil & Masala,Spices,Pudukottai,South,Tamil Nadu,2280,0.17,2017,10,11,319.2,618.23
+Snacks,Chocolates,Vellore,West,Tamil Nadu,1095,0.32,2016,12,13,481.8,297.92
+Bakery,Breads & Buns,Perambalur,West,Tamil Nadu,1637,0.2,2017,6,14,130.96,491.69
+Bakery,Cakes,Virudhunagar,Central,Tamil Nadu,1724,0.13,2017,9,24,241.36,352.75
+Food Grains,Dals & Pulses,Madurai,West,Tamil Nadu,1126,0.26,2017,6,12,157.64,275.32
+Beverages,Health Drinks,Vellore,West,Tamil Nadu,2055,0.22,2018,8,21,924.75,605.18
+Bakery,Breads & Buns,Perambalur,East,Tamil Nadu,1748,0.3,2016,10,16,751.64,468.93
+Food Grains,Rice,Pudukottai,West,Tamil Nadu,1849,0.31,2016,4,18,184.9,561.0
+Beverages,Health Drinks,Chennai,West,Tamil Nadu,969,0.23,2016,9,18,174.42,255.42
+Fruits & Veggies,Fresh Fruits,Ooty,West,Tamil Nadu,635,0.19,2018,11,19,215.9,174.49
+Fruits & Veggies,Organic Fruits,Tenkasi,Central,Tamil Nadu,784,0.25,2018,11,23,109.76,225.97
+Beverages,Health Drinks,Kanyakumari,South,Tamil Nadu,2000,0.16,2018,11,25,880.0,423.22
+Bakery,Biscuits,Trichy,East,Tamil Nadu,1932,0.25,2017,12,14,425.04,447.38
+"Eggs, Meat & Fish",Mutton,Tenkasi,Central,Tamil Nadu,2403,0.2,2018,12,22,624.78,587.02
+Oil & Masala,Edible Oil & Ghee,Theni,East,Tamil Nadu,2459,0.34,2018,12,11,319.67,464.58
+Oil & Masala,Edible Oil & Ghee,Ooty,South,Tamil Nadu,1576,0.19,2018,4,5,267.92,412.11
+Fruits & Veggies,Organic Fruits,Dindigul,Central,Tamil Nadu,532,0.25,2018,5,15,175.56,151.54
+Oil & Masala,Edible Oil & Ghee,Nagercoil,East,Tamil Nadu,2227,0.23,2017,10,27,133.62,636.44
+Food Grains,Organic Staples,Bodi,South,Tamil Nadu,2126,0.35,2018,10,30,850.4,618.52
+Fruits & Veggies,Organic Fruits,Tenkasi,South,Tamil Nadu,832,0.15,2015,10,18,41.6,227.91
+Beverages,Health Drinks,Virudhunagar,East,Tamil Nadu,2389,0.26,2018,2,10,597.25,556.48
+Food Grains,Atta & Flour,Salem,South,Tamil Nadu,1045,0.27,2018,5,30,323.95,247.34
+Oil & Masala,Masalas,Kanyakumari,Central,Tamil Nadu,1405,0.15,2017,9,13,224.8,366.56
+Oil & Masala,Masalas,Virudhunagar,West,Tamil Nadu,2380,0.35,2016,3,22,999.6,525.47
+Snacks,Chocolates,Ooty,South,Tamil Nadu,1073,0.12,2018,2,6,311.17,266.35
+Bakery,Biscuits,Tenkasi,West,Tamil Nadu,926,0.24,2016,10,29,231.5,236.39
+Beverages,Soft Drinks,Dindigul,Central,Tamil Nadu,1281,0.15,2017,1,12,64.05,309.01
+Beverages,Health Drinks,Madurai,South,Tamil Nadu,1405,0.26,2017,5,2,309.1,362.91
+Food Grains,Dals & Pulses,Viluppuram,East,Tamil Nadu,1341,0.16,2018,9,17,321.84,385.28
+"Eggs, Meat & Fish",Chicken,Kanyakumari,Central,Tamil Nadu,1977,0.25,2016,4,13,474.48,454.04
+Snacks,Noodles,Cumbum,South,Tamil Nadu,1301,0.17,2016,12,27,312.24,383.89
+Fruits & Veggies,Fresh Fruits,Dharmapuri,East,Tamil Nadu,683,0.25,2015,11,11,129.77,179.11
+Fruits & Veggies,Organic Vegetables,Bodi,South,Tamil Nadu,1597,0.31,2015,5,31,702.68,413.48
+Food Grains,Atta & Flour,Ooty,West,Tamil Nadu,1095,0.17,2017,2,9,219.0,275.48
+Beverages,Health Drinks,Vellore,Central,Tamil Nadu,803,0.28,2017,4,22,273.02,158.96
+Snacks,Noodles,Kanyakumari,South,Tamil Nadu,959,0.15,2016,3,16,95.9,223.61
+Oil & Masala,Spices,Viluppuram,West,Tamil Nadu,2350,0.32,2018,9,15,446.5,610.6
+Snacks,Cookies,Kanyakumari,East,Tamil Nadu,650,0.35,2017,9,18,253.5,160.65
+Bakery,Biscuits,Perambalur,West,Tamil Nadu,2259,0.32,2017,10,31,451.8,612.54
+Beverages,Soft Drinks,Dharmapuri,West,Tamil Nadu,806,0.1,2018,2,5,177.32,198.2
+Beverages,Soft Drinks,Cumbum,Central,Tamil Nadu,964,0.29,2018,5,28,115.68,266.37
+Oil & Masala,Masalas,Vellore,North,Tamil Nadu,1254,0.12,2017,8,11,401.28,325.18
+Snacks,Noodles,Bodi,West,Tamil Nadu,2355,0.14,2018,10,12,1012.65,701.2
+Snacks,Chocolates,Salem,Central,Tamil Nadu,2289,0.16,2015,11,5,526.47,584.13
+Food Grains,Atta & Flour,Bodi,East,Tamil Nadu,978,0.17,2017,1,9,68.46,260.14
+Oil & Masala,Edible Oil & Ghee,Dharmapuri,Central,Tamil Nadu,1547,0.19,2017,7,30,603.33,340.54
+Food Grains,Organic Staples,Bodi,West,Tamil Nadu,2060,0.18,2016,8,28,885.8,552.31
+Beverages,Health Drinks,Tenkasi,South,Tamil Nadu,989,0.21,2015,3,31,207.69,254.92
+Food Grains,Dals & Pulses,Pudukottai,South,Tamil Nadu,715,0.2,2016,3,26,128.7,132.3
+Food Grains,Dals & Pulses,Perambalur,Central,Tamil Nadu,1542,0.2,2017,9,26,647.64,394.49
+Bakery,Cakes,Madurai,West,Tamil Nadu,2093,0.28,2016,3,29,732.55,511.83
+Snacks,Chocolates,Vellore,East,Tamil Nadu,1902,0.28,2017,8,21,798.84,546.07
+Oil & Masala,Masalas,Perambalur,South,Tamil Nadu,1787,0.22,2017,4,11,607.58,408.93
+Beverages,Health Drinks,Ramanadhapuram,West,Tamil Nadu,1920,0.34,2018,1,30,268.8,447.44
+Bakery,Cakes,Tirunelveli,East,Tamil Nadu,2114,0.28,2016,4,27,845.6,499.55
+Bakery,Cakes,Nagercoil,Central,Tamil Nadu,864,0.11,2018,10,9,267.84,217.71
+Beverages,Soft Drinks,Nagercoil,East,Tamil Nadu,2112,0.28,2018,2,2,105.6,586.6
+Snacks,Chocolates,Kanyakumari,Central,Tamil Nadu,2431,0.18,2015,10,28,486.2,636.27
+"Eggs, Meat & Fish",Chicken,Cumbum,West,Tamil Nadu,1408,0.18,2016,2,10,126.72,306.68
+"Eggs, Meat & Fish",Mutton,Pudukottai,West,Tamil Nadu,1418,0.31,2017,3,13,255.24,339.55
+Beverages,Health Drinks,Tirunelveli,East,Tamil Nadu,1434,0.27,2018,6,30,616.62,368.18
+Oil & Masala,Masalas,Theni,West,Tamil Nadu,743,0.12,2018,12,14,200.61,120.85
+Bakery,Biscuits,Tenkasi,West,Tamil Nadu,661,0.23,2017,6,17,52.88,155.78
+Bakery,Cakes,Salem,West,Tamil Nadu,758,0.11,2015,11,24,90.96,182.18
+Oil & Masala,Masalas,Tenkasi,West,Tamil Nadu,1174,0.23,2015,3,31,223.06,254.05
+Snacks,Cookies,Tirunelveli,South,Tamil Nadu,2299,0.21,2017,3,27,137.94,692.84
+Snacks,Noodles,Ramanadhapuram,South,Tamil Nadu,2119,0.14,2017,11,19,847.6,624.07
+Fruits & Veggies,Organic Fruits,Karur,West,Tamil Nadu,2110,0.12,2018,9,28,865.1,581.52
+Food Grains,Dals & Pulses,Salem,Central,Tamil Nadu,2409,0.27,2015,9,1,867.24,531.57
+Snacks,Cookies,Tirunelveli,East,Tamil Nadu,2464,0.18,2016,11,27,714.56,617.17
+Beverages,Soft Drinks,Bodi,Central,Tamil Nadu,1525,0.15,2018,9,2,640.5,375.62
+Snacks,Chocolates,Madurai,East,Tamil Nadu,1081,0.28,2018,3,17,281.06,281.96
+Food Grains,Dals & Pulses,Virudhunagar,East,Tamil Nadu,583,0.14,2017,6,5,215.71,152.98
+Snacks,Noodles,Chennai,West,Tamil Nadu,1981,0.23,2018,6,3,614.11,397.58
+"Eggs, Meat & Fish",Chicken,Krishnagiri,East,Tamil Nadu,1291,0.23,2016,12,9,271.11,348.72
+Food Grains,Organic Staples,Karur,East,Tamil Nadu,1042,0.29,2017,6,4,52.1,203.22
+Oil & Masala,Masalas,Kanyakumari,East,Tamil Nadu,1451,0.33,2016,8,11,101.57,380.11
+Snacks,Cookies,Virudhunagar,East,Tamil Nadu,1412,0.12,2018,11,24,225.92,357.81
+"Eggs, Meat & Fish",Mutton,Cumbum,East,Tamil Nadu,1966,0.25,2018,12,25,334.22,523.62
+Bakery,Breads & Buns,Bodi,West,Tamil Nadu,1759,0.24,2017,11,24,545.29,430.58
+Beverages,Soft Drinks,Salem,East,Tamil Nadu,1839,0.14,2017,5,17,680.43,388.34
+Bakery,Biscuits,Cumbum,Central,Tamil Nadu,2017,0.32,2015,6,20,201.7,688.69
+Fruits & Veggies,Organic Vegetables,Chennai,South,Tamil Nadu,2201,0.19,2015,6,1,352.16,506.7
+"Eggs, Meat & Fish",Eggs,Krishnagiri,East,Tamil Nadu,2003,0.28,2018,4,24,741.11,558.3
+Fruits & Veggies,Organic Vegetables,Tirunelveli,West,Tamil Nadu,1167,0.18,2016,10,11,256.74,328.12
+Beverages,Health Drinks,Ooty,West,Tamil Nadu,992,0.33,2017,1,4,109.12,296.58
+Snacks,Cookies,Theni,West,Tamil Nadu,1890,0.29,2018,4,5,718.2,491.84
+Bakery,Breads & Buns,Ooty,West,Tamil Nadu,1262,0.22,2018,11,25,340.74,275.0
+"Eggs, Meat & Fish",Chicken,Madurai,South,Tamil Nadu,1881,0.15,2017,4,8,188.1,482.35
+Oil & Masala,Masalas,Perambalur,East,Tamil Nadu,2372,0.11,2015,1,4,1043.68,600.21
+"Eggs, Meat & Fish",Eggs,Ooty,West,Tamil Nadu,1869,0.1,2016,11,22,485.94,453.32
+"Eggs, Meat & Fish",Chicken,Pudukottai,Central,Tamil Nadu,2178,0.14,2018,11,25,261.36,477.1
+Food Grains,Atta & Flour,Vellore,South,Tamil Nadu,2377,0.23,2015,12,23,499.17,516.58
+Bakery,Biscuits,Krishnagiri,West,Tamil Nadu,1386,0.35,2018,8,6,110.88,309.68
+Fruits & Veggies,Fresh Vegetables,Cumbum,East,Tamil Nadu,1583,0.21,2015,12,28,174.13,400.05
+Snacks,Cookies,Viluppuram,East,Tamil Nadu,770,0.31,2017,11,12,161.7,211.51
+Fruits & Veggies,Fresh Vegetables,Dharmapuri,East,Tamil Nadu,712,0.19,2018,2,9,306.16,188.34
+Snacks,Cookies,Karur,East,Tamil Nadu,1992,0.24,2016,9,24,458.16,526.17
+Oil & Masala,Masalas,Ooty,East,Tamil Nadu,2428,0.21,2017,7,28,194.24,652.96
+Bakery,Cakes,Madurai,Central,Tamil Nadu,960,0.3,2015,9,26,57.6,277.07
+Beverages,Soft Drinks,Tirunelveli,East,Tamil Nadu,869,0.12,2016,6,7,95.59,222.44
+Beverages,Health Drinks,Tenkasi,East,Tamil Nadu,2332,0.1,2015,11,27,139.92,601.95
+Oil & Masala,Spices,Pudukottai,West,Tamil Nadu,1092,0.27,2017,12,23,414.96,220.21
+"Eggs, Meat & Fish",Mutton,Coimbatore,East,Tamil Nadu,1058,0.19,2015,12,17,105.8,273.55
+Fruits & Veggies,Fresh Fruits,Ramanadhapuram,West,Tamil Nadu,969,0.27,2016,11,13,184.11,249.18
+"Eggs, Meat & Fish",Eggs,Coimbatore,Central,Tamil Nadu,2323,0.29,2017,10,13,394.91,524.42
+Food Grains,Dals & Pulses,Ramanadhapuram,East,Tamil Nadu,573,0.26,2017,12,11,148.98,178.72
+Oil & Masala,Edible Oil & Ghee,Karur,West,Tamil Nadu,1966,0.19,2017,9,16,412.86,493.83
+Snacks,Noodles,Namakkal,South,Tamil Nadu,763,0.27,2016,6,23,251.79,213.1
+Bakery,Biscuits,Viluppuram,Central,Tamil Nadu,1434,0.2,2015,10,10,114.72,417.29
+Food Grains,Atta & Flour,Trichy,Central,Tamil Nadu,765,0.21,2018,2,3,198.9,183.01
+Beverages,Soft Drinks,Krishnagiri,West,Tamil Nadu,1984,0.29,2017,5,19,277.76,546.77
+"Eggs, Meat & Fish",Mutton,Madurai,South,Tamil Nadu,1196,0.16,2015,8,9,502.32,319.63
+Beverages,Soft Drinks,Coimbatore,Central,Tamil Nadu,2314,0.14,2018,10,19,439.66,599.38
+Oil & Masala,Edible Oil & Ghee,Tenkasi,South,Tamil Nadu,934,0.34,2015,7,26,149.44,191.45
+Bakery,Cakes,Bodi,West,Tamil Nadu,1118,0.16,2015,7,26,167.7,242.09
+Bakery,Cakes,Tenkasi,West,Tamil Nadu,1133,0.32,2018,1,23,226.6,282.07
+Snacks,Cookies,Coimbatore,West,Tamil Nadu,2081,0.18,2017,8,28,145.67,542.11
+Oil & Masala,Edible Oil & Ghee,Perambalur,Central,Tamil Nadu,2065,0.27,2017,5,27,826.0,487.49
+Fruits & Veggies,Fresh Fruits,Madurai,South,Tamil Nadu,644,0.14,2015,11,28,135.24,189.69
+Beverages,Soft Drinks,Salem,South,Tamil Nadu,1614,0.21,2015,8,17,484.2,501.04
+Food Grains,Atta & Flour,Viluppuram,Central,Tamil Nadu,721,0.21,2018,10,13,129.78,169.36
+Snacks,Cookies,Viluppuram,South,Tamil Nadu,1400,0.11,2016,11,30,336.0,370.32
+Food Grains,Dals & Pulses,Ooty,Central,Tamil Nadu,937,0.24,2016,8,3,215.51,184.25
+Fruits & Veggies,Fresh Fruits,Namakkal,Central,Tamil Nadu,1523,0.35,2018,9,2,487.36,335.68
+Bakery,Biscuits,Tirunelveli,West,Tamil Nadu,791,0.23,2015,9,6,181.93,232.34
+Snacks,Cookies,Kanyakumari,East,Tamil Nadu,815,0.29,2017,12,6,130.4,248.29
+Fruits & Veggies,Fresh Fruits,Coimbatore,East,Tamil Nadu,2381,0.15,2018,4,22,595.25,532.83
+Food Grains,Organic Staples,Dindigul,East,Tamil Nadu,1097,0.32,2015,10,31,449.77,222.99
+Snacks,Cookies,Ramanadhapuram,Central,Tamil Nadu,1544,0.31,2017,7,25,216.16,321.39
+"Eggs, Meat & Fish",Fish,Krishnagiri,Central,Tamil Nadu,601,0.25,2015,7,9,30.05,162.86
+"Eggs, Meat & Fish",Eggs,Trichy,West,Tamil Nadu,1879,0.28,2018,1,10,563.7,526.98
+Snacks,Cookies,Bodi,East,Tamil Nadu,1924,0.24,2018,10,22,461.76,450.85
+Food Grains,Atta & Flour,Dindigul,Central,Tamil Nadu,1789,0.32,2015,3,6,178.9,454.83
+Food Grains,Rice,Dharmapuri,South,Tamil Nadu,1246,0.28,2016,9,22,498.4,328.56
+Food Grains,Atta & Flour,Pudukottai,East,Tamil Nadu,1621,0.2,2017,2,9,437.67,421.69
+Fruits & Veggies,Fresh Vegetables,Nagercoil,East,Tamil Nadu,1628,0.24,2018,12,24,423.28,406.97
+Oil & Masala,Spices,Kanyakumari,West,Tamil Nadu,2430,0.28,2015,8,23,388.8,575.75
+Food Grains,Dals & Pulses,Ooty,South,Tamil Nadu,2374,0.32,2018,9,12,284.88,503.66
+Bakery,Biscuits,Dindigul,West,Tamil Nadu,1015,0.33,2015,6,5,395.85,302.88
+"Eggs, Meat & Fish",Eggs,Tenkasi,West,Tamil Nadu,1485,0.24,2017,1,12,623.7,358.51
+"Eggs, Meat & Fish",Chicken,Virudhunagar,West,Tamil Nadu,1357,0.27,2018,12,11,94.99,390.72
+Bakery,Biscuits,Karur,West,Tamil Nadu,1457,0.1,2018,12,5,131.13,431.79
+Beverages,Health Drinks,Kanyakumari,Central,Tamil Nadu,794,0.23,2017,7,28,262.02,177.09
+Snacks,Chocolates,Tirunelveli,West,Tamil Nadu,1657,0.1,2018,3,6,265.12,342.03
+Oil & Masala,Edible Oil & Ghee,Dindigul,Central,Tamil Nadu,1123,0.3,2017,3,1,449.2,243.29
+Fruits & Veggies,Organic Vegetables,Cumbum,East,Tamil Nadu,869,0.32,2016,12,22,382.36,249.52
+Fruits & Veggies,Fresh Fruits,Coimbatore,East,Tamil Nadu,1641,0.24,2016,10,9,196.92,350.54
+Snacks,Chocolates,Karur,Central,Tamil Nadu,1272,0.26,2016,1,6,508.8,331.72
+Fruits & Veggies,Organic Vegetables,Namakkal,East,Tamil Nadu,2145,0.11,2015,9,9,493.35,556.15
+Bakery,Cakes,Namakkal,South,Tamil Nadu,550,0.24,2018,3,28,66.0,147.59
+Beverages,Soft Drinks,Cumbum,Central,Tamil Nadu,922,0.26,2016,10,15,46.1,255.78
+"Eggs, Meat & Fish",Fish,Theni,West,Tamil Nadu,2451,0.27,2018,4,16,1004.91,499.32
+"Eggs, Meat & Fish",Chicken,Salem,Central,Tamil Nadu,2243,0.27,2015,10,17,1009.35,597.87
+"Eggs, Meat & Fish",Eggs,Vellore,Central,Tamil Nadu,1590,0.2,2018,2,9,111.3,403.86
+Food Grains,Rice,Vellore,East,Tamil Nadu,1122,0.35,2018,9,17,415.14,293.1
+Food Grains,Dals & Pulses,Ramanadhapuram,East,Tamil Nadu,2422,0.19,2018,2,11,1041.46,711.72
+Beverages,Soft Drinks,Salem,Central,Tamil Nadu,934,0.35,2017,8,12,56.04,224.42
+Food Grains,Dals & Pulses,Madurai,South,Tamil Nadu,2298,0.18,2018,7,29,505.56,543.23
+Snacks,Cookies,Ramanadhapuram,South,Tamil Nadu,1008,0.15,2017,12,4,221.76,293.47
+Oil & Masala,Edible Oil & Ghee,Chennai,West,Tamil Nadu,2410,0.21,2018,8,31,964.0,546.82
+Food Grains,Atta & Flour,Vellore,South,Tamil Nadu,1328,0.14,2018,1,26,252.32,258.75
+"Eggs, Meat & Fish",Mutton,Krishnagiri,East,Tamil Nadu,529,0.23,2016,3,5,100.51,152.28
+Fruits & Veggies,Fresh Fruits,Karur,West,Tamil Nadu,865,0.27,2016,10,29,250.85,292.86
+Bakery,Biscuits,Dharmapuri,West,Tamil Nadu,1184,0.18,2018,2,13,118.4,268.21
+Snacks,Cookies,Ramanadhapuram,South,Tamil Nadu,2374,0.13,2016,2,20,783.42,642.21
+"Eggs, Meat & Fish",Eggs,Theni,East,Tamil Nadu,1400,0.1,2016,9,8,462.0,376.64
+Food Grains,Organic Staples,Vellore,West,Tamil Nadu,1454,0.31,2016,9,18,276.26,475.42
+Food Grains,Dals & Pulses,Tenkasi,Central,Tamil Nadu,870,0.22,2018,10,21,60.9,217.28
+Oil & Masala,Masalas,Ooty,East,Tamil Nadu,1783,0.12,2016,1,11,338.77,500.26
+Bakery,Biscuits,Tirunelveli,Central,Tamil Nadu,898,0.24,2015,11,28,224.5,259.19
+Food Grains,Organic Staples,Perambalur,South,Tamil Nadu,1450,0.29,2015,4,3,420.5,335.67
+"Eggs, Meat & Fish",Mutton,Vellore,South,Tamil Nadu,2350,0.33,2016,4,26,987.0,531.38
+Beverages,Health Drinks,Pudukottai,West,Tamil Nadu,1562,0.33,2018,6,24,609.18,392.18
+Oil & Masala,Spices,Namakkal,Central,Tamil Nadu,1900,0.24,2017,11,11,133.0,454.65
+Snacks,Cookies,Salem,South,Tamil Nadu,1599,0.14,2015,10,18,559.65,426.86
+Bakery,Cakes,Salem,East,Tamil Nadu,2091,0.19,2015,6,30,418.2,454.68
+Bakery,Breads & Buns,Krishnagiri,West,Tamil Nadu,1509,0.24,2018,5,11,105.63,321.24
+Beverages,Soft Drinks,Tirunelveli,East,Tamil Nadu,806,0.12,2016,6,12,88.66,172.65
+Food Grains,Organic Staples,Namakkal,Central,Tamil Nadu,736,0.34,2018,8,17,316.48,180.83
+"Eggs, Meat & Fish",Chicken,Coimbatore,East,Tamil Nadu,1612,0.16,2015,2,9,225.68,444.11
+Snacks,Cookies,Karur,East,Tamil Nadu,1318,0.17,2016,2,11,579.92,292.27
+"Eggs, Meat & Fish",Fish,Tenkasi,East,Tamil Nadu,1213,0.24,2018,11,20,84.91,343.8
+Food Grains,Organic Staples,Vellore,South,Tamil Nadu,1108,0.27,2017,9,12,321.32,281.79
+Fruits & Veggies,Organic Vegetables,Karur,Central,Tamil Nadu,1422,0.3,2016,7,20,355.5,419.21
+Bakery,Breads & Buns,Vellore,West,Tamil Nadu,926,0.28,2017,8,15,240.76,240.86
+Snacks,Noodles,Chennai,East,Tamil Nadu,1488,0.3,2017,6,20,610.08,349.13
+Food Grains,Organic Staples,Madurai,West,Tamil Nadu,1419,0.22,2017,2,22,170.28,274.38
+Food Grains,Rice,Trichy,West,Tamil Nadu,1600,0.13,2018,11,5,288.0,412.07
+Bakery,Cakes,Coimbatore,Central,Tamil Nadu,1207,0.22,2015,11,23,434.52,302.57
+"Eggs, Meat & Fish",Mutton,Cumbum,East,Tamil Nadu,933,0.3,2016,4,4,345.21,191.38
+Fruits & Veggies,Fresh Fruits,Chennai,Central,Tamil Nadu,900,0.3,2018,12,28,252.0,245.61
+Fruits & Veggies,Fresh Fruits,Dharmapuri,South,Tamil Nadu,660,0.21,2018,8,23,59.4,177.6
+Snacks,Cookies,Bodi,Central,Tamil Nadu,2045,0.29,2018,1,1,879.35,519.12
+Fruits & Veggies,Fresh Fruits,Nagercoil,West,Tamil Nadu,2344,0.21,2015,4,25,187.52,550.16
+Food Grains,Rice,Ramanadhapuram,Central,Tamil Nadu,1451,0.31,2017,5,9,551.38,318.01
+Bakery,Cakes,Virudhunagar,West,Tamil Nadu,1527,0.31,2016,3,26,335.94,395.62
+Oil & Masala,Masalas,Namakkal,South,Tamil Nadu,2122,0.23,2017,9,22,190.98,521.25
+Food Grains,Dals & Pulses,Krishnagiri,Central,Tamil Nadu,799,0.28,2015,9,23,327.59,211.75
+Snacks,Cookies,Tirunelveli,West,Tamil Nadu,1000,0.26,2015,6,4,160.0,330.07
+Food Grains,Rice,Perambalur,Central,Tamil Nadu,2065,0.23,2017,9,12,247.8,612.4
+Oil & Masala,Spices,Bodi,South,Tamil Nadu,615,0.21,2018,9,18,147.6,173.83
+Oil & Masala,Spices,Salem,East,Tamil Nadu,928,0.3,2016,3,16,167.04,211.98
+Fruits & Veggies,Fresh Fruits,Coimbatore,Central,Tamil Nadu,1619,0.12,2018,12,10,679.98,432.01
+Oil & Masala,Edible Oil & Ghee,Krishnagiri,Central,Tamil Nadu,714,0.15,2017,9,26,71.4,171.31
+Bakery,Cakes,Krishnagiri,East,Tamil Nadu,1501,0.35,2016,12,15,255.17,406.12
+Snacks,Chocolates,Pudukottai,Central,Tamil Nadu,1080,0.17,2016,8,10,248.4,283.64
+"Eggs, Meat & Fish",Mutton,Dharmapuri,South,Tamil Nadu,991,0.2,2018,11,30,297.3,256.79
+Beverages,Health Drinks,Salem,East,Tamil Nadu,730,0.17,2018,4,10,138.7,151.67
+Fruits & Veggies,Fresh Vegetables,Perambalur,Central,Tamil Nadu,1074,0.34,2017,6,18,289.98,230.91
+Food Grains,Organic Staples,Vellore,Central,Tamil Nadu,700,0.33,2017,8,27,252.0,170.34
+Snacks,Chocolates,Bodi,East,Tamil Nadu,548,0.31,2017,1,3,126.04,117.78
+Bakery,Cakes,Ramanadhapuram,East,Tamil Nadu,1083,0.23,2018,7,18,465.69,290.2
+Food Grains,Organic Staples,Cumbum,Central,Tamil Nadu,2472,0.13,2017,2,7,494.4,666.05
+Oil & Masala,Edible Oil & Ghee,Cumbum,Central,Tamil Nadu,1750,0.3,2017,9,12,140.0,402.1
+Snacks,Cookies,Dindigul,East,Tamil Nadu,2073,0.17,2015,6,21,124.38,533.15
+Food Grains,Atta & Flour,Theni,Central,Tamil Nadu,1052,0.16,2017,10,17,294.56,240.08
+Beverages,Soft Drinks,Salem,South,Tamil Nadu,2327,0.32,2016,12,31,511.94,629.64
+Food Grains,Rice,Viluppuram,East,Tamil Nadu,1687,0.32,2017,4,21,101.22,396.31
+"Eggs, Meat & Fish",Fish,Virudhunagar,Central,Tamil Nadu,1205,0.3,2017,11,19,325.35,387.93
+Oil & Masala,Spices,Perambalur,West,Tamil Nadu,2357,0.23,2016,2,8,872.09,646.25
+Bakery,Biscuits,Karur,East,Tamil Nadu,865,0.13,2016,8,24,233.55,241.82
+Food Grains,Atta & Flour,Namakkal,Central,Tamil Nadu,2227,0.18,2017,11,9,1002.15,490.35
+Beverages,Health Drinks,Vellore,South,Tamil Nadu,1122,0.14,2017,11,14,157.08,294.86
+Snacks,Cookies,Nagercoil,West,Tamil Nadu,1359,0.34,2017,12,3,366.93,356.63
+"Eggs, Meat & Fish",Mutton,Tenkasi,West,Tamil Nadu,2227,0.18,2015,8,9,155.89,508.39
+Fruits & Veggies,Organic Vegetables,Perambalur,West,Tamil Nadu,2177,0.21,2018,10,30,653.1,479.63
+Snacks,Noodles,Madurai,West,Tamil Nadu,1072,0.1,2018,4,17,300.16,269.61
+Beverages,Health Drinks,Virudhunagar,West,Tamil Nadu,1359,0.2,2018,8,20,95.13,390.69
+Fruits & Veggies,Organic Vegetables,Coimbatore,West,Tamil Nadu,2008,0.13,2016,3,23,883.52,493.5
+Snacks,Chocolates,Chennai,East,Tamil Nadu,1340,0.15,2017,11,26,522.6,358.01
+Snacks,Noodles,Viluppuram,East,Tamil Nadu,865,0.3,2015,9,12,138.4,210.77
+Beverages,Health Drinks,Ooty,South,Tamil Nadu,1240,0.34,2018,10,6,446.4,289.57
+Bakery,Biscuits,Madurai,East,Tamil Nadu,1634,0.17,2018,2,13,147.06,473.94
+Oil & Masala,Edible Oil & Ghee,Vellore,West,Tamil Nadu,2443,0.26,2016,9,25,122.15,594.86
+Oil & Masala,Masalas,Bodi,West,Tamil Nadu,2231,0.13,2017,10,13,624.68,601.11
+Food Grains,Dals & Pulses,Vellore,West,Tamil Nadu,1753,0.17,2018,8,13,280.48,467.24
+Food Grains,Rice,Nagercoil,West,Tamil Nadu,1016,0.15,2018,8,18,365.76,304.3
+Snacks,Chocolates,Ramanadhapuram,South,Tamil Nadu,1479,0.29,2016,3,7,73.95,352.31
+Fruits & Veggies,Organic Vegetables,Tirunelveli,West,Tamil Nadu,2488,0.27,2016,12,27,398.08,688.64
+Food Grains,Dals & Pulses,Trichy,East,Tamil Nadu,1342,0.24,2018,12,27,67.1,389.25
+Snacks,Chocolates,Vellore,Central,Tamil Nadu,1053,0.23,2015,12,15,410.67,276.49
+Beverages,Health Drinks,Madurai,South,Tamil Nadu,1567,0.32,2018,11,13,673.81,392.21
+Food Grains,Rice,Perambalur,West,Tamil Nadu,1501,0.24,2016,1,9,210.14,429.78
+Bakery,Breads & Buns,Theni,South,Tamil Nadu,910,0.1,2015,8,9,63.7,195.0
+Snacks,Chocolates,Pudukottai,West,Tamil Nadu,1765,0.22,2017,12,26,388.3,421.37
+"Eggs, Meat & Fish",Mutton,Kanyakumari,South,Tamil Nadu,1994,0.29,2016,11,25,777.66,488.97
+Food Grains,Dals & Pulses,Vellore,West,Tamil Nadu,1934,0.31,2018,9,28,328.78,513.26
+Snacks,Chocolates,Dindigul,East,Tamil Nadu,1962,0.21,2018,1,28,804.42,509.04
+Snacks,Cookies,Ooty,West,Tamil Nadu,2442,0.21,2017,7,6,1050.06,608.18
+Snacks,Noodles,Dharmapuri,East,Tamil Nadu,878,0.23,2018,6,26,201.94,241.99
+Snacks,Chocolates,Chennai,South,Tamil Nadu,871,0.18,2016,12,14,330.98,220.51
+Bakery,Breads & Buns,Dharmapuri,West,Tamil Nadu,1916,0.13,2018,11,24,229.92,434.88
+Fruits & Veggies,Organic Vegetables,Tenkasi,East,Tamil Nadu,969,0.29,2018,7,16,77.52,318.65
+Beverages,Soft Drinks,Tenkasi,East,Tamil Nadu,1710,0.33,2016,12,19,769.5,476.16
+Oil & Masala,Spices,Namakkal,East,Tamil Nadu,766,0.25,2017,6,26,283.42,203.7
+Bakery,Cakes,Coimbatore,East,Tamil Nadu,1405,0.22,2017,7,22,365.3,313.37
+Oil & Masala,Spices,Virudhunagar,West,Tamil Nadu,2330,0.14,2015,8,4,1025.2,566.03
+Bakery,Breads & Buns,Bodi,West,Tamil Nadu,2361,0.34,2015,12,24,920.79,581.18
+Oil & Masala,Masalas,Namakkal,West,Tamil Nadu,1727,0.27,2017,10,28,224.51,348.44
+Snacks,Cookies,Dharmapuri,Central,Tamil Nadu,1370,0.33,2018,1,1,315.1,359.37
+Fruits & Veggies,Organic Fruits,Dharmapuri,West,Tamil Nadu,1279,0.33,2018,11,9,76.74,348.93
+Beverages,Soft Drinks,Coimbatore,West,Tamil Nadu,2132,0.13,2018,6,10,703.56,511.13
+"Eggs, Meat & Fish",Chicken,Vellore,West,Tamil Nadu,829,0.28,2016,6,28,331.6,204.53
+Snacks,Noodles,Namakkal,South,Tamil Nadu,1167,0.24,2016,6,26,233.4,272.14
+Oil & Masala,Masalas,Viluppuram,East,Tamil Nadu,1629,0.32,2018,7,31,700.47,427.78
+Snacks,Cookies,Cumbum,East,Tamil Nadu,548,0.17,2017,3,13,115.08,123.73
+Oil & Masala,Spices,Salem,South,Tamil Nadu,640,0.23,2015,3,31,102.4,172.58
+Fruits & Veggies,Organic Vegetables,Krishnagiri,Central,Tamil Nadu,1708,0.25,2017,11,19,427.0,378.83
+Bakery,Cakes,Bodi,Central,Tamil Nadu,2303,0.29,2015,12,7,713.93,552.25
+Bakery,Breads & Buns,Madurai,West,Tamil Nadu,2279,0.31,2018,8,3,592.54,582.4
+Snacks,Cookies,Dharmapuri,West,Tamil Nadu,2001,0.34,2015,7,20,100.05,558.29
+Food Grains,Dals & Pulses,Viluppuram,West,Tamil Nadu,2406,0.11,2018,5,20,312.78,544.58
+Fruits & Veggies,Fresh Vegetables,Theni,West,Tamil Nadu,1350,0.15,2015,10,19,67.5,405.92
+"Eggs, Meat & Fish",Fish,Perambalur,West,Tamil Nadu,690,0.2,2017,11,24,172.5,178.54
+Fruits & Veggies,Fresh Fruits,Dharmapuri,East,Tamil Nadu,2338,0.32,2017,1,15,537.74,550.7
+Food Grains,Atta & Flour,Karur,East,Tamil Nadu,2251,0.26,2018,8,7,810.36,525.38
+Snacks,Noodles,Tenkasi,West,Tamil Nadu,1192,0.17,2018,2,4,393.36,348.85
+Fruits & Veggies,Fresh Vegetables,Virudhunagar,Central,Tamil Nadu,1351,0.15,2017,11,18,81.06,387.07
+Fruits & Veggies,Fresh Vegetables,Dindigul,Central,Tamil Nadu,1298,0.25,2016,12,17,64.9,379.61
+Snacks,Noodles,Chennai,South,Tamil Nadu,613,0.26,2017,10,28,49.04,164.28
+Bakery,Cakes,Dharmapuri,West,Tamil Nadu,2482,0.23,2015,11,8,843.88,562.95
+"Eggs, Meat & Fish",Chicken,Chennai,South,Tamil Nadu,517,0.12,2018,8,16,155.1,101.08
+Beverages,Soft Drinks,Perambalur,West,Tamil Nadu,1489,0.11,2017,3,6,253.13,341.1
+Snacks,Chocolates,Namakkal,East,Tamil Nadu,2266,0.16,2018,3,16,317.24,701.24
+Snacks,Noodles,Viluppuram,East,Tamil Nadu,1075,0.2,2018,9,20,408.5,307.85
+"Eggs, Meat & Fish",Chicken,Dindigul,East,Tamil Nadu,1170,0.12,2017,1,3,105.3,256.46
+Fruits & Veggies,Fresh Vegetables,Tenkasi,West,Tamil Nadu,1256,0.3,2017,11,15,514.96,333.85
+Oil & Masala,Edible Oil & Ghee,Perambalur,Central,Tamil Nadu,1152,0.31,2018,9,2,149.76,279.45
+"Eggs, Meat & Fish",Mutton,Dharmapuri,East,Tamil Nadu,1401,0.14,2018,2,9,154.11,397.55
+Bakery,Biscuits,Viluppuram,Central,Tamil Nadu,889,0.12,2018,11,5,302.26,186.77
+Fruits & Veggies,Fresh Fruits,Theni,East,Tamil Nadu,1552,0.29,2015,5,8,496.64,357.71
+Bakery,Breads & Buns,Karur,West,Tamil Nadu,837,0.13,2017,6,23,234.36,170.32
+Snacks,Chocolates,Namakkal,Central,Tamil Nadu,1491,0.16,2018,3,10,223.65,294.39
+Beverages,Health Drinks,Ramanadhapuram,South,Tamil Nadu,2396,0.3,2018,9,23,119.8,580.13
+Beverages,Health Drinks,Chennai,West,Tamil Nadu,1554,0.33,2015,12,4,699.3,407.46
+Bakery,Breads & Buns,Viluppuram,Central,Tamil Nadu,1857,0.31,2018,10,22,761.37,505.12
+Snacks,Noodles,Krishnagiri,Central,Tamil Nadu,1142,0.32,2018,4,24,296.92,297.17
+Oil & Masala,Edible Oil & Ghee,Namakkal,East,Tamil Nadu,1153,0.31,2016,4,27,230.6,267.57
+Food Grains,Rice,Kanyakumari,East,Tamil Nadu,1856,0.32,2016,3,10,705.28,565.37
+Oil & Masala,Spices,Perambalur,South,Tamil Nadu,1754,0.34,2017,10,28,561.28,421.03
+Oil & Masala,Spices,Pudukottai,East,Tamil Nadu,2019,0.23,2016,3,5,383.61,415.61
+Snacks,Chocolates,Perambalur,East,Tamil Nadu,1811,0.29,2015,5,23,814.95,513.37
+Fruits & Veggies,Organic Vegetables,Cumbum,East,Tamil Nadu,919,0.27,2016,11,7,119.47,222.58
+Fruits & Veggies,Fresh Fruits,Karur,West,Tamil Nadu,1762,0.24,2015,6,9,176.2,408.15
+Bakery,Biscuits,Namakkal,Central,Tamil Nadu,1377,0.32,2017,4,11,481.95,296.68
+Food Grains,Atta & Flour,Krishnagiri,Central,Tamil Nadu,1331,0.35,2015,2,12,266.2,350.47
+Bakery,Cakes,Salem,East,Tamil Nadu,1193,0.31,2018,6,20,345.97,291.53
+Snacks,Noodles,Salem,Central,Tamil Nadu,1101,0.3,2018,3,9,429.39,272.05
+Bakery,Biscuits,Theni,West,Tamil Nadu,1125,0.3,2017,4,23,101.25,250.95
+Snacks,Cookies,Kanyakumari,Central,Tamil Nadu,2143,0.12,2017,8,4,150.01,565.18
+"Eggs, Meat & Fish",Fish,Chennai,East,Tamil Nadu,943,0.13,2016,11,14,169.74,232.35
+Bakery,Cakes,Bodi,East,Tamil Nadu,1339,0.33,2016,1,11,334.75,323.83
+Food Grains,Atta & Flour,Bodi,Central,Tamil Nadu,1617,0.25,2015,7,15,501.27,473.82
+Snacks,Noodles,Madurai,West,Tamil Nadu,1523,0.3,2015,8,4,441.67,358.37
+Oil & Masala,Spices,Tirunelveli,South,Tamil Nadu,2460,0.15,2017,12,18,738.0,488.48
+Bakery,Biscuits,Nagercoil,West,Tamil Nadu,1088,0.27,2017,4,7,108.8,305.49
+Oil & Masala,Masalas,Karur,East,Tamil Nadu,1122,0.35,2018,9,20,426.36,264.84
+Snacks,Cookies,Tenkasi,East,Tamil Nadu,1415,0.15,2016,9,24,169.8,392.91
+Fruits & Veggies,Fresh Fruits,Chennai,East,Tamil Nadu,843,0.13,2018,12,22,160.17,181.85
+Food Grains,Organic Staples,Cumbum,West,Tamil Nadu,557,0.33,2015,12,13,139.25,146.85
+Beverages,Soft Drinks,Bodi,East,Tamil Nadu,2172,0.11,2017,9,27,325.8,635.5
+Oil & Masala,Masalas,Theni,East,Tamil Nadu,1790,0.23,2016,1,9,304.3,514.32
+Food Grains,Organic Staples,Ooty,East,Tamil Nadu,806,0.18,2015,9,23,354.64,199.28
+Snacks,Chocolates,Madurai,West,Tamil Nadu,1534,0.22,2015,3,18,322.14,429.93
+Food Grains,Rice,Chennai,West,Tamil Nadu,1316,0.22,2017,4,2,592.2,272.29
+Fruits & Veggies,Organic Fruits,Vellore,West,Tamil Nadu,777,0.25,2016,7,12,186.48,208.08
+Fruits & Veggies,Organic Fruits,Madurai,East,Tamil Nadu,1992,0.34,2017,11,20,418.32,569.43
+Fruits & Veggies,Organic Fruits,Coimbatore,Central,Tamil Nadu,1560,0.14,2018,7,29,655.2,386.94
+Beverages,Health Drinks,Tenkasi,West,Tamil Nadu,966,0.21,2017,11,12,86.94,259.59
+"Eggs, Meat & Fish",Eggs,Virudhunagar,South,Tamil Nadu,2309,0.22,2016,11,6,831.24,542.46
+"Eggs, Meat & Fish",Chicken,Trichy,Central,Tamil Nadu,1215,0.2,2015,8,9,60.75,278.65
+Oil & Masala,Masalas,Virudhunagar,East,Tamil Nadu,2500,0.33,2017,1,22,425.0,538.86
+Beverages,Soft Drinks,Chennai,West,Tamil Nadu,2173,0.35,2017,7,10,347.68,450.59
+Beverages,Soft Drinks,Dindigul,East,Tamil Nadu,1985,0.23,2018,9,7,873.4,516.18
+Beverages,Soft Drinks,Trichy,East,Tamil Nadu,1136,0.26,2018,3,12,136.32,295.74
+Food Grains,Atta & Flour,Viluppuram,West,Tamil Nadu,2422,0.16,2017,10,11,435.96,570.72
+Snacks,Noodles,Chennai,South,Tamil Nadu,2281,0.22,2015,9,8,775.54,637.73
+Snacks,Cookies,Nagercoil,South,Tamil Nadu,545,0.1,2017,10,25,43.6,102.98
+Snacks,Cookies,Salem,East,Tamil Nadu,2151,0.31,2017,5,4,795.87,578.54
+Beverages,Health Drinks,Coimbatore,South,Tamil Nadu,1384,0.32,2018,10,12,346.0,390.74
+"Eggs, Meat & Fish",Fish,Kanyakumari,Central,Tamil Nadu,2462,0.31,2015,1,6,369.3,527.63
+Food Grains,Rice,Pudukottai,East,Tamil Nadu,1769,0.19,2017,10,12,636.84,432.47
+Food Grains,Atta & Flour,Pudukottai,South,Tamil Nadu,2359,0.17,2018,12,22,518.98,618.94
+Snacks,Noodles,Cumbum,Central,Tamil Nadu,921,0.33,2016,5,9,368.4,213.1
+Bakery,Cakes,Kanyakumari,Central,Tamil Nadu,1792,0.25,2018,4,9,89.6,499.54
+Beverages,Soft Drinks,Salem,Central,Tamil Nadu,902,0.29,2016,4,18,153.34,190.96
+Fruits & Veggies,Fresh Fruits,Coimbatore,East,Tamil Nadu,2395,0.28,2016,4,12,1053.8,555.53
+Oil & Masala,Edible Oil & Ghee,Salem,Central,Tamil Nadu,1572,0.15,2015,3,14,675.96,486.94
+Fruits & Veggies,Fresh Vegetables,Ramanadhapuram,Central,Tamil Nadu,1620,0.15,2015,1,3,648.0,459.55
+Snacks,Noodles,Perambalur,West,Tamil Nadu,1811,0.11,2015,12,12,796.84,467.0
+Fruits & Veggies,Organic Vegetables,Coimbatore,Central,Tamil Nadu,912,0.16,2017,2,2,355.68,290.47
+"Eggs, Meat & Fish",Fish,Salem,East,Tamil Nadu,1504,0.33,2015,10,12,135.36,374.69
+Snacks,Noodles,Theni,Central,Tamil Nadu,2246,0.13,2018,5,18,606.42,635.75
+"Eggs, Meat & Fish",Chicken,Viluppuram,West,Tamil Nadu,599,0.35,2017,12,29,161.73,123.63
+Beverages,Health Drinks,Viluppuram,West,Tamil Nadu,1646,0.22,2018,12,16,197.52,359.73
+"Eggs, Meat & Fish",Mutton,Theni,East,Tamil Nadu,1311,0.11,2018,11,24,419.52,323.72
+Snacks,Noodles,Tirunelveli,Central,Tamil Nadu,2135,0.23,2016,2,15,469.7,621.75
+Oil & Masala,Spices,Dindigul,Central,Tamil Nadu,1168,0.23,2016,12,12,256.96,273.02
+Oil & Masala,Edible Oil & Ghee,Perambalur,Central,Tamil Nadu,2368,0.17,2017,7,25,923.52,599.83
+Snacks,Cookies,Ooty,Central,Tamil Nadu,1556,0.17,2015,1,6,482.36,433.54
+Bakery,Biscuits,Coimbatore,East,Tamil Nadu,1367,0.15,2018,11,20,123.03,349.94
+Beverages,Soft Drinks,Madurai,East,Tamil Nadu,1126,0.22,2016,7,9,349.06,328.6
+Beverages,Soft Drinks,Coimbatore,West,Tamil Nadu,2147,0.12,2017,12,18,364.99,547.33
+Oil & Masala,Spices,Trichy,West,Tamil Nadu,2435,0.35,2016,5,31,681.8,589.09
+"Eggs, Meat & Fish",Fish,Chennai,West,Tamil Nadu,1933,0.2,2015,12,29,521.91,489.03
+Fruits & Veggies,Organic Vegetables,Krishnagiri,West,Tamil Nadu,2470,0.1,2018,4,27,889.2,619.94
+Oil & Masala,Spices,Viluppuram,South,Tamil Nadu,1189,0.31,2016,12,14,107.01,308.73
+Food Grains,Rice,Coimbatore,East,Tamil Nadu,558,0.11,2015,3,5,172.98,147.83
+Beverages,Health Drinks,Pudukottai,Central,Tamil Nadu,1473,0.33,2018,10,13,456.63,395.65
+Food Grains,Atta & Flour,Virudhunagar,Central,Tamil Nadu,2241,0.3,2016,7,5,1008.45,447.11
+Oil & Masala,Spices,Pudukottai,West,Tamil Nadu,1547,0.12,2017,4,19,123.76,389.98
+Fruits & Veggies,Organic Vegetables,Tirunelveli,West,Tamil Nadu,1941,0.27,2017,12,4,854.04,498.85
+Fruits & Veggies,Fresh Fruits,Chennai,Central,Tamil Nadu,1212,0.1,2017,3,5,484.8,299.25
+Oil & Masala,Edible Oil & Ghee,Dharmapuri,East,Tamil Nadu,1285,0.31,2015,9,26,398.35,356.06
+Beverages,Health Drinks,Salem,West,Tamil Nadu,1997,0.31,2016,12,5,678.98,417.03
+Oil & Masala,Edible Oil & Ghee,Trichy,South,Tamil Nadu,2350,0.24,2018,3,31,1057.5,629.7
+Beverages,Soft Drinks,Namakkal,East,Tamil Nadu,2020,0.22,2017,1,4,848.4,443.95
+Food Grains,Organic Staples,Tenkasi,Central,Tamil Nadu,898,0.19,2017,3,9,161.64,169.39
+Beverages,Health Drinks,Vellore,East,Tamil Nadu,1109,0.14,2017,6,28,221.8,298.24
+Fruits & Veggies,Organic Vegetables,Trichy,East,Tamil Nadu,968,0.2,2017,12,25,367.84,308.65
+Beverages,Health Drinks,Karur,Central,Tamil Nadu,2160,0.16,2018,2,16,928.8,548.72
+Snacks,Cookies,Virudhunagar,West,Tamil Nadu,1197,0.12,2018,8,21,418.95,292.33
+Beverages,Soft Drinks,Ramanadhapuram,West,Tamil Nadu,1690,0.19,2018,12,30,135.2,389.9
+Beverages,Soft Drinks,Tenkasi,South,Tamil Nadu,604,0.11,2016,8,23,211.4,181.36
+Food Grains,Dals & Pulses,Dindigul,West,Tamil Nadu,696,0.2,2017,8,10,118.32,146.92
+Fruits & Veggies,Fresh Vegetables,Karur,South,Tamil Nadu,2299,0.22,2016,6,13,988.57,619.95
+Snacks,Chocolates,Kanyakumari,South,Tamil Nadu,1709,0.28,2018,4,11,615.24,425.76
+Oil & Masala,Masalas,Chennai,Central,Tamil Nadu,1818,0.23,2015,9,9,745.38,472.85
+Snacks,Noodles,Dindigul,East,Tamil Nadu,1229,0.22,2015,4,23,442.44,313.71
+"Eggs, Meat & Fish",Eggs,Perambalur,West,Tamil Nadu,618,0.28,2016,12,15,216.3,176.94
+Beverages,Soft Drinks,Perambalur,Central,Tamil Nadu,1520,0.12,2018,1,16,182.4,319.07
+Food Grains,Rice,Pudukottai,East,Tamil Nadu,1284,0.12,2018,4,9,231.12,317.77
+Snacks,Cookies,Perambalur,Central,Tamil Nadu,666,0.17,2015,11,22,146.52,151.94
+Bakery,Breads & Buns,Kanyakumari,West,Tamil Nadu,1657,0.27,2018,8,12,347.97,454.57
+Snacks,Cookies,Viluppuram,East,Tamil Nadu,1079,0.24,2015,4,11,410.02,238.61
+Bakery,Biscuits,Kanyakumari,East,Tamil Nadu,1864,0.18,2015,3,25,428.72,544.43
+Oil & Masala,Masalas,Bodi,West,Tamil Nadu,680,0.22,2016,9,13,292.4,154.12
+Beverages,Soft Drinks,Trichy,Central,Tamil Nadu,1880,0.11,2017,9,6,319.6,418.91
+Snacks,Noodles,Krishnagiri,South,Tamil Nadu,2041,0.23,2016,6,9,816.4,556.4
+Food Grains,Dals & Pulses,Bodi,West,Tamil Nadu,2426,0.2,2018,4,9,291.12,574.92
+"Eggs, Meat & Fish",Fish,Ramanadhapuram,East,Tamil Nadu,2301,0.31,2016,9,7,667.29,679.64
+Snacks,Chocolates,Pudukottai,Central,Tamil Nadu,2091,0.27,2017,9,28,522.75,582.55
+Bakery,Cakes,Nagercoil,West,Tamil Nadu,1531,0.28,2018,8,12,505.23,339.05
+Bakery,Biscuits,Tirunelveli,East,Tamil Nadu,1602,0.33,2015,11,18,656.82,417.35
+Bakery,Biscuits,Viluppuram,Central,Tamil Nadu,1727,0.24,2015,3,17,690.8,384.48
+"Eggs, Meat & Fish",Chicken,Nagercoil,East,Tamil Nadu,750,0.26,2015,6,22,75.0,170.54
+Food Grains,Dals & Pulses,Kanyakumari,Central,Tamil Nadu,1768,0.21,2015,7,11,141.44,443.31
+Fruits & Veggies,Organic Fruits,Trichy,West,Tamil Nadu,1900,0.23,2015,3,4,437.0,497.73
+Oil & Masala,Spices,Ooty,Central,Tamil Nadu,1643,0.26,2018,1,8,246.45,410.62
+Snacks,Cookies,Chennai,Central,Tamil Nadu,1612,0.11,2018,10,19,499.72,327.17
+Bakery,Cakes,Dindigul,East,Tamil Nadu,2436,0.28,2018,9,16,584.64,612.67
+Snacks,Noodles,Chennai,Central,Tamil Nadu,2164,0.26,2017,5,9,281.32,513.13
+Fruits & Veggies,Fresh Fruits,Ooty,West,Tamil Nadu,2141,0.24,2018,12,16,256.92,567.48
+Bakery,Biscuits,Karur,West,Tamil Nadu,2378,0.12,2017,6,6,356.7,577.54
+"Eggs, Meat & Fish",Fish,Salem,East,Tamil Nadu,2445,0.3,2018,2,4,1051.35,633.33
+Fruits & Veggies,Organic Fruits,Theni,Central,Tamil Nadu,563,0.31,2017,9,25,101.34,145.5
+"Eggs, Meat & Fish",Mutton,Karur,West,Tamil Nadu,1952,0.35,2018,11,21,156.16,529.21
+Fruits & Veggies,Organic Vegetables,Salem,Central,Tamil Nadu,1988,0.13,2016,11,16,497.0,551.13
+Fruits & Veggies,Organic Vegetables,Coimbatore,West,Tamil Nadu,1899,0.21,2018,9,16,493.74,430.04
+Bakery,Breads & Buns,Madurai,Central,Tamil Nadu,841,0.14,2018,4,3,269.12,225.09
+Oil & Masala,Masalas,Pudukottai,South,Tamil Nadu,940,0.33,2017,2,16,394.8,230.78
+Snacks,Noodles,Viluppuram,Central,Tamil Nadu,1292,0.34,2016,11,22,348.84,406.74
+Food Grains,Organic Staples,Madurai,South,Tamil Nadu,790,0.32,2017,4,16,71.1,205.79
+Beverages,Health Drinks,Virudhunagar,West,Tamil Nadu,2282,0.29,2015,10,18,867.16,617.68
+Bakery,Breads & Buns,Tirunelveli,East,Tamil Nadu,1590,0.1,2015,8,26,556.5,457.12
+Food Grains,Atta & Flour,Cumbum,South,Tamil Nadu,1188,0.31,2018,12,22,522.72,286.77
+Food Grains,Dals & Pulses,Chennai,West,Tamil Nadu,1143,0.13,2018,3,7,434.34,226.99
+Bakery,Breads & Buns,Pudukottai,Central,Tamil Nadu,2078,0.26,2018,10,23,831.2,534.69
+Oil & Masala,Edible Oil & Ghee,Tirunelveli,West,Tamil Nadu,1212,0.12,2016,11,4,109.08,265.97
+Fruits & Veggies,Fresh Vegetables,Nagercoil,Central,Tamil Nadu,1738,0.35,2015,3,30,729.96,456.38
+Oil & Masala,Edible Oil & Ghee,Dharmapuri,Central,Tamil Nadu,662,0.24,2017,1,10,132.4,156.55
+Fruits & Veggies,Organic Vegetables,Pudukottai,West,Tamil Nadu,2070,0.18,2015,6,9,248.4,420.71
+"Eggs, Meat & Fish",Chicken,Karur,East,Tamil Nadu,1126,0.24,2015,4,8,326.54,245.12
+Fruits & Veggies,Organic Fruits,Dharmapuri,Central,Tamil Nadu,1033,0.16,2018,6,29,433.86,252.74
+Snacks,Noodles,Bodi,West,Tamil Nadu,1357,0.32,2015,11,16,583.51,383.06
+Bakery,Breads & Buns,Krishnagiri,West,Tamil Nadu,1825,0.21,2018,10,11,766.5,373.21
+Beverages,Health Drinks,Chennai,West,Tamil Nadu,1313,0.34,2018,10,22,144.43,320.57
+Bakery,Breads & Buns,Dindigul,West,Tamil Nadu,1331,0.1,2018,5,22,199.65,315.07
+Snacks,Noodles,Karur,West,Tamil Nadu,2171,0.17,2016,10,31,434.2,541.88
+Snacks,Noodles,Madurai,Central,Tamil Nadu,2253,0.18,2018,1,8,315.42,559.87
+Fruits & Veggies,Fresh Fruits,Perambalur,West,Tamil Nadu,784,0.26,2015,9,20,156.8,208.46
+Beverages,Health Drinks,Tirunelveli,Central,Tamil Nadu,2069,0.16,2017,2,9,455.18,492.03
+Beverages,Health Drinks,Ramanadhapuram,West,Tamil Nadu,990,0.2,2018,2,13,445.5,260.42
+Food Grains,Rice,Madurai,East,Tamil Nadu,1888,0.34,2018,3,24,283.2,547.8
+Beverages,Health Drinks,Cumbum,East,Tamil Nadu,2083,0.15,2015,6,16,437.43,583.66
+Food Grains,Atta & Flour,Krishnagiri,West,Tamil Nadu,953,0.21,2018,12,24,428.85,202.77
+Bakery,Breads & Buns,Ramanadhapuram,West,Tamil Nadu,1938,0.27,2017,12,5,368.22,429.12
+Beverages,Soft Drinks,Bodi,Central,Tamil Nadu,1960,0.29,2017,8,3,725.2,412.14
+"Eggs, Meat & Fish",Mutton,Coimbatore,East,Tamil Nadu,2125,0.33,2017,7,22,361.25,568.91
+Fruits & Veggies,Fresh Fruits,Krishnagiri,West,Tamil Nadu,689,0.16,2018,9,29,103.35,166.54
+Snacks,Noodles,Namakkal,West,Tamil Nadu,610,0.26,2016,3,19,122.0,172.94
+"Eggs, Meat & Fish",Mutton,Theni,West,Tamil Nadu,2461,0.21,2017,5,16,959.79,611.27
+Bakery,Cakes,Ramanadhapuram,East,Tamil Nadu,1743,0.25,2016,5,3,610.05,390.02
+Oil & Masala,Masalas,Ramanadhapuram,West,Tamil Nadu,606,0.29,2018,12,21,121.2,160.57
+Oil & Masala,Edible Oil & Ghee,Trichy,West,Tamil Nadu,2051,0.26,2018,11,16,922.95,560.71
+Beverages,Health Drinks,Theni,East,Tamil Nadu,734,0.17,2018,7,30,117.44,170.73
+Oil & Masala,Edible Oil & Ghee,Trichy,West,Tamil Nadu,2226,0.16,2016,3,5,511.98,641.93
+Snacks,Noodles,Dindigul,West,Tamil Nadu,938,0.16,2018,3,13,206.36,194.26
+Fruits & Veggies,Organic Fruits,Theni,East,Tamil Nadu,1173,0.12,2017,4,22,164.22,270.52
+"Eggs, Meat & Fish",Chicken,Trichy,East,Tamil Nadu,558,0.35,2016,11,4,189.72,119.49
+Fruits & Veggies,Fresh Vegetables,Madurai,East,Tamil Nadu,689,0.27,2018,10,26,248.04,203.21
+"Eggs, Meat & Fish",Chicken,Virudhunagar,West,Tamil Nadu,1844,0.3,2017,8,16,147.52,426.26
+Snacks,Cookies,Ramanadhapuram,East,Tamil Nadu,1754,0.33,2018,11,26,719.14,411.12
+Fruits & Veggies,Organic Vegetables,Viluppuram,West,Tamil Nadu,508,0.16,2016,8,11,127.0,128.41
+"Eggs, Meat & Fish",Eggs,Ooty,East,Tamil Nadu,1914,0.23,2015,11,17,823.02,410.07
+Beverages,Health Drinks,Pudukottai,Central,Tamil Nadu,839,0.15,2017,12,8,159.41,156.97
+"Eggs, Meat & Fish",Fish,Namakkal,West,Tamil Nadu,2115,0.19,2015,9,11,359.55,589.08
+Food Grains,Atta & Flour,Pudukottai,East,Tamil Nadu,2190,0.17,2018,9,22,175.2,590.95
+Bakery,Cakes,Kanyakumari,Central,Tamil Nadu,1023,0.35,2015,1,3,368.28,258.85
+Snacks,Noodles,Pudukottai,East,Tamil Nadu,2273,0.18,2017,11,20,613.71,689.58
+Snacks,Noodles,Krishnagiri,East,Tamil Nadu,1541,0.14,2018,6,2,493.12,406.59
+Fruits & Veggies,Fresh Vegetables,Namakkal,South,Tamil Nadu,1604,0.31,2018,10,7,577.44,321.34
+Beverages,Soft Drinks,Tirunelveli,Central,Tamil Nadu,548,0.3,2018,12,25,65.76,134.16
+Oil & Masala,Spices,Karur,East,Tamil Nadu,1020,0.11,2016,9,18,173.4,209.1
+Oil & Masala,Edible Oil & Ghee,Coimbatore,East,Tamil Nadu,1358,0.23,2017,11,12,543.2,351.73
+"Eggs, Meat & Fish",Chicken,Bodi,Central,Tamil Nadu,1259,0.3,2016,8,6,440.65,353.23
+Bakery,Biscuits,Coimbatore,Central,Tamil Nadu,1856,0.1,2018,11,9,723.84,517.99
+Beverages,Health Drinks,Theni,South,Tamil Nadu,794,0.12,2018,5,27,230.26,160.97
+Beverages,Health Drinks,Trichy,East,Tamil Nadu,551,0.28,2016,9,17,198.36,117.08
+Oil & Masala,Spices,Perambalur,West,Tamil Nadu,1049,0.11,2016,4,18,251.76,249.65
+"Eggs, Meat & Fish",Fish,Chennai,West,Tamil Nadu,2351,0.16,2018,12,28,1057.95,579.93
+Food Grains,Atta & Flour,Krishnagiri,Central,Tamil Nadu,552,0.14,2018,8,12,138.0,156.42
+Snacks,Cookies,Vellore,Central,Tamil Nadu,1532,0.1,2016,12,20,229.8,334.65
+Food Grains,Atta & Flour,Tenkasi,South,Tamil Nadu,1056,0.16,2016,11,6,232.32,280.26
+"Eggs, Meat & Fish",Eggs,Cumbum,West,Tamil Nadu,918,0.35,2018,2,9,229.5,202.62
+Oil & Masala,Spices,Kanyakumari,South,Tamil Nadu,1195,0.26,2018,9,18,322.65,312.78
+Bakery,Breads & Buns,Theni,Central,Tamil Nadu,1714,0.2,2018,7,20,737.02,459.77
+Snacks,Cookies,Perambalur,Central,Tamil Nadu,2397,0.33,2016,11,16,191.76,617.77
+Bakery,Breads & Buns,Viluppuram,East,Tamil Nadu,2429,0.21,2016,9,21,607.25,732.13
+"Eggs, Meat & Fish",Eggs,Madurai,South,Tamil Nadu,808,0.1,2017,4,17,177.76,200.07
+Fruits & Veggies,Fresh Vegetables,Tenkasi,East,Tamil Nadu,1475,0.34,2018,8,27,236.0,379.87
+Oil & Masala,Masalas,Trichy,West,Tamil Nadu,727,0.17,2016,8,31,109.05,178.42
+Snacks,Noodles,Kanyakumari,East,Tamil Nadu,1576,0.23,2017,5,12,425.52,378.31
+Snacks,Noodles,Kanyakumari,South,Tamil Nadu,727,0.21,2017,11,24,268.99,193.78
+"Eggs, Meat & Fish",Mutton,Kanyakumari,Central,Tamil Nadu,1518,0.24,2015,9,14,607.2,358.76
+Bakery,Cakes,Tenkasi,South,Tamil Nadu,1846,0.11,2017,3,27,516.88,446.64
+Food Grains,Atta & Flour,Krishnagiri,West,Tamil Nadu,629,0.11,2018,8,7,69.19,164.99
+Food Grains,Dals & Pulses,Chennai,Central,Tamil Nadu,2396,0.3,2017,3,14,311.48,551.57
+"Eggs, Meat & Fish",Chicken,Chennai,South,Tamil Nadu,1354,0.35,2015,12,9,500.98,399.19
+"Eggs, Meat & Fish",Eggs,Ramanadhapuram,Central,Tamil Nadu,2446,0.34,2016,11,21,1027.32,619.74
+Beverages,Health Drinks,Ooty,West,Tamil Nadu,1296,0.23,2016,1,30,259.2,325.02
+Oil & Masala,Edible Oil & Ghee,Dharmapuri,Central,Tamil Nadu,1182,0.33,2017,5,11,425.52,326.57
+Oil & Masala,Spices,Chennai,Central,Tamil Nadu,574,0.1,2017,3,24,109.06,163.34
+Snacks,Chocolates,Theni,East,Tamil Nadu,1167,0.28,2018,12,30,455.13,282.95
+Snacks,Chocolates,Ooty,West,Tamil Nadu,1531,0.13,2018,10,12,336.82,378.44
+Fruits & Veggies,Fresh Fruits,Coimbatore,West,Tamil Nadu,670,0.31,2015,8,12,107.2,167.06
+Snacks,Cookies,Tirunelveli,East,Tamil Nadu,1544,0.1,2017,11,27,617.6,362.77
+Snacks,Noodles,Salem,West,Tamil Nadu,1443,0.25,2015,8,8,533.91,401.68
+Oil & Masala,Spices,Viluppuram,South,Tamil Nadu,2100,0.14,2017,5,12,315.0,555.58
+Fruits & Veggies,Fresh Vegetables,Coimbatore,Central,Tamil Nadu,620,0.3,2017,5,9,74.4,185.72
+Oil & Masala,Masalas,Ooty,West,Tamil Nadu,939,0.32,2015,9,20,215.97,224.36
+Oil & Masala,Edible Oil & Ghee,Dharmapuri,West,Tamil Nadu,1982,0.34,2018,2,26,772.98,544.19
+Beverages,Health Drinks,Cumbum,East,Tamil Nadu,561,0.27,2017,1,15,190.74,127.95
+Snacks,Chocolates,Karur,West,Tamil Nadu,1903,0.13,2015,9,6,437.69,483.59
+"Eggs, Meat & Fish",Mutton,Madurai,West,Tamil Nadu,1705,0.22,2015,5,13,119.35,429.94
+Food Grains,Organic Staples,Ramanadhapuram,West,Tamil Nadu,1620,0.11,2017,6,26,712.8,394.67
+Bakery,Cakes,Ooty,South,Tamil Nadu,1541,0.32,2015,8,29,600.99,404.15
+Food Grains,Atta & Flour,Coimbatore,Central,Tamil Nadu,905,0.17,2017,2,5,271.5,193.75
+Fruits & Veggies,Fresh Fruits,Namakkal,Central,Tamil Nadu,2257,0.33,2016,1,31,270.84,624.91
+Oil & Masala,Spices,Kanyakumari,Central,Tamil Nadu,1820,0.15,2018,1,30,509.6,519.43
+Bakery,Biscuits,Vellore,West,Tamil Nadu,1738,0.24,2018,9,19,173.8,440.21
+Food Grains,Organic Staples,Virudhunagar,East,Tamil Nadu,919,0.14,2016,11,27,404.36,163.36
+Oil & Masala,Masalas,Pudukottai,East,Tamil Nadu,1173,0.15,2018,8,12,480.93,308.35
+Fruits & Veggies,Fresh Fruits,Chennai,West,Tamil Nadu,876,0.31,2017,12,11,122.64,203.92
+Bakery,Cakes,Namakkal,South,Tamil Nadu,1622,0.12,2018,6,5,81.1,344.2
+"Eggs, Meat & Fish",Eggs,Ooty,East,Tamil Nadu,1396,0.16,2017,11,20,237.32,293.32
+Beverages,Soft Drinks,Kanyakumari,West,Tamil Nadu,623,0.31,2018,11,17,112.14,167.2
+Fruits & Veggies,Organic Vegetables,Dharmapuri,East,Tamil Nadu,1231,0.1,2018,12,1,381.61,251.0
+Bakery,Biscuits,Vellore,West,Tamil Nadu,791,0.33,2015,11,17,324.31,185.02
+Food Grains,Atta & Flour,Krishnagiri,Central,Tamil Nadu,1355,0.32,2017,11,8,298.1,299.55
+Beverages,Health Drinks,Chennai,South,Tamil Nadu,1391,0.16,2016,6,28,570.31,339.09
+"Eggs, Meat & Fish",Chicken,Madurai,West,Tamil Nadu,1108,0.26,2015,4,25,365.64,282.35
+Snacks,Cookies,Krishnagiri,West,Tamil Nadu,597,0.27,2017,8,21,244.77,148.62
+Food Grains,Atta & Flour,Dharmapuri,East,Tamil Nadu,1580,0.32,2016,4,6,616.2,420.5
+Fruits & Veggies,Organic Vegetables,Pudukottai,East,Tamil Nadu,1951,0.27,2015,6,21,234.12,552.5
+Snacks,Chocolates,Pudukottai,South,Tamil Nadu,1997,0.18,2015,12,20,319.52,571.43
+Oil & Masala,Masalas,Coimbatore,South,Tamil Nadu,1772,0.12,2016,1,5,141.76,507.31
+Beverages,Health Drinks,Krishnagiri,West,Tamil Nadu,810,0.18,2018,5,30,194.4,223.93
+Fruits & Veggies,Fresh Vegetables,Chennai,Central,Tamil Nadu,711,0.13,2017,5,27,298.62,175.02
+Beverages,Soft Drinks,Salem,West,Tamil Nadu,996,0.27,2015,12,29,199.2,276.01
+Beverages,Soft Drinks,Theni,West,Tamil Nadu,686,0.19,2016,10,31,253.82,161.35
+"Eggs, Meat & Fish",Eggs,Theni,South,Tamil Nadu,2475,0.31,2015,5,7,915.75,600.05
+Fruits & Veggies,Fresh Vegetables,Namakkal,West,Tamil Nadu,2454,0.23,2017,7,11,588.96,590.12
+Beverages,Soft Drinks,Namakkal,South,Tamil Nadu,1393,0.3,2015,1,20,431.83,364.74
+"Eggs, Meat & Fish",Mutton,Madurai,West,Tamil Nadu,1275,0.13,2018,6,29,433.5,379.43
+"Eggs, Meat & Fish",Chicken,Coimbatore,East,Tamil Nadu,826,0.26,2018,2,3,41.3,226.98
+"Eggs, Meat & Fish",Fish,Dharmapuri,East,Tamil Nadu,608,0.28,2018,8,12,54.72,182.65
+Food Grains,Organic Staples,Theni,West,Tamil Nadu,1074,0.16,2018,12,5,375.9,237.03
+Beverages,Health Drinks,Pudukottai,West,Tamil Nadu,1525,0.12,2018,7,26,198.25,327.88
+Fruits & Veggies,Fresh Fruits,Virudhunagar,Central,Tamil Nadu,2100,0.16,2016,5,13,483.0,606.16
+Food Grains,Rice,Tirunelveli,West,Tamil Nadu,599,0.1,2016,10,9,221.63,167.66
+"Eggs, Meat & Fish",Chicken,Theni,Central,Tamil Nadu,1833,0.26,2016,12,24,128.31,469.35
+Fruits & Veggies,Fresh Fruits,Namakkal,Central,Tamil Nadu,1874,0.2,2017,11,27,468.5,437.9
+Bakery,Breads & Buns,Ramanadhapuram,West,Tamil Nadu,590,0.34,2018,9,28,247.8,136.78
+Bakery,Biscuits,Kanyakumari,West,Tamil Nadu,1599,0.27,2018,7,5,431.73,370.43
+Bakery,Biscuits,Karur,South,Tamil Nadu,2101,0.25,2015,3,11,819.39,442.97
+Fruits & Veggies,Organic Fruits,Nagercoil,West,Tamil Nadu,2217,0.26,2018,1,23,554.25,667.33
+"Eggs, Meat & Fish",Fish,Viluppuram,Central,Tamil Nadu,1699,0.16,2016,9,24,169.9,413.91
+Bakery,Breads & Buns,Dindigul,Central,Tamil Nadu,2048,0.28,2016,8,13,102.4,449.86
+Beverages,Health Drinks,Tenkasi,West,Tamil Nadu,1226,0.14,2018,2,9,416.84,280.66
+Snacks,Noodles,Theni,Central,Tamil Nadu,2469,0.26,2018,10,23,987.6,687.85
+Oil & Masala,Spices,Viluppuram,East,Tamil Nadu,1552,0.34,2018,3,19,294.88,381.59
+"Eggs, Meat & Fish",Eggs,Karur,Central,Tamil Nadu,1850,0.29,2018,7,22,481.0,529.82
+"Eggs, Meat & Fish",Chicken,Krishnagiri,East,Tamil Nadu,2153,0.25,2015,11,7,279.89,562.77
+Food Grains,Rice,Nagercoil,East,Tamil Nadu,673,0.19,2015,9,29,114.41,188.56
+Fruits & Veggies,Fresh Vegetables,Tirunelveli,East,Tamil Nadu,2349,0.23,2016,9,17,845.64,554.57
+"Eggs, Meat & Fish",Chicken,Coimbatore,Central,Tamil Nadu,2134,0.2,2018,10,9,533.5,561.45
+Oil & Masala,Masalas,Tirunelveli,East,Tamil Nadu,632,0.2,2016,9,7,195.92,170.54
+Snacks,Noodles,Karur,Central,Tamil Nadu,1639,0.22,2017,4,9,360.58,364.44
+"Eggs, Meat & Fish",Eggs,Chennai,East,Tamil Nadu,1673,0.17,2018,3,17,368.06,399.86
+Beverages,Health Drinks,Chennai,East,Tamil Nadu,1259,0.25,2016,5,14,276.98,335.45
+Oil & Masala,Edible Oil & Ghee,Theni,East,Tamil Nadu,783,0.1,2015,3,28,274.05,179.5
+Food Grains,Organic Staples,Viluppuram,East,Tamil Nadu,540,0.17,2018,10,22,178.2,97.91
+"Eggs, Meat & Fish",Chicken,Nagercoil,East,Tamil Nadu,2292,0.17,2016,8,11,320.88,541.06
+Beverages,Soft Drinks,Trichy,East,Tamil Nadu,1473,0.31,2015,5,8,176.76,338.15
+Food Grains,Rice,Bodi,East,Tamil Nadu,1240,0.31,2018,6,19,446.4,326.97
+Fruits & Veggies,Organic Fruits,Bodi,South,Tamil Nadu,1233,0.14,2015,9,30,172.62,322.02
+Oil & Masala,Masalas,Ramanadhapuram,South,Tamil Nadu,1664,0.35,2015,2,4,682.24,371.76
+Snacks,Cookies,Dharmapuri,East,Tamil Nadu,2207,0.16,2016,11,27,353.12,490.43
+Fruits & Veggies,Fresh Fruits,Theni,West,Tamil Nadu,1140,0.32,2018,9,15,478.8,303.56
+Food Grains,Atta & Flour,Theni,East,Tamil Nadu,2384,0.2,2016,11,9,309.92,537.11
+Snacks,Chocolates,Namakkal,East,Tamil Nadu,770,0.13,2015,1,9,192.5,200.37
+Snacks,Chocolates,Nagercoil,Central,Tamil Nadu,2349,0.32,2015,5,4,234.9,501.9
+Bakery,Breads & Buns,Perambalur,East,Tamil Nadu,1204,0.19,2017,12,30,216.72,347.55
+Bakery,Biscuits,Virudhunagar,South,Tamil Nadu,1941,0.12,2018,3,7,737.58,527.7
+"Eggs, Meat & Fish",Mutton,Vellore,West,Tamil Nadu,2471,0.33,2017,11,18,296.52,486.03
+Beverages,Health Drinks,Pudukottai,West,Tamil Nadu,785,0.27,2018,7,28,47.1,162.85
+"Eggs, Meat & Fish",Chicken,Coimbatore,Central,Tamil Nadu,618,0.12,2017,5,9,185.4,172.32
+Food Grains,Rice,Bodi,Central,Tamil Nadu,1823,0.3,2015,11,14,729.2,432.04
+Oil & Masala,Masalas,Salem,West,Tamil Nadu,617,0.3,2015,6,25,67.87,150.54
+Food Grains,Rice,Theni,East,Tamil Nadu,1601,0.18,2016,7,18,112.07,455.54
+Beverages,Health Drinks,Namakkal,Central,Tamil Nadu,2404,0.13,2016,2,4,504.84,615.1
+Beverages,Soft Drinks,Ooty,Central,Tamil Nadu,1785,0.29,2015,1,20,624.75,490.78
+Snacks,Chocolates,Viluppuram,East,Tamil Nadu,1133,0.1,2018,7,14,124.63,319.54
+Food Grains,Dals & Pulses,Viluppuram,East,Tamil Nadu,1898,0.23,2015,9,26,284.7,485.05
+Snacks,Noodles,Tirunelveli,South,Tamil Nadu,2110,0.3,2015,3,15,590.8,546.46
+Fruits & Veggies,Fresh Vegetables,Trichy,West,Tamil Nadu,1077,0.35,2018,6,5,430.8,272.02
+Snacks,Noodles,Karur,Central,Tamil Nadu,660,0.35,2017,12,11,118.8,194.08
+Oil & Masala,Edible Oil & Ghee,Pudukottai,Central,Tamil Nadu,1912,0.29,2015,7,6,382.4,426.0
+Beverages,Health Drinks,Karur,Central,Tamil Nadu,2131,0.19,2015,4,20,362.27,544.56
+Beverages,Health Drinks,Theni,Central,Tamil Nadu,2294,0.31,2017,6,3,481.74,642.72
+Fruits & Veggies,Organic Vegetables,Coimbatore,South,Tamil Nadu,2009,0.15,2016,8,6,703.15,456.92
+Bakery,Cakes,Salem,South,Tamil Nadu,2126,0.35,2018,8,23,935.44,569.32
+"Eggs, Meat & Fish",Fish,Virudhunagar,West,Tamil Nadu,1230,0.13,2018,6,11,442.8,292.51
+Fruits & Veggies,Fresh Vegetables,Chennai,West,Tamil Nadu,2262,0.31,2016,3,27,1017.9,604.47
+Beverages,Health Drinks,Dharmapuri,Central,Tamil Nadu,1159,0.26,2017,9,26,69.54,277.68
+Food Grains,Organic Staples,Coimbatore,West,Tamil Nadu,2442,0.13,2018,9,29,1025.64,543.9
+Beverages,Health Drinks,Dindigul,West,Tamil Nadu,2348,0.32,2017,10,24,986.16,612.06
+"Eggs, Meat & Fish",Chicken,Tenkasi,East,Tamil Nadu,1329,0.15,2015,11,7,544.89,343.87
+Fruits & Veggies,Fresh Vegetables,Kanyakumari,South,Tamil Nadu,2430,0.33,2018,3,11,704.7,635.23
+Fruits & Veggies,Organic Vegetables,Madurai,West,Tamil Nadu,1438,0.35,2018,8,7,186.94,426.37
+Oil & Masala,Spices,Salem,East,Tamil Nadu,1188,0.34,2015,11,17,71.28,324.14
+Bakery,Cakes,Salem,East,Tamil Nadu,1541,0.29,2018,10,12,169.51,333.78
+Fruits & Veggies,Organic Vegetables,Ooty,Central,Tamil Nadu,2392,0.35,2015,12,11,526.24,571.42
+Bakery,Breads & Buns,Madurai,South,Tamil Nadu,1426,0.13,2017,4,9,399.28,342.05
+Bakery,Biscuits,Dharmapuri,West,Tamil Nadu,2340,0.14,2017,7,22,210.6,569.22
+Bakery,Biscuits,Dindigul,East,Tamil Nadu,912,0.23,2016,8,11,91.2,213.4
+Oil & Masala,Spices,Ooty,East,Tamil Nadu,1423,0.28,2016,5,3,583.43,332.84
+Snacks,Chocolates,Perambalur,West,Tamil Nadu,2352,0.25,2017,8,7,1058.4,544.82
+Snacks,Chocolates,Cumbum,West,Tamil Nadu,1323,0.15,2018,9,17,132.3,305.38
+Fruits & Veggies,Organic Fruits,Pudukottai,Central,Tamil Nadu,1926,0.32,2015,12,4,211.86,391.31
+"Eggs, Meat & Fish",Chicken,Tirunelveli,Central,Tamil Nadu,2081,0.28,2018,6,25,187.29,567.75
+Oil & Masala,Spices,Viluppuram,Central,Tamil Nadu,767,0.14,2018,1,12,337.48,149.59
+Bakery,Breads & Buns,Bodi,West,Tamil Nadu,1922,0.18,2016,3,2,845.68,446.67
+Snacks,Noodles,Nagercoil,Central,Tamil Nadu,1416,0.32,2015,12,11,382.32,406.71
+Bakery,Biscuits,Vellore,West,Tamil Nadu,1384,0.3,2018,11,7,525.92,360.13
+Beverages,Soft Drinks,Cumbum,West,Tamil Nadu,1989,0.25,2017,10,15,556.92,580.2
+Fruits & Veggies,Fresh Fruits,Tirunelveli,Central,Tamil Nadu,2144,0.11,2016,12,7,536.0,506.3
+Fruits & Veggies,Organic Fruits,Dindigul,South,Tamil Nadu,630,0.35,2016,12,27,176.4,173.33
+Beverages,Soft Drinks,Kanyakumari,West,Tamil Nadu,692,0.29,2015,8,27,159.16,154.27
+Fruits & Veggies,Organic Vegetables,Karur,East,Tamil Nadu,2058,0.19,2016,3,28,370.44,416.72
+"Eggs, Meat & Fish",Fish,Ooty,South,Tamil Nadu,743,0.11,2017,1,5,104.02,135.36
+Fruits & Veggies,Fresh Fruits,Bodi,East,Tamil Nadu,538,0.35,2017,11,25,32.28,103.42
+Fruits & Veggies,Fresh Fruits,Chennai,West,Tamil Nadu,822,0.21,2018,10,19,271.26,205.53
+Food Grains,Dals & Pulses,Coimbatore,East,Tamil Nadu,1515,0.32,2018,9,24,651.45,278.21
+"Eggs, Meat & Fish",Chicken,Pudukottai,West,Tamil Nadu,1624,0.2,2018,5,2,129.92,428.9
+Fruits & Veggies,Fresh Fruits,Bodi,West,Tamil Nadu,1900,0.34,2015,10,13,722.0,404.22
+Snacks,Chocolates,Kanyakumari,Central,Tamil Nadu,640,0.22,2016,11,21,44.8,190.9
+Food Grains,Dals & Pulses,Ramanadhapuram,East,Tamil Nadu,1526,0.14,2018,8,24,167.86,368.92
+Food Grains,Organic Staples,Kanyakumari,East,Tamil Nadu,1900,0.26,2016,2,25,855.0,582.28
+Bakery,Biscuits,Coimbatore,Central,Tamil Nadu,2256,0.18,2016,6,4,225.6,505.36
+Bakery,Biscuits,Ramanadhapuram,West,Tamil Nadu,1221,0.26,2018,11,28,231.99,307.73
+Bakery,Cakes,Chennai,East,Tamil Nadu,2329,0.24,2016,8,21,954.89,561.89
+Fruits & Veggies,Fresh Vegetables,Coimbatore,West,Tamil Nadu,775,0.33,2018,2,11,178.25,206.4
+Snacks,Chocolates,Chennai,West,Tamil Nadu,1018,0.11,2016,1,27,274.86,299.89
+Beverages,Soft Drinks,Ramanadhapuram,East,Tamil Nadu,2491,0.27,2016,11,14,548.02,587.64
+Fruits & Veggies,Organic Fruits,Ooty,East,Tamil Nadu,1536,0.1,2018,3,13,307.2,297.08
+Oil & Masala,Spices,Karur,West,Tamil Nadu,2194,0.34,2017,2,9,987.3,510.54
+Bakery,Biscuits,Dharmapuri,West,Tamil Nadu,2360,0.3,2016,10,26,731.6,525.55
+Bakery,Biscuits,Tirunelveli,Central,Tamil Nadu,2139,0.14,2018,3,2,128.34,466.08
+"Eggs, Meat & Fish",Fish,Salem,West,Tamil Nadu,1953,0.35,2015,3,26,566.37,499.77
+Beverages,Health Drinks,Vellore,East,Tamil Nadu,2100,0.14,2017,8,5,399.0,514.16
+Bakery,Biscuits,Cumbum,West,Tamil Nadu,2060,0.18,2018,3,19,618.0,637.14
+Snacks,Cookies,Krishnagiri,South,Tamil Nadu,1426,0.28,2018,7,10,228.16,299.04
+Fruits & Veggies,Fresh Vegetables,Nagercoil,South,Tamil Nadu,569,0.1,2018,10,24,51.21,134.19
+Oil & Masala,Edible Oil & Ghee,Namakkal,South,Tamil Nadu,650,0.16,2018,3,11,78.0,156.88
+Snacks,Chocolates,Tirunelveli,East,Tamil Nadu,1155,0.31,2018,8,18,138.6,261.61
+Food Grains,Organic Staples,Dindigul,East,Tamil Nadu,942,0.15,2018,10,3,329.7,207.35
+Oil & Masala,Edible Oil & Ghee,Coimbatore,South,Tamil Nadu,1473,0.33,2016,8,6,147.3,381.93
+Bakery,Cakes,Coimbatore,Central,Tamil Nadu,639,0.29,2015,7,10,83.07,181.48
+Food Grains,Dals & Pulses,Namakkal,East,Tamil Nadu,1319,0.13,2018,2,16,276.99,299.9
+Bakery,Cakes,Ooty,East,Tamil Nadu,768,0.26,2016,6,29,299.52,223.25
+Beverages,Soft Drinks,Madurai,East,Tamil Nadu,734,0.17,2018,7,25,286.26,208.0
+Food Grains,Dals & Pulses,Ooty,Central,Tamil Nadu,2033,0.28,2017,9,13,447.26,439.56
+Beverages,Health Drinks,Madurai,East,Tamil Nadu,1559,0.26,2016,6,16,77.95,487.34
+Bakery,Cakes,Krishnagiri,Central,Tamil Nadu,550,0.32,2017,8,27,203.5,153.05
+"Eggs, Meat & Fish",Fish,Madurai,East,Tamil Nadu,1443,0.19,2016,12,24,274.17,373.28
+"Eggs, Meat & Fish",Chicken,Nagercoil,Central,Tamil Nadu,1804,0.21,2016,12,20,288.64,457.11
+Fruits & Veggies,Organic Vegetables,Dindigul,Central,Tamil Nadu,977,0.18,2016,11,29,332.18,269.23
+"Eggs, Meat & Fish",Fish,Perambalur,South,Tamil Nadu,2317,0.13,2017,5,30,949.97,577.81
+Fruits & Veggies,Fresh Fruits,Nagercoil,West,Tamil Nadu,814,0.14,2016,12,25,276.76,194.27
+Fruits & Veggies,Fresh Vegetables,Dharmapuri,West,Tamil Nadu,1207,0.14,2018,1,12,120.7,283.45
+Oil & Masala,Masalas,Bodi,West,Tamil Nadu,1671,0.26,2018,1,28,501.3,354.26
+Beverages,Soft Drinks,Tenkasi,West,Tamil Nadu,1504,0.25,2017,9,15,240.64,336.1
+"Eggs, Meat & Fish",Eggs,Ramanadhapuram,West,Tamil Nadu,1553,0.29,2018,9,9,186.36,333.22
+Snacks,Noodles,Dindigul,West,Tamil Nadu,835,0.2,2017,10,1,334.0,222.03
+Bakery,Cakes,Coimbatore,Central,Tamil Nadu,2246,0.1,2018,10,7,157.22,504.2
+Food Grains,Rice,Dindigul,South,Tamil Nadu,616,0.34,2015,12,21,227.92,173.88
+Beverages,Health Drinks,Ooty,East,Tamil Nadu,1244,0.17,2017,1,9,62.2,265.19
+"Eggs, Meat & Fish",Mutton,Salem,East,Tamil Nadu,670,0.16,2016,12,11,301.5,159.91
+Beverages,Soft Drinks,Nagercoil,Central,Tamil Nadu,1075,0.29,2017,11,27,311.75,265.99
+Beverages,Health Drinks,Namakkal,West,Tamil Nadu,1937,0.22,2017,10,23,174.33,392.35
+Fruits & Veggies,Organic Fruits,Ooty,West,Tamil Nadu,1223,0.13,2018,7,17,61.15,269.71
+Snacks,Cookies,Trichy,Central,Tamil Nadu,2492,0.14,2017,4,6,124.6,650.01
+Fruits & Veggies,Fresh Fruits,Karur,Central,Tamil Nadu,1334,0.13,2018,5,20,413.54,323.08
+Snacks,Chocolates,Salem,East,Tamil Nadu,1349,0.22,2018,11,20,229.33,303.11
+Bakery,Biscuits,Salem,East,Tamil Nadu,1799,0.22,2016,7,3,323.82,434.27
+"Eggs, Meat & Fish",Mutton,Tenkasi,West,Tamil Nadu,1813,0.28,2015,9,6,290.08,416.48
+"Eggs, Meat & Fish",Fish,Krishnagiri,Central,Tamil Nadu,2038,0.21,2018,2,12,203.8,532.84
+"Eggs, Meat & Fish",Eggs,Viluppuram,East,Tamil Nadu,2230,0.24,2017,4,6,691.3,609.52
+Beverages,Soft Drinks,Tenkasi,East,Tamil Nadu,893,0.19,2016,7,16,348.27,225.88
+Fruits & Veggies,Fresh Vegetables,Coimbatore,West,Tamil Nadu,1683,0.16,2018,10,22,218.79,353.51
+Fruits & Veggies,Fresh Fruits,Bodi,West,Tamil Nadu,1200,0.16,2016,11,20,360.0,315.53
+Fruits & Veggies,Organic Vegetables,Nagercoil,Central,Tamil Nadu,1425,0.12,2017,8,28,441.75,315.07
+Snacks,Cookies,Dharmapuri,West,Tamil Nadu,1671,0.14,2015,9,13,601.56,430.19
+Snacks,Cookies,Chennai,West,Tamil Nadu,2165,0.19,2017,12,25,692.8,439.23
+Fruits & Veggies,Organic Fruits,Pudukottai,South,Tamil Nadu,2492,0.15,2017,9,20,822.36,698.7
+Fruits & Veggies,Fresh Fruits,Tenkasi,East,Tamil Nadu,1158,0.1,2018,3,9,138.96,254.38
+Beverages,Health Drinks,Trichy,West,Tamil Nadu,1637,0.33,2018,12,9,343.77,384.66
+Fruits & Veggies,Organic Fruits,Viluppuram,East,Tamil Nadu,587,0.18,2016,11,22,111.53,176.11
+Food Grains,Dals & Pulses,Krishnagiri,East,Tamil Nadu,929,0.14,2016,5,1,83.61,232.36
+Snacks,Noodles,Viluppuram,Central,Tamil Nadu,1004,0.26,2018,9,12,311.24,268.6
+Fruits & Veggies,Organic Fruits,Salem,West,Tamil Nadu,745,0.35,2016,8,27,208.6,199.55
+Fruits & Veggies,Fresh Fruits,Tirunelveli,South,Tamil Nadu,1826,0.27,2015,2,4,693.88,457.12
+Oil & Masala,Spices,Viluppuram,West,Tamil Nadu,1990,0.25,2016,12,30,139.3,469.12
+Beverages,Soft Drinks,Perambalur,West,Tamil Nadu,2313,0.25,2016,11,14,138.78,541.11
+Fruits & Veggies,Fresh Vegetables,Bodi,Central,Tamil Nadu,783,0.17,2017,1,9,305.37,184.59
+Fruits & Veggies,Organic Fruits,Bodi,Central,Tamil Nadu,1840,0.17,2018,6,3,478.4,431.96
+Snacks,Noodles,Cumbum,South,Tamil Nadu,619,0.22,2018,4,11,259.98,167.77
+Snacks,Chocolates,Viluppuram,Central,Tamil Nadu,595,0.23,2018,7,20,178.5,174.73
+"Eggs, Meat & Fish",Fish,Tirunelveli,East,Tamil Nadu,1492,0.15,2017,7,18,164.12,358.01
+Fruits & Veggies,Fresh Fruits,Kanyakumari,South,Tamil Nadu,1050,0.11,2015,1,26,451.5,251.13
+Food Grains,Dals & Pulses,Pudukottai,South,Tamil Nadu,993,0.33,2016,11,4,377.34,261.12
+Oil & Masala,Masalas,Tirunelveli,West,Tamil Nadu,1949,0.17,2017,10,28,97.45,557.25
+Snacks,Cookies,Bodi,Central,Tamil Nadu,1853,0.28,2017,11,22,685.61,478.69
+Beverages,Soft Drinks,Karur,South,Tamil Nadu,1544,0.2,2016,11,6,386.0,377.02
+Beverages,Health Drinks,Madurai,East,Tamil Nadu,1261,0.15,2017,7,6,75.66,277.63
+Food Grains,Atta & Flour,Dharmapuri,East,Tamil Nadu,1540,0.21,2018,5,12,569.8,405.84
+Bakery,Breads & Buns,Kanyakumari,Central,Tamil Nadu,2141,0.11,2017,10,15,578.07,524.04
+Oil & Masala,Edible Oil & Ghee,Dharmapuri,South,Tamil Nadu,580,0.28,2017,5,9,29.0,165.69
+Beverages,Health Drinks,Chennai,East,Tamil Nadu,944,0.35,2016,3,12,273.76,265.8
+Bakery,Breads & Buns,Dharmapuri,West,Tamil Nadu,1720,0.13,2017,12,18,498.8,437.1
+Bakery,Cakes,Chennai,South,Tamil Nadu,1179,0.16,2018,9,21,389.07,313.6
+Snacks,Chocolates,Tirunelveli,East,Tamil Nadu,1240,0.34,2018,12,30,458.8,317.43
+Beverages,Soft Drinks,Tenkasi,West,Tamil Nadu,1129,0.18,2017,12,9,451.6,310.01
+Food Grains,Organic Staples,Vellore,East,Tamil Nadu,2316,0.34,2016,3,5,926.4,617.34
+Oil & Masala,Masalas,Vellore,East,Tamil Nadu,605,0.2,2018,6,29,151.25,137.7
+Oil & Masala,Masalas,Tirunelveli,West,Tamil Nadu,1934,0.26,2017,3,11,212.74,423.38
+Food Grains,Atta & Flour,Nagercoil,Central,Tamil Nadu,1247,0.32,2018,2,11,211.99,295.77
+"Eggs, Meat & Fish",Mutton,Nagercoil,West,Tamil Nadu,1142,0.15,2017,9,20,102.78,367.27
+Food Grains,Organic Staples,Salem,West,Tamil Nadu,1658,0.11,2017,12,23,215.54,437.52
+Snacks,Cookies,Bodi,Central,Tamil Nadu,705,0.29,2018,9,23,239.7,196.41
+Beverages,Soft Drinks,Cumbum,East,Tamil Nadu,2024,0.3,2018,11,17,809.6,551.09
+Beverages,Soft Drinks,Tenkasi,West,Tamil Nadu,1176,0.12,2017,11,17,399.84,307.43
+Snacks,Chocolates,Trichy,East,Tamil Nadu,520,0.27,2018,2,17,109.2,98.71
+Food Grains,Atta & Flour,Ooty,East,Tamil Nadu,1180,0.17,2018,1,6,70.8,284.81
+"Eggs, Meat & Fish",Eggs,Ooty,South,Tamil Nadu,2099,0.29,2017,5,28,230.89,521.91
+Oil & Masala,Spices,Nagercoil,West,Tamil Nadu,1988,0.11,2018,2,9,357.84,496.44
+Snacks,Chocolates,Ramanadhapuram,Central,Tamil Nadu,1983,0.34,2016,8,12,237.96,435.36
+Snacks,Chocolates,Karur,West,Tamil Nadu,1613,0.27,2018,9,19,209.69,375.54
+Fruits & Veggies,Organic Fruits,Coimbatore,West,Tamil Nadu,723,0.27,2016,2,11,79.53,147.02
+Food Grains,Organic Staples,Viluppuram,West,Tamil Nadu,1764,0.24,2018,12,18,776.16,432.55
+"Eggs, Meat & Fish",Chicken,Bodi,West,Tamil Nadu,2200,0.33,2018,8,21,396.0,591.14
+Oil & Masala,Masalas,Trichy,West,Tamil Nadu,1756,0.17,2018,2,12,280.96,422.69
+Fruits & Veggies,Fresh Vegetables,Theni,South,Tamil Nadu,1964,0.33,2017,3,26,157.12,485.11
+Beverages,Soft Drinks,Bodi,East,Tamil Nadu,624,0.34,2018,6,29,168.48,155.56
+Beverages,Soft Drinks,Perambalur,Central,Tamil Nadu,1632,0.34,2017,2,16,734.4,416.24
+"Eggs, Meat & Fish",Mutton,Ramanadhapuram,West,Tamil Nadu,516,0.12,2015,5,27,196.08,96.64
+Food Grains,Organic Staples,Perambalur,South,Tamil Nadu,1082,0.28,2017,5,2,421.98,228.79
+Food Grains,Rice,Theni,East,Tamil Nadu,1966,0.1,2018,8,7,629.12,533.61
+Snacks,Chocolates,Krishnagiri,West,Tamil Nadu,803,0.19,2018,12,22,240.9,210.67
+"Eggs, Meat & Fish",Eggs,Kanyakumari,East,Tamil Nadu,1642,0.29,2018,4,9,558.28,367.04
+Fruits & Veggies,Fresh Vegetables,Ramanadhapuram,West,Tamil Nadu,1712,0.31,2016,9,19,547.84,386.46
+Oil & Masala,Masalas,Chennai,Central,Tamil Nadu,2382,0.16,2018,9,22,262.02,554.12
+Food Grains,Organic Staples,Chennai,South,Tamil Nadu,755,0.35,2018,8,13,226.5,178.81
+"Eggs, Meat & Fish",Fish,Dharmapuri,East,Tamil Nadu,2012,0.27,2016,9,11,804.8,541.78
+Bakery,Cakes,Kanyakumari,Central,Tamil Nadu,1771,0.1,2017,7,28,141.68,426.59
+Fruits & Veggies,Fresh Vegetables,Bodi,Central,Tamil Nadu,966,0.21,2016,10,5,367.08,245.58
+Oil & Masala,Edible Oil & Ghee,Virudhunagar,Central,Tamil Nadu,1069,0.2,2018,5,11,406.22,245.33
+Beverages,Health Drinks,Bodi,West,Tamil Nadu,739,0.35,2018,7,1,162.58,182.15
+Fruits & Veggies,Organic Vegetables,Theni,West,Tamil Nadu,1961,0.13,2018,12,3,196.1,529.83
+Bakery,Biscuits,Vellore,Central,Tamil Nadu,991,0.1,2017,11,20,416.22,282.71
+Bakery,Breads & Buns,Kanyakumari,South,Tamil Nadu,833,0.11,2017,6,2,116.62,207.5
+Snacks,Noodles,Namakkal,Central,Tamil Nadu,1728,0.31,2015,6,22,501.12,363.73
+Beverages,Health Drinks,Nagercoil,South,Tamil Nadu,1401,0.31,2015,1,13,462.33,378.14
+Beverages,Soft Drinks,Coimbatore,Central,Tamil Nadu,1386,0.27,2017,4,18,304.92,356.08
+Food Grains,Atta & Flour,Viluppuram,West,Tamil Nadu,665,0.19,2015,11,30,259.35,175.61
+Snacks,Chocolates,Ooty,Central,Tamil Nadu,1147,0.27,2017,6,25,504.68,274.78
+Bakery,Biscuits,Viluppuram,West,Tamil Nadu,1439,0.26,2015,9,17,532.43,480.44
+Food Grains,Organic Staples,Ooty,East,Tamil Nadu,2375,0.31,2018,6,20,380.0,571.46
+Oil & Masala,Masalas,Namakkal,West,Tamil Nadu,1863,0.29,2018,2,9,577.53,489.75
+Food Grains,Dals & Pulses,Trichy,East,Tamil Nadu,1599,0.33,2016,12,15,543.66,411.08
+Snacks,Cookies,Bodi,East,Tamil Nadu,627,0.33,2018,4,20,150.48,171.22
+Snacks,Noodles,Tenkasi,East,Tamil Nadu,1771,0.28,2018,11,17,531.3,413.35
+"Eggs, Meat & Fish",Mutton,Karur,South,Tamil Nadu,681,0.23,2018,11,19,245.16,133.69
+Beverages,Soft Drinks,Coimbatore,East,Tamil Nadu,1409,0.11,2015,2,12,408.61,370.38
+Oil & Masala,Edible Oil & Ghee,Coimbatore,South,Tamil Nadu,2009,0.31,2016,3,16,904.05,472.51
+Snacks,Chocolates,Cumbum,South,Tamil Nadu,1826,0.35,2017,10,31,109.56,372.48
+Bakery,Breads & Buns,Virudhunagar,South,Tamil Nadu,2479,0.26,2015,1,8,991.6,664.86
+Fruits & Veggies,Organic Vegetables,Salem,East,Tamil Nadu,1550,0.2,2015,9,16,186.0,418.15
+Fruits & Veggies,Fresh Vegetables,Vellore,South,Tamil Nadu,2327,0.21,2015,6,6,814.45,646.83
+Food Grains,Organic Staples,Salem,West,Tamil Nadu,1269,0.33,2017,8,12,139.59,298.16
+Snacks,Chocolates,Nagercoil,South,Tamil Nadu,2197,0.27,2018,10,13,549.25,565.48
+Snacks,Chocolates,Virudhunagar,Central,Tamil Nadu,616,0.21,2015,11,11,178.64,168.58
+Fruits & Veggies,Fresh Vegetables,Theni,West,Tamil Nadu,1400,0.24,2017,3,13,196.0,348.49
+Beverages,Health Drinks,Karur,East,Tamil Nadu,1379,0.29,2017,4,19,579.18,396.82
+Oil & Masala,Spices,Tenkasi,South,Tamil Nadu,2386,0.25,2015,10,13,691.94,582.61
+Fruits & Veggies,Fresh Fruits,Dindigul,East,Tamil Nadu,2337,0.22,2018,5,14,560.88,556.01
+Food Grains,Rice,Bodi,South,Tamil Nadu,620,0.13,2016,4,9,272.8,183.33
+Snacks,Noodles,Krishnagiri,South,Tamil Nadu,1078,0.21,2018,3,9,258.72,295.27
+Snacks,Noodles,Tirunelveli,West,Tamil Nadu,2468,0.12,2017,5,5,394.88,695.66
+Snacks,Chocolates,Trichy,Central,Tamil Nadu,1250,0.13,2018,12,28,525.0,354.08
+Fruits & Veggies,Fresh Fruits,Tenkasi,West,Tamil Nadu,2404,0.14,2015,6,12,312.52,490.3
+"Eggs, Meat & Fish",Mutton,Kanyakumari,West,Tamil Nadu,784,0.14,2017,1,31,39.2,222.03
+"Eggs, Meat & Fish",Eggs,Dindigul,East,Tamil Nadu,1084,0.21,2018,5,19,54.2,271.91
+Oil & Masala,Edible Oil & Ghee,Dindigul,East,Tamil Nadu,1317,0.26,2017,6,9,223.89,285.94
+Snacks,Noodles,Viluppuram,Central,Tamil Nadu,598,0.21,2018,12,6,47.84,148.71
+Fruits & Veggies,Fresh Vegetables,Vellore,Central,Tamil Nadu,1321,0.1,2015,11,17,66.05,302.68
+Fruits & Veggies,Fresh Vegetables,Kanyakumari,Central,Tamil Nadu,566,0.25,2015,10,10,39.62,177.74
+"Eggs, Meat & Fish",Fish,Virudhunagar,West,Tamil Nadu,1155,0.22,2015,12,29,334.95,349.46
+Food Grains,Dals & Pulses,Bodi,West,Tamil Nadu,1596,0.34,2015,1,7,351.12,452.87
+Snacks,Chocolates,Dindigul,South,Tamil Nadu,927,0.21,2017,3,9,46.35,220.88
+Beverages,Health Drinks,Viluppuram,South,Tamil Nadu,1170,0.14,2016,3,23,70.2,258.81
+Fruits & Veggies,Fresh Fruits,Trichy,West,Tamil Nadu,1470,0.27,2016,11,12,88.2,370.44
+Beverages,Health Drinks,Kanyakumari,West,Tamil Nadu,621,0.28,2017,6,14,260.82,164.46
+Food Grains,Organic Staples,Namakkal,West,Tamil Nadu,1390,0.14,2018,5,12,542.1,304.99
+Oil & Masala,Edible Oil & Ghee,Coimbatore,South,Tamil Nadu,2071,0.17,2017,5,2,911.24,523.33
+Beverages,Soft Drinks,Salem,East,Tamil Nadu,1591,0.15,2016,2,1,270.47,493.07
+Fruits & Veggies,Organic Vegetables,Vellore,West,Tamil Nadu,1435,0.12,2018,10,12,373.1,377.49
+"Eggs, Meat & Fish",Fish,Perambalur,West,Tamil Nadu,1448,0.29,2018,6,24,622.64,313.65
+"Eggs, Meat & Fish",Eggs,Dharmapuri,Central,Tamil Nadu,1712,0.15,2018,11,19,188.32,380.42
+Beverages,Health Drinks,Dindigul,West,Tamil Nadu,848,0.21,2017,4,23,228.96,176.0
+Beverages,Health Drinks,Pudukottai,Central,Tamil Nadu,1086,0.29,2017,7,23,195.48,293.99
+Snacks,Noodles,Nagercoil,Central,Tamil Nadu,2306,0.35,2017,8,7,899.34,577.8
+Food Grains,Rice,Karur,Central,Tamil Nadu,980,0.16,2017,12,12,294.0,286.04
+Oil & Masala,Spices,Perambalur,West,Tamil Nadu,1228,0.25,2016,1,9,442.08,353.91
+"Eggs, Meat & Fish",Mutton,Coimbatore,South,Tamil Nadu,867,0.28,2016,5,11,60.69,224.8
+"Eggs, Meat & Fish",Eggs,Kanyakumari,East,Tamil Nadu,839,0.25,2016,9,26,50.34,158.32
+Food Grains,Atta & Flour,Namakkal,West,Tamil Nadu,1395,0.1,2017,7,17,571.95,363.06
+Oil & Masala,Masalas,Tirunelveli,South,Tamil Nadu,2251,0.12,2017,5,5,540.24,603.07
+Snacks,Cookies,Ooty,South,Tamil Nadu,1846,0.22,2018,7,4,276.9,398.65
+Food Grains,Organic Staples,Kanyakumari,South,Tamil Nadu,2044,0.19,2017,8,3,735.84,549.69
+Fruits & Veggies,Fresh Fruits,Tirunelveli,South,Tamil Nadu,1094,0.13,2015,5,5,76.58,251.76
+Snacks,Cookies,Viluppuram,East,Tamil Nadu,947,0.24,2017,6,18,426.15,223.7
+Fruits & Veggies,Organic Vegetables,Coimbatore,East,Tamil Nadu,872,0.18,2017,12,23,148.24,261.18
+Food Grains,Dals & Pulses,Cumbum,Central,Tamil Nadu,2174,0.29,2018,9,18,934.82,603.41
+"Eggs, Meat & Fish",Eggs,Karur,West,Tamil Nadu,521,0.26,2018,11,27,119.83,112.79
+Beverages,Health Drinks,Coimbatore,Central,Tamil Nadu,1632,0.19,2018,7,21,163.2,497.01
+Food Grains,Rice,Virudhunagar,Central,Tamil Nadu,1290,0.27,2018,10,13,464.4,409.27
+Beverages,Soft Drinks,Salem,East,Tamil Nadu,2500,0.34,2016,7,26,175.0,460.98
+Bakery,Cakes,Salem,Central,Tamil Nadu,939,0.2,2015,5,25,84.51,181.23
+"Eggs, Meat & Fish",Chicken,Trichy,Central,Tamil Nadu,1609,0.29,2017,11,30,579.24,415.55
+Fruits & Veggies,Fresh Fruits,Kanyakumari,East,Tamil Nadu,1799,0.12,2016,7,9,629.65,438.26
+Beverages,Soft Drinks,Madurai,West,Tamil Nadu,1941,0.19,2018,6,11,543.48,506.32
+Fruits & Veggies,Organic Fruits,Kanyakumari,Central,Tamil Nadu,1880,0.3,2018,1,30,601.6,524.56
+Beverages,Health Drinks,Chennai,East,Tamil Nadu,1405,0.2,2016,9,8,351.25,369.2
+Oil & Masala,Edible Oil & Ghee,Kanyakumari,East,Tamil Nadu,1970,0.11,2016,10,19,492.5,508.41
+Fruits & Veggies,Organic Vegetables,Madurai,West,Tamil Nadu,2092,0.25,2018,12,10,732.2,523.29
+Snacks,Noodles,Virudhunagar,East,Tamil Nadu,1536,0.22,2018,6,24,245.76,414.87
+Oil & Masala,Masalas,Viluppuram,East,Tamil Nadu,2395,0.35,2017,4,12,862.2,469.3
+Bakery,Biscuits,Salem,East,Tamil Nadu,729,0.28,2017,5,24,291.6,202.0
+Fruits & Veggies,Organic Vegetables,Madurai,Central,Tamil Nadu,1437,0.12,2017,12,11,316.14,331.52
+"Eggs, Meat & Fish",Mutton,Nagercoil,East,Tamil Nadu,771,0.26,2015,11,24,107.94,241.7
+Fruits & Veggies,Organic Fruits,Pudukottai,West,Tamil Nadu,2452,0.25,2016,3,10,931.76,711.8
+Snacks,Chocolates,Perambalur,Central,Tamil Nadu,2059,0.15,2015,8,20,102.95,521.08
+Bakery,Cakes,Dindigul,Central,Tamil Nadu,2252,0.25,2018,10,3,855.76,500.53
+Snacks,Noodles,Ooty,East,Tamil Nadu,668,0.22,2017,11,11,173.68,197.67
+Beverages,Soft Drinks,Trichy,West,Tamil Nadu,2193,0.33,2018,8,12,899.13,475.85
+"Eggs, Meat & Fish",Mutton,Karur,East,Tamil Nadu,527,0.26,2017,8,19,68.51,127.37
+"Eggs, Meat & Fish",Mutton,Vellore,South,Tamil Nadu,1599,0.27,2017,7,24,399.75,462.12
+Beverages,Health Drinks,Pudukottai,South,Tamil Nadu,1622,0.22,2016,8,21,421.72,481.03
+Snacks,Cookies,Perambalur,East,Tamil Nadu,1692,0.26,2016,3,9,541.44,381.44
+Food Grains,Organic Staples,Krishnagiri,East,Tamil Nadu,880,0.18,2017,1,12,167.2,171.86
+Snacks,Noodles,Ramanadhapuram,East,Tamil Nadu,2009,0.1,2016,6,9,683.06,589.62
+Oil & Masala,Spices,Dindigul,Central,Tamil Nadu,1858,0.24,2017,10,15,836.1,418.77
+Beverages,Soft Drinks,Perambalur,West,Tamil Nadu,1032,0.23,2018,2,12,464.4,293.11
+Bakery,Biscuits,Krishnagiri,South,Tamil Nadu,2081,0.23,2017,9,27,811.59,642.13
+"Eggs, Meat & Fish",Chicken,Cumbum,South,Tamil Nadu,2038,0.2,2016,6,23,591.02,536.89
+Snacks,Cookies,Dharmapuri,South,Tamil Nadu,1544,0.25,2018,7,21,663.92,361.03
+Snacks,Cookies,Nagercoil,Central,Tamil Nadu,1144,0.3,2017,4,3,125.84,320.65
+Snacks,Chocolates,Dindigul,Central,Tamil Nadu,2215,0.21,2017,12,8,221.5,460.12
+Bakery,Breads & Buns,Pudukottai,East,Tamil Nadu,860,0.22,2015,12,22,378.4,222.88
+"Eggs, Meat & Fish",Mutton,Coimbatore,South,Tamil Nadu,536,0.35,2017,7,19,176.88,138.94
+Oil & Masala,Spices,Krishnagiri,West,Tamil Nadu,2337,0.32,2017,6,8,747.84,522.69
+Snacks,Cookies,Virudhunagar,South,Tamil Nadu,1480,0.27,2015,12,8,148.0,424.2
+Bakery,Biscuits,Bodi,Central,Tamil Nadu,978,0.21,2017,6,9,195.6,308.37
+Food Grains,Atta & Flour,Dharmapuri,Central,Tamil Nadu,1059,0.33,2017,12,17,52.95,284.12
+Fruits & Veggies,Fresh Fruits,Karur,Central,Tamil Nadu,1310,0.26,2017,4,24,510.9,357.71
+Bakery,Breads & Buns,Tenkasi,East,Tamil Nadu,2246,0.2,2017,5,9,539.04,585.23
+Food Grains,Organic Staples,Ramanadhapuram,East,Tamil Nadu,530,0.16,2017,12,24,190.8,140.76
+Bakery,Cakes,Ramanadhapuram,East,Tamil Nadu,1977,0.22,2017,3,13,177.93,540.9
+Beverages,Soft Drinks,Namakkal,East,Tamil Nadu,2074,0.3,2017,11,27,850.34,473.34
+Fruits & Veggies,Organic Vegetables,Tenkasi,East,Tamil Nadu,1404,0.31,2015,2,11,336.96,335.44
+"Eggs, Meat & Fish",Fish,Tirunelveli,East,Tamil Nadu,878,0.35,2015,5,1,149.26,278.64
+Snacks,Chocolates,Madurai,East,Tamil Nadu,513,0.22,2018,11,16,215.46,96.94
+"Eggs, Meat & Fish",Chicken,Cumbum,West,Tamil Nadu,2190,0.3,2017,7,18,788.4,576.92
+Fruits & Veggies,Fresh Vegetables,Ooty,South,Tamil Nadu,771,0.34,2015,12,12,316.11,223.94
+Food Grains,Atta & Flour,Trichy,South,Tamil Nadu,1887,0.14,2018,5,9,566.1,469.88
+Food Grains,Organic Staples,Namakkal,Central,Tamil Nadu,890,0.2,2016,10,12,284.8,200.24
+Food Grains,Atta & Flour,Madurai,West,Tamil Nadu,735,0.23,2018,12,28,95.55,182.65
+"Eggs, Meat & Fish",Chicken,Vellore,South,Tamil Nadu,1652,0.26,2017,9,8,627.76,417.92
+Food Grains,Atta & Flour,Dindigul,East,Tamil Nadu,1919,0.11,2017,3,14,537.32,414.07
+"Eggs, Meat & Fish",Mutton,Pudukottai,East,Tamil Nadu,961,0.15,2016,12,29,345.96,269.81
+Bakery,Breads & Buns,Coimbatore,East,Tamil Nadu,1186,0.26,2016,7,16,59.3,319.39
+"Eggs, Meat & Fish",Chicken,Karur,Central,Tamil Nadu,1194,0.28,2017,8,27,143.28,283.8
+Food Grains,Atta & Flour,Tirunelveli,East,Tamil Nadu,2371,0.32,2015,5,4,900.98,504.7
+Oil & Masala,Spices,Salem,Central,Tamil Nadu,1192,0.26,2016,4,28,417.2,274.19
+Oil & Masala,Edible Oil & Ghee,Perambalur,West,Tamil Nadu,2139,0.14,2015,4,25,149.73,571.18
+"Eggs, Meat & Fish",Chicken,Perambalur,West,Tamil Nadu,931,0.24,2017,11,9,335.16,246.53
+Bakery,Biscuits,Cumbum,East,Tamil Nadu,2360,0.23,2016,10,12,141.6,636.42
+Food Grains,Atta & Flour,Cumbum,East,Tamil Nadu,1910,0.21,2016,10,9,362.9,482.4
+Food Grains,Atta & Flour,Perambalur,South,Tamil Nadu,1938,0.11,2018,9,29,639.54,450.64
+Food Grains,Dals & Pulses,Madurai,West,Tamil Nadu,2098,0.32,2016,6,18,713.32,553.87
+Food Grains,Dals & Pulses,Tenkasi,East,Tamil Nadu,1706,0.22,2017,1,15,528.86,504.73
+Fruits & Veggies,Organic Vegetables,Tirunelveli,West,Tamil Nadu,1226,0.28,2017,10,1,392.32,294.21
+"Eggs, Meat & Fish",Chicken,Kanyakumari,West,Tamil Nadu,1338,0.17,2017,8,12,414.78,320.82
+Oil & Masala,Masalas,Dindigul,West,Tamil Nadu,2157,0.31,2018,10,21,172.56,514.21
+Oil & Masala,Edible Oil & Ghee,Dharmapuri,Central,Tamil Nadu,1089,0.23,2017,4,15,250.47,239.05
+Food Grains,Dals & Pulses,Perambalur,East,Tamil Nadu,2222,0.34,2017,7,14,244.42,569.88
+Food Grains,Dals & Pulses,Namakkal,West,Tamil Nadu,692,0.26,2015,11,28,193.76,184.64
+Oil & Masala,Masalas,Madurai,South,Tamil Nadu,1299,0.31,2018,12,29,493.62,316.38
+Snacks,Chocolates,Dharmapuri,Central,Tamil Nadu,1425,0.17,2015,6,12,242.25,328.09
+Snacks,Chocolates,Chennai,Central,Tamil Nadu,1692,0.24,2016,4,18,355.32,391.39
+Oil & Masala,Spices,Dharmapuri,South,Tamil Nadu,1082,0.3,2018,4,22,313.78,235.58
+"Eggs, Meat & Fish",Fish,Tirunelveli,West,Tamil Nadu,825,0.14,2017,2,12,49.5,225.28
+Snacks,Cookies,Chennai,South,Tamil Nadu,571,0.21,2016,5,11,251.24,176.07
+Oil & Masala,Masalas,Coimbatore,East,Tamil Nadu,1098,0.17,2015,1,12,428.22,281.95
+Fruits & Veggies,Fresh Fruits,Nagercoil,West,Tamil Nadu,2168,0.13,2015,8,15,802.16,616.21
+"Eggs, Meat & Fish",Eggs,Ramanadhapuram,East,Tamil Nadu,1716,0.34,2017,6,12,308.88,315.96
+Bakery,Breads & Buns,Namakkal,West,Tamil Nadu,1941,0.24,2018,3,19,756.99,512.47
+Bakery,Biscuits,Krishnagiri,East,Tamil Nadu,2421,0.16,2017,11,11,217.89,560.14
+Oil & Masala,Masalas,Tenkasi,South,Tamil Nadu,1113,0.31,2015,6,1,144.69,224.33
+"Eggs, Meat & Fish",Eggs,Perambalur,South,Tamil Nadu,1452,0.16,2015,9,19,217.8,339.06
+Oil & Masala,Spices,Theni,West,Tamil Nadu,1561,0.21,2015,10,5,156.1,374.23
+Snacks,Noodles,Coimbatore,East,Tamil Nadu,707,0.1,2015,12,9,226.24,166.48
+Oil & Masala,Edible Oil & Ghee,Nagercoil,East,Tamil Nadu,1086,0.27,2018,6,19,434.4,273.72
+Snacks,Chocolates,Coimbatore,Central,Tamil Nadu,1130,0.19,2017,12,23,237.3,283.97
+Oil & Masala,Spices,Theni,West,Tamil Nadu,1594,0.29,2015,1,13,669.48,458.37
+Bakery,Cakes,Madurai,West,Tamil Nadu,1726,0.32,2017,7,21,258.9,390.04
+Fruits & Veggies,Fresh Vegetables,Ooty,Central,Tamil Nadu,1066,0.1,2018,12,26,341.12,256.8
+Fruits & Veggies,Fresh Fruits,Viluppuram,East,Tamil Nadu,1391,0.14,2018,4,13,500.76,314.64
+Fruits & Veggies,Organic Fruits,Ramanadhapuram,East,Tamil Nadu,1899,0.23,2018,3,10,778.59,522.21
+Beverages,Soft Drinks,Karur,East,Tamil Nadu,1904,0.11,2018,7,21,247.52,477.51
+"Eggs, Meat & Fish",Eggs,Tenkasi,East,Tamil Nadu,976,0.33,2018,10,21,175.68,271.72
+Fruits & Veggies,Fresh Fruits,Trichy,East,Tamil Nadu,2045,0.22,2017,11,27,920.25,536.09
+Food Grains,Atta & Flour,Viluppuram,Central,Tamil Nadu,1167,0.28,2017,4,28,303.42,280.3
+Snacks,Cookies,Krishnagiri,Central,Tamil Nadu,1457,0.11,2016,12,17,72.85,349.46
+Snacks,Noodles,Vellore,Central,Tamil Nadu,1782,0.22,2018,4,9,463.32,466.41
+Fruits & Veggies,Organic Fruits,Tirunelveli,East,Tamil Nadu,2435,0.22,2017,1,9,681.8,798.18
+Beverages,Health Drinks,Trichy,South,Tamil Nadu,1838,0.34,2017,8,26,514.64,457.55
+Oil & Masala,Masalas,Bodi,South,Tamil Nadu,1904,0.12,2015,4,4,190.4,436.52
+Snacks,Noodles,Namakkal,South,Tamil Nadu,1411,0.16,2017,10,24,395.08,328.65
+Oil & Masala,Spices,Perambalur,West,Tamil Nadu,1904,0.26,2018,6,29,628.32,513.7
+Snacks,Chocolates,Ramanadhapuram,Central,Tamil Nadu,2448,0.21,2017,8,2,905.76,586.26
+Bakery,Breads & Buns,Ramanadhapuram,Central,Tamil Nadu,898,0.33,2018,11,26,80.82,249.62
+Food Grains,Atta & Flour,Cumbum,West,Tamil Nadu,2387,0.12,2017,11,21,119.35,521.78
+Fruits & Veggies,Organic Vegetables,Trichy,West,Tamil Nadu,1341,0.3,2018,8,6,187.74,335.71
+Bakery,Breads & Buns,Dindigul,East,Tamil Nadu,2229,0.1,2018,9,4,267.48,559.66
+Fruits & Veggies,Fresh Vegetables,Tenkasi,West,Tamil Nadu,2303,0.27,2016,12,12,529.69,454.41
+Beverages,Health Drinks,Dharmapuri,West,Tamil Nadu,1350,0.31,2018,6,24,256.5,381.64
+Bakery,Cakes,Chennai,South,Tamil Nadu,1669,0.25,2015,4,11,634.22,390.94
+Bakery,Breads & Buns,Ooty,West,Tamil Nadu,1027,0.15,2016,5,26,236.21,267.14
+"Eggs, Meat & Fish",Eggs,Viluppuram,East,Tamil Nadu,2214,0.12,2017,6,17,708.48,652.78
+Snacks,Chocolates,Namakkal,East,Tamil Nadu,1306,0.11,2017,4,6,130.6,318.09
+Bakery,Breads & Buns,Perambalur,West,Tamil Nadu,1555,0.33,2015,9,21,684.2,537.4
+"Eggs, Meat & Fish",Mutton,Virudhunagar,Central,Tamil Nadu,1959,0.11,2015,12,23,666.06,452.02
+Bakery,Biscuits,Dindigul,West,Tamil Nadu,1914,0.12,2016,9,28,133.98,455.32
+Oil & Masala,Spices,Kanyakumari,East,Tamil Nadu,2434,0.23,2017,7,17,316.42,546.19
+Food Grains,Organic Staples,Viluppuram,West,Tamil Nadu,716,0.18,2016,6,12,114.56,182.34
+Oil & Masala,Spices,Madurai,East,Tamil Nadu,1805,0.16,2015,12,30,342.95,526.86
+Oil & Masala,Edible Oil & Ghee,Dindigul,Central,Tamil Nadu,2077,0.12,2017,2,10,311.55,499.29
+Beverages,Health Drinks,Ramanadhapuram,West,Tamil Nadu,1734,0.2,2018,4,21,173.4,374.56
+Beverages,Health Drinks,Chennai,West,Tamil Nadu,1615,0.16,2018,10,27,581.4,404.02
+Oil & Masala,Masalas,Pudukottai,East,Tamil Nadu,1890,0.35,2018,3,17,378.0,603.33
+"Eggs, Meat & Fish",Mutton,Karur,East,Tamil Nadu,1123,0.23,2016,9,8,505.35,302.63
+Beverages,Health Drinks,Bodi,West,Tamil Nadu,1033,0.15,2016,8,13,351.22,293.42
+"Eggs, Meat & Fish",Mutton,Kanyakumari,West,Tamil Nadu,823,0.12,2015,6,4,98.76,214.06
+Snacks,Noodles,Perambalur,Central,Tamil Nadu,634,0.34,2018,6,22,88.76,182.09
+Fruits & Veggies,Fresh Fruits,Tenkasi,Central,Tamil Nadu,2293,0.21,2018,7,8,183.44,529.49
+Food Grains,Rice,Dharmapuri,East,Tamil Nadu,1560,0.19,2018,11,3,421.2,436.9
+Bakery,Biscuits,Dindigul,West,Tamil Nadu,2268,0.24,2018,6,10,635.04,572.51
+Snacks,Noodles,Chennai,East,Tamil Nadu,874,0.12,2016,6,12,384.56,185.63
+Snacks,Chocolates,Ramanadhapuram,East,Tamil Nadu,664,0.27,2017,6,20,92.96,189.38
+Beverages,Health Drinks,Chennai,East,Tamil Nadu,1584,0.3,2017,11,19,269.28,457.33
+"Eggs, Meat & Fish",Fish,Theni,West,Tamil Nadu,1005,0.14,2017,11,17,412.05,263.02
+Food Grains,Rice,Bodi,West,Tamil Nadu,1865,0.11,2018,6,30,354.35,483.57
+Beverages,Health Drinks,Dindigul,Central,Tamil Nadu,1202,0.19,2018,1,22,504.84,262.41
+Oil & Masala,Edible Oil & Ghee,Madurai,Central,Tamil Nadu,1382,0.31,2017,1,4,69.1,342.61
+Oil & Masala,Spices,Dharmapuri,Central,Tamil Nadu,1159,0.2,2018,11,5,278.16,254.23
+Oil & Masala,Masalas,Karur,South,Tamil Nadu,717,0.28,2018,8,17,143.4,152.12
+Bakery,Biscuits,Virudhunagar,South,Tamil Nadu,664,0.27,2018,9,11,205.84,128.56
+Food Grains,Organic Staples,Cumbum,West,Tamil Nadu,2283,0.13,2017,3,12,890.37,635.67
+Fruits & Veggies,Organic Fruits,Kanyakumari,East,Tamil Nadu,1569,0.28,2017,12,19,156.9,395.15
+Snacks,Chocolates,Tirunelveli,East,Tamil Nadu,948,0.35,2015,5,3,75.84,218.71
+Food Grains,Atta & Flour,Chennai,Central,Tamil Nadu,1996,0.12,2016,8,25,658.68,455.68
+"Eggs, Meat & Fish",Fish,Nagercoil,Central,Tamil Nadu,2038,0.1,2017,11,27,101.9,587.87
+Beverages,Health Drinks,Viluppuram,Central,Tamil Nadu,2153,0.18,2018,5,15,279.89,584.39
+Bakery,Breads & Buns,Namakkal,Central,Tamil Nadu,883,0.16,2017,11,19,114.79,242.71
+Bakery,Biscuits,Krishnagiri,West,Tamil Nadu,1019,0.19,2018,12,11,448.36,225.86
+Fruits & Veggies,Organic Fruits,Tirunelveli,West,Tamil Nadu,1924,0.31,2017,8,22,250.12,482.89
+Snacks,Noodles,Viluppuram,South,Tamil Nadu,1033,0.1,2018,1,4,340.89,292.0
+"Eggs, Meat & Fish",Mutton,Trichy,East,Tamil Nadu,1316,0.35,2017,6,17,421.12,334.71
+Fruits & Veggies,Fresh Fruits,Krishnagiri,West,Tamil Nadu,892,0.34,2018,4,5,240.84,185.71
+Oil & Masala,Masalas,Dindigul,West,Tamil Nadu,1113,0.31,2016,12,24,300.51,251.85
+Fruits & Veggies,Fresh Vegetables,Kanyakumari,West,Tamil Nadu,571,0.24,2015,12,7,148.46,194.02
+Fruits & Veggies,Fresh Vegetables,Karur,West,Tamil Nadu,1569,0.27,2018,8,31,596.22,374.58
+Food Grains,Organic Staples,Karur,West,Tamil Nadu,979,0.23,2018,11,11,58.74,231.46
+Fruits & Veggies,Fresh Fruits,Vellore,Central,Tamil Nadu,1500,0.2,2015,4,4,555.0,310.01
+Beverages,Soft Drinks,Cumbum,East,Tamil Nadu,729,0.32,2018,2,9,138.51,174.38
+"Eggs, Meat & Fish",Eggs,Chennai,South,Tamil Nadu,1862,0.18,2017,1,22,521.36,513.47
+Fruits & Veggies,Fresh Fruits,Viluppuram,South,Tamil Nadu,2346,0.18,2018,4,6,258.06,585.95
+Oil & Masala,Spices,Salem,West,Tamil Nadu,1353,0.1,2016,10,19,230.01,325.94
+Food Grains,Dals & Pulses,Ramanadhapuram,West,Tamil Nadu,1808,0.16,2017,9,16,379.68,444.84
+Snacks,Cookies,Cumbum,Central,Tamil Nadu,2118,0.13,2018,3,18,868.38,654.05
+Bakery,Breads & Buns,Krishnagiri,East,Tamil Nadu,2023,0.24,2017,9,23,283.22,540.24
+Fruits & Veggies,Fresh Fruits,Virudhunagar,East,Tamil Nadu,1275,0.29,2017,2,2,63.75,288.82
+Food Grains,Dals & Pulses,Tirunelveli,Central,Tamil Nadu,1782,0.11,2017,9,25,302.94,502.95
+Fruits & Veggies,Organic Fruits,Vellore,West,Tamil Nadu,1593,0.15,2017,7,1,334.53,467.85
+Food Grains,Dals & Pulses,Viluppuram,West,Tamil Nadu,1196,0.22,2018,12,11,131.56,285.97
+Fruits & Veggies,Organic Vegetables,Coimbatore,South,Tamil Nadu,968,0.29,2015,9,5,280.72,256.04
+Food Grains,Organic Staples,Ooty,South,Tamil Nadu,807,0.24,2018,10,20,347.01,182.39
+Beverages,Health Drinks,Trichy,East,Tamil Nadu,752,0.23,2018,3,13,338.4,147.47
+Food Grains,Rice,Salem,Central,Tamil Nadu,2193,0.35,2016,12,21,131.58,475.26
+Beverages,Soft Drinks,Cumbum,South,Tamil Nadu,829,0.34,2018,5,26,223.83,168.91
+Food Grains,Organic Staples,Perambalur,East,Tamil Nadu,1886,0.28,2018,2,9,339.48,612.82
+"Eggs, Meat & Fish",Chicken,Karur,South,Tamil Nadu,1442,0.18,2016,9,25,216.3,353.33
+"Eggs, Meat & Fish",Fish,Theni,South,Tamil Nadu,1330,0.31,2015,10,1,119.7,356.75
+Food Grains,Organic Staples,Chennai,East,Tamil Nadu,2327,0.24,2017,7,4,488.67,458.29
+Fruits & Veggies,Fresh Fruits,Krishnagiri,Central,Tamil Nadu,1018,0.11,2017,7,14,244.32,266.66
+Food Grains,Dals & Pulses,Tenkasi,West,Tamil Nadu,548,0.27,2017,2,9,186.32,158.19
+Fruits & Veggies,Fresh Vegetables,Krishnagiri,East,Tamil Nadu,2301,0.21,2017,11,12,759.33,512.67
+Food Grains,Organic Staples,Virudhunagar,West,Tamil Nadu,1151,0.35,2015,3,23,391.34,303.02
+Beverages,Soft Drinks,Bodi,East,Tamil Nadu,1354,0.16,2016,6,12,514.52,374.71
+Fruits & Veggies,Fresh Vegetables,Krishnagiri,Central,Tamil Nadu,1358,0.25,2017,9,26,298.76,320.82
+Snacks,Noodles,Vellore,South,Tamil Nadu,1065,0.18,2015,2,6,170.4,281.36
+Food Grains,Dals & Pulses,Kanyakumari,East,Tamil Nadu,1517,0.23,2017,2,21,530.95,316.77
+"Eggs, Meat & Fish",Fish,Madurai,East,Tamil Nadu,2421,0.33,2018,6,16,919.98,559.55
+Beverages,Health Drinks,Cumbum,Central,Tamil Nadu,1512,0.27,2016,10,5,665.28,308.41
+"Eggs, Meat & Fish",Eggs,Namakkal,East,Tamil Nadu,1231,0.26,2018,4,4,517.02,302.24
+Fruits & Veggies,Fresh Fruits,Vellore,Central,Tamil Nadu,1349,0.34,2015,12,12,364.23,369.79
+Oil & Masala,Edible Oil & Ghee,Viluppuram,Central,Tamil Nadu,936,0.33,2015,12,11,56.16,225.81
+Food Grains,Atta & Flour,Krishnagiri,West,Tamil Nadu,1120,0.13,2017,11,12,56.0,308.88
+Food Grains,Organic Staples,Nagercoil,South,Tamil Nadu,1685,0.32,2015,1,7,707.7,462.46
+Oil & Masala,Edible Oil & Ghee,Karur,West,Tamil Nadu,1705,0.25,2015,12,22,289.85,378.78
+"Eggs, Meat & Fish",Fish,Krishnagiri,East,Tamil Nadu,724,0.3,2017,11,24,86.88,175.42
+"Eggs, Meat & Fish",Fish,Kanyakumari,East,Tamil Nadu,2282,0.27,2017,7,4,958.44,548.34
+Snacks,Noodles,Nagercoil,West,Tamil Nadu,2306,0.25,2018,2,9,507.32,601.62
+"Eggs, Meat & Fish",Eggs,Krishnagiri,East,Tamil Nadu,1309,0.15,2016,8,22,327.25,260.87
+"Eggs, Meat & Fish",Eggs,Namakkal,West,Tamil Nadu,1667,0.26,2015,7,22,733.48,343.45
+Snacks,Noodles,Cumbum,Central,Tamil Nadu,635,0.12,2018,4,12,158.75,167.25
+Bakery,Cakes,Salem,South,Tamil Nadu,1916,0.2,2016,4,12,402.36,442.95
+Bakery,Breads & Buns,Cumbum,West,Tamil Nadu,511,0.14,2017,12,25,86.87,146.79
+"Eggs, Meat & Fish",Mutton,Namakkal,East,Tamil Nadu,2236,0.24,2018,8,18,961.48,533.9
+"Eggs, Meat & Fish",Mutton,Chennai,West,Tamil Nadu,1760,0.3,2018,12,24,211.2,403.1
+"Eggs, Meat & Fish",Eggs,Cumbum,Central,Tamil Nadu,2162,0.31,2016,10,23,756.7,542.24
+Snacks,Chocolates,Dindigul,West,Tamil Nadu,1241,0.27,2018,7,8,322.66,318.31
+Beverages,Health Drinks,Namakkal,West,Tamil Nadu,2035,0.26,2016,2,15,468.05,475.72
+Snacks,Noodles,Nagercoil,South,Tamil Nadu,1903,0.11,2015,1,13,666.05,454.37
+Food Grains,Dals & Pulses,Theni,West,Tamil Nadu,1791,0.35,2018,7,11,483.57,504.07
+Bakery,Breads & Buns,Perambalur,East,Tamil Nadu,566,0.11,2018,3,20,209.42,127.44
+Beverages,Health Drinks,Cumbum,Central,Tamil Nadu,723,0.19,2015,12,23,50.61,157.76
+"Eggs, Meat & Fish",Chicken,Virudhunagar,West,Tamil Nadu,621,0.33,2018,10,30,111.78,121.84
+Food Grains,Rice,Nagercoil,West,Tamil Nadu,2027,0.32,2016,11,20,263.51,496.32
+Food Grains,Dals & Pulses,Salem,West,Tamil Nadu,2064,0.15,2017,10,15,206.4,425.02
+Beverages,Health Drinks,Vellore,West,Tamil Nadu,1199,0.33,2017,4,22,167.86,333.94
+Bakery,Breads & Buns,Ooty,South,Tamil Nadu,831,0.28,2018,10,28,257.61,188.5
+Snacks,Chocolates,Vellore,Central,Tamil Nadu,1490,0.18,2017,8,1,521.5,301.39
+Fruits & Veggies,Fresh Fruits,Virudhunagar,East,Tamil Nadu,1320,0.33,2017,4,19,541.2,326.65
+Bakery,Cakes,Kanyakumari,East,Tamil Nadu,2122,0.19,2015,4,6,827.58,440.86
+Oil & Masala,Edible Oil & Ghee,Theni,Central,Tamil Nadu,799,0.35,2017,3,11,151.81,195.33
+Oil & Masala,Edible Oil & Ghee,Nagercoil,East,Tamil Nadu,1483,0.23,2018,12,25,266.94,379.65
+Fruits & Veggies,Organic Vegetables,Coimbatore,East,Tamil Nadu,782,0.28,2018,10,22,156.4,225.1
+Snacks,Chocolates,Coimbatore,West,Tamil Nadu,1775,0.18,2018,11,6,355.0,467.7
+Fruits & Veggies,Organic Fruits,Kanyakumari,West,Tamil Nadu,2153,0.16,2018,2,19,602.84,535.53
+Snacks,Cookies,Bodi,Central,Tamil Nadu,841,0.1,2018,10,21,201.84,211.7
+Bakery,Biscuits,Pudukottai,Central,Tamil Nadu,886,0.21,2015,7,21,283.52,238.67
+Food Grains,Dals & Pulses,Tirunelveli,Central,Tamil Nadu,693,0.12,2018,8,21,173.25,153.01
+Snacks,Noodles,Kanyakumari,West,Tamil Nadu,1916,0.13,2017,10,20,574.8,443.59
+"Eggs, Meat & Fish",Mutton,Salem,West,Tamil Nadu,513,0.19,2018,7,8,138.51,123.99
+Food Grains,Atta & Flour,Karur,West,Tamil Nadu,2111,0.26,2017,11,12,232.21,553.22
+"Eggs, Meat & Fish",Fish,Dharmapuri,West,Tamil Nadu,2072,0.24,2015,6,25,890.96,555.48
+Beverages,Soft Drinks,Theni,West,Tamil Nadu,687,0.34,2016,2,15,240.45,159.37
+Snacks,Chocolates,Trichy,West,Tamil Nadu,872,0.2,2017,12,27,331.36,268.35
+Food Grains,Atta & Flour,Perambalur,South,Tamil Nadu,1040,0.19,2017,5,9,291.2,280.94
+Food Grains,Atta & Flour,Krishnagiri,East,Tamil Nadu,2258,0.18,2017,2,25,699.98,648.12
+Food Grains,Dals & Pulses,Namakkal,South,Tamil Nadu,1769,0.24,2016,6,21,778.36,436.07
+Beverages,Health Drinks,Vellore,West,Tamil Nadu,522,0.19,2015,8,27,208.8,132.89
+Food Grains,Dals & Pulses,Namakkal,West,Tamil Nadu,1460,0.22,2017,9,24,365.0,394.92
+Snacks,Cookies,Madurai,West,Tamil Nadu,2158,0.26,2015,4,8,258.96,519.42
+Beverages,Soft Drinks,Viluppuram,East,Tamil Nadu,1391,0.19,2018,12,20,69.55,416.63
+Beverages,Soft Drinks,Dindigul,Central,Tamil Nadu,1453,0.3,2018,7,20,334.19,378.11
+Bakery,Breads & Buns,Madurai,West,Tamil Nadu,1312,0.18,2018,7,7,314.88,302.03
+Fruits & Veggies,Organic Vegetables,Vellore,East,Tamil Nadu,583,0.25,2018,6,21,180.73,150.9
+Fruits & Veggies,Fresh Vegetables,Cumbum,East,Tamil Nadu,1963,0.2,2018,9,10,569.27,527.09
+Fruits & Veggies,Organic Vegetables,Salem,West,Tamil Nadu,1545,0.34,2017,3,20,432.6,369.04
+Snacks,Cookies,Virudhunagar,West,Tamil Nadu,1628,0.35,2018,3,12,113.96,342.19
+"Eggs, Meat & Fish",Fish,Vellore,East,Tamil Nadu,1557,0.2,2016,12,24,638.37,447.57
+"Eggs, Meat & Fish",Mutton,Namakkal,East,Tamil Nadu,2211,0.35,2017,11,1,596.97,472.68
+Snacks,Cookies,Salem,Central,Tamil Nadu,1136,0.13,2016,11,16,136.32,337.77
+Food Grains,Rice,Perambalur,Central,Tamil Nadu,2473,0.15,2015,11,24,321.49,612.64
+Bakery,Biscuits,Namakkal,East,Tamil Nadu,1141,0.34,2018,10,4,148.33,254.23
+Fruits & Veggies,Fresh Fruits,Virudhunagar,West,Tamil Nadu,985,0.21,2016,3,19,413.7,275.27
+Beverages,Health Drinks,Tenkasi,Central,Tamil Nadu,2433,0.18,2018,5,18,1021.86,505.0
+Snacks,Noodles,Perambalur,Central,Tamil Nadu,1811,0.18,2016,11,29,706.29,480.02
+Fruits & Veggies,Organic Vegetables,Nagercoil,Central,Tamil Nadu,810,0.33,2017,8,12,48.6,214.22
+Food Grains,Organic Staples,Pudukottai,South,Tamil Nadu,2070,0.25,2017,7,19,455.4,600.95
+Oil & Masala,Spices,Trichy,West,Tamil Nadu,697,0.27,2018,11,14,55.76,158.38
+Oil & Masala,Masalas,Vellore,East,Tamil Nadu,1519,0.14,2015,3,17,288.61,400.55
+Food Grains,Atta & Flour,Vellore,East,Tamil Nadu,1493,0.22,2017,4,12,358.32,288.9
+Snacks,Cookies,Namakkal,South,Tamil Nadu,807,0.11,2015,5,21,80.7,189.58
+Oil & Masala,Masalas,Karur,West,Tamil Nadu,976,0.33,2015,8,19,97.6,238.4
+"Eggs, Meat & Fish",Eggs,Salem,East,Tamil Nadu,1819,0.17,2017,3,12,582.08,470.65
+Oil & Masala,Spices,Dharmapuri,East,Tamil Nadu,753,0.25,2017,6,21,128.01,198.89
+Bakery,Biscuits,Dharmapuri,West,Tamil Nadu,1920,0.11,2017,9,19,864.0,447.0
+Snacks,Chocolates,Karur,East,Tamil Nadu,1561,0.27,2018,11,12,702.45,360.92
+Snacks,Chocolates,Krishnagiri,West,Tamil Nadu,1952,0.26,2018,11,9,117.12,482.4
+Snacks,Noodles,Pudukottai,East,Tamil Nadu,2020,0.22,2015,4,28,464.6,526.1
+Fruits & Veggies,Organic Vegetables,Karur,West,Tamil Nadu,2375,0.31,2018,9,17,498.75,667.32
+Snacks,Chocolates,Ooty,South,Tamil Nadu,2123,0.19,2015,5,4,700.59,483.93
+"Eggs, Meat & Fish",Eggs,Madurai,East,Tamil Nadu,2173,0.31,2015,3,3,847.47,490.74
+Beverages,Soft Drinks,Bodi,West,Tamil Nadu,1962,0.22,2017,4,22,412.02,564.75
+Bakery,Cakes,Chennai,East,Tamil Nadu,583,0.26,2017,9,10,69.96,172.91
+Beverages,Soft Drinks,Tirunelveli,South,Tamil Nadu,562,0.18,2016,7,13,241.66,142.98
+"Eggs, Meat & Fish",Chicken,Bodi,Central,Tamil Nadu,1648,0.18,2016,9,10,181.28,336.77
+Oil & Masala,Edible Oil & Ghee,Salem,West,Tamil Nadu,1774,0.15,2015,1,3,620.9,453.38
+Food Grains,Organic Staples,Coimbatore,East,Tamil Nadu,1343,0.11,2017,11,22,201.45,351.24
+Beverages,Health Drinks,Krishnagiri,West,Tamil Nadu,1465,0.29,2017,3,7,336.95,333.16
+Snacks,Noodles,Virudhunagar,Central,Tamil Nadu,2062,0.31,2015,10,11,907.28,547.2
+Snacks,Noodles,Chennai,East,Tamil Nadu,1388,0.35,2017,11,28,97.16,401.44
+Bakery,Cakes,Madurai,Central,Tamil Nadu,817,0.12,2016,7,8,98.04,208.38
+Fruits & Veggies,Fresh Vegetables,Ooty,South,Tamil Nadu,1655,0.3,2017,2,2,612.35,448.76
+Snacks,Chocolates,Madurai,Central,Tamil Nadu,2113,0.28,2015,12,7,253.56,587.47
+Beverages,Health Drinks,Perambalur,Central,Tamil Nadu,532,0.26,2017,8,9,148.96,131.03
+Oil & Masala,Spices,Tenkasi,East,Tamil Nadu,1747,0.26,2017,8,26,157.23,385.66
+Beverages,Health Drinks,Chennai,East,Tamil Nadu,2190,0.12,2018,8,12,810.3,540.82
+Food Grains,Rice,Virudhunagar,West,Tamil Nadu,1756,0.25,2018,11,24,684.84,413.25
+Fruits & Veggies,Organic Vegetables,Nagercoil,West,Tamil Nadu,2003,0.3,2017,12,22,540.81,589.04
+"Eggs, Meat & Fish",Mutton,Virudhunagar,East,Tamil Nadu,1606,0.22,2018,4,5,385.44,426.61
+Snacks,Noodles,Vellore,South,Tamil Nadu,1357,0.16,2018,12,23,67.85,377.12
+"Eggs, Meat & Fish",Mutton,Krishnagiri,South,Tamil Nadu,1242,0.29,2017,9,8,558.9,343.94
+Bakery,Cakes,Madurai,Central,Tamil Nadu,2262,0.16,2017,10,20,452.4,491.06
+"Eggs, Meat & Fish",Mutton,Cumbum,Central,Tamil Nadu,659,0.28,2015,12,16,144.98,146.2
+Snacks,Cookies,Karur,West,Tamil Nadu,619,0.3,2015,11,25,179.51,158.9
+Beverages,Health Drinks,Ramanadhapuram,East,Tamil Nadu,1686,0.14,2016,11,23,590.1,383.55
+Beverages,Health Drinks,Coimbatore,East,Tamil Nadu,2121,0.12,2017,6,17,678.72,590.27
+Beverages,Soft Drinks,Viluppuram,South,Tamil Nadu,503,0.1,2018,2,1,100.6,133.87
+Food Grains,Atta & Flour,Dindigul,West,Tamil Nadu,2181,0.12,2018,5,27,545.25,604.57
+Food Grains,Rice,Viluppuram,West,Tamil Nadu,2071,0.31,2017,9,10,455.62,478.32
+"Eggs, Meat & Fish",Eggs,Cumbum,Central,Tamil Nadu,742,0.22,2017,8,22,267.12,180.14
+Food Grains,Rice,Kanyakumari,South,Tamil Nadu,1497,0.12,2015,1,13,164.67,315.54
+Fruits & Veggies,Organic Fruits,Virudhunagar,Central,Tamil Nadu,969,0.11,2017,8,28,184.11,269.49
+Snacks,Noodles,Madurai,East,Tamil Nadu,500,0.11,2016,5,31,95.0,123.26
+Beverages,Soft Drinks,Bodi,Central,Tamil Nadu,989,0.12,2015,11,18,375.82,327.92
+Oil & Masala,Spices,Tirunelveli,East,Tamil Nadu,1300,0.29,2017,10,12,273.0,299.4
+Food Grains,Atta & Flour,Cumbum,South,Tamil Nadu,1835,0.28,2018,3,6,697.3,492.18
+Food Grains,Rice,Bodi,West,Tamil Nadu,1503,0.21,2018,3,21,405.81,326.94
+Oil & Masala,Edible Oil & Ghee,Tirunelveli,West,Tamil Nadu,587,0.15,2015,10,19,46.96,155.0
+"Eggs, Meat & Fish",Fish,Tenkasi,South,Tamil Nadu,2492,0.13,2016,8,6,124.6,647.33
+"Eggs, Meat & Fish",Fish,Cumbum,East,Tamil Nadu,1192,0.2,2015,9,29,166.88,296.41
+Bakery,Breads & Buns,Madurai,Central,Tamil Nadu,1037,0.19,2017,7,11,435.54,217.59
+Food Grains,Organic Staples,Krishnagiri,Central,Tamil Nadu,567,0.18,2018,9,24,147.42,150.2
+Bakery,Breads & Buns,Virudhunagar,West,Tamil Nadu,1575,0.17,2015,4,19,582.75,450.01
+"Eggs, Meat & Fish",Mutton,Trichy,South,Tamil Nadu,616,0.14,2015,3,31,221.76,143.17
+Food Grains,Organic Staples,Vellore,West,Tamil Nadu,700,0.12,2016,10,4,105.0,153.6
+Food Grains,Atta & Flour,Viluppuram,West,Tamil Nadu,2261,0.34,2018,11,9,972.23,479.54
+Beverages,Soft Drinks,Perambalur,East,Tamil Nadu,949,0.26,2017,11,20,398.58,256.98
+Snacks,Chocolates,Pudukottai,Central,Tamil Nadu,2262,0.1,2018,11,9,135.72,562.39
+Snacks,Cookies,Pudukottai,West,Tamil Nadu,1319,0.1,2017,1,7,131.9,253.31
+Bakery,Breads & Buns,Dindigul,South,Tamil Nadu,1486,0.27,2017,12,16,208.04,405.44
+Bakery,Breads & Buns,Krishnagiri,West,Tamil Nadu,2076,0.33,2018,8,27,539.76,542.05
+Beverages,Soft Drinks,Trichy,South,Tamil Nadu,1916,0.26,2018,10,19,536.48,361.39
+Oil & Masala,Masalas,Theni,West,Tamil Nadu,2264,0.28,2017,4,9,226.4,614.07
+Fruits & Veggies,Fresh Fruits,Viluppuram,West,Tamil Nadu,1610,0.11,2018,12,16,724.5,396.76
+Bakery,Cakes,Salem,East,Tamil Nadu,2195,0.19,2018,11,30,373.15,485.36
+Beverages,Health Drinks,Chennai,Central,Tamil Nadu,2186,0.26,2017,2,9,371.62,457.35
+Fruits & Veggies,Fresh Fruits,Coimbatore,South,Tamil Nadu,1036,0.14,2017,4,8,145.04,205.18
+Food Grains,Dals & Pulses,Dharmapuri,East,Tamil Nadu,2493,0.21,2016,2,1,573.39,625.38
+Snacks,Chocolates,Cumbum,Central,Tamil Nadu,1822,0.14,2015,1,3,255.08,521.92
+Food Grains,Organic Staples,Bodi,East,Tamil Nadu,1630,0.3,2015,11,20,407.5,450.37
+Snacks,Noodles,Viluppuram,Central,Tamil Nadu,2294,0.31,2018,4,8,206.46,616.8
+Beverages,Soft Drinks,Madurai,Central,Tamil Nadu,1225,0.17,2018,9,9,379.75,304.25
+Beverages,Soft Drinks,Pudukottai,South,Tamil Nadu,685,0.19,2018,10,26,68.5,164.53
+Fruits & Veggies,Fresh Vegetables,Cumbum,Central,Tamil Nadu,2172,0.22,2017,10,22,304.08,494.85
+Food Grains,Dals & Pulses,Namakkal,West,Tamil Nadu,1450,0.13,2016,12,12,435.0,371.38
+Bakery,Cakes,Coimbatore,Central,Tamil Nadu,922,0.21,2018,12,5,202.84,234.63
+Beverages,Soft Drinks,Nagercoil,West,Tamil Nadu,2018,0.32,2016,4,12,565.04,471.39
+"Eggs, Meat & Fish",Chicken,Trichy,Central,Tamil Nadu,2353,0.26,2016,9,2,423.54,574.22
+Food Grains,Organic Staples,Nagercoil,West,Tamil Nadu,2286,0.23,2018,2,20,114.3,535.86
+Oil & Masala,Edible Oil & Ghee,Perambalur,West,Tamil Nadu,1834,0.1,2018,2,12,623.56,491.1
+Bakery,Breads & Buns,Tenkasi,South,Tamil Nadu,1506,0.32,2018,6,11,677.7,346.63
+Bakery,Cakes,Chennai,West,Tamil Nadu,1322,0.11,2018,8,21,475.92,281.21
+Fruits & Veggies,Fresh Vegetables,Bodi,Central,Tamil Nadu,1227,0.33,2015,2,8,355.83,346.22
+"Eggs, Meat & Fish",Chicken,Dindigul,Central,Tamil Nadu,2145,0.35,2015,4,25,514.8,519.07
+Bakery,Breads & Buns,Madurai,Central,Tamil Nadu,1370,0.26,2016,8,5,438.4,331.18
+Oil & Masala,Edible Oil & Ghee,Nagercoil,Central,Tamil Nadu,2412,0.21,2016,1,17,168.84,599.47
+Snacks,Cookies,Dindigul,South,Tamil Nadu,1289,0.19,2016,12,6,206.24,347.9
+Beverages,Health Drinks,Virudhunagar,West,Tamil Nadu,2335,0.16,2018,11,24,887.3,546.83
+Bakery,Biscuits,Dindigul,West,Tamil Nadu,729,0.25,2015,12,28,313.47,158.43
+Oil & Masala,Spices,Ooty,East,Tamil Nadu,689,0.26,2016,5,4,282.49,139.0
+Oil & Masala,Masalas,Chennai,East,Tamil Nadu,1735,0.11,2016,5,14,572.55,426.51
+"Eggs, Meat & Fish",Eggs,Tenkasi,West,Tamil Nadu,672,0.28,2015,6,12,302.4,166.0
+Food Grains,Dals & Pulses,Perambalur,Central,Tamil Nadu,1134,0.23,2017,5,30,192.78,265.6
+Food Grains,Dals & Pulses,Trichy,West,Tamil Nadu,2468,0.17,2017,4,7,789.76,602.53
+Snacks,Cookies,Krishnagiri,West,Tamil Nadu,732,0.35,2018,1,8,131.76,167.03
+Beverages,Health Drinks,Bodi,South,Tamil Nadu,1508,0.33,2017,10,27,316.68,347.14
+Bakery,Cakes,Madurai,Central,Tamil Nadu,1770,0.26,2017,11,19,106.2,427.83
+Beverages,Health Drinks,Salem,East,Tamil Nadu,1086,0.23,2018,1,12,184.62,264.39
+Oil & Masala,Masalas,Tenkasi,West,Tamil Nadu,1217,0.31,2018,5,19,535.48,351.75
+Fruits & Veggies,Fresh Fruits,Perambalur,East,Tamil Nadu,2307,0.25,2016,4,27,715.17,532.17
+Food Grains,Rice,Pudukottai,Central,Tamil Nadu,2048,0.26,2018,11,27,552.96,493.04
+Snacks,Cookies,Dindigul,South,Tamil Nadu,1659,0.19,2018,4,15,315.21,377.21
+Bakery,Breads & Buns,Kanyakumari,East,Tamil Nadu,732,0.15,2018,10,9,300.12,196.82
+Fruits & Veggies,Fresh Vegetables,Virudhunagar,West,Tamil Nadu,1932,0.18,2016,1,23,734.16,488.32
+Beverages,Soft Drinks,Bodi,Central,Tamil Nadu,1140,0.16,2017,7,1,478.8,256.07
+Snacks,Cookies,Pudukottai,West,Tamil Nadu,1333,0.23,2018,1,21,199.95,309.2
+Snacks,Chocolates,Chennai,West,Tamil Nadu,1170,0.3,2018,10,17,362.7,345.75
+Beverages,Health Drinks,Dindigul,East,Tamil Nadu,1746,0.15,2016,12,18,453.96,396.15
+Oil & Masala,Masalas,Ramanadhapuram,East,Tamil Nadu,850,0.11,2018,10,20,93.5,210.07
+Beverages,Health Drinks,Cumbum,South,Tamil Nadu,1849,0.16,2017,9,12,462.25,457.47
+Snacks,Noodles,Karur,South,Tamil Nadu,938,0.13,2016,5,10,300.16,177.54
+Fruits & Veggies,Fresh Vegetables,Karur,Central,Tamil Nadu,2498,0.24,2018,10,4,224.82,530.0
+"Eggs, Meat & Fish",Chicken,Dharmapuri,West,Tamil Nadu,1625,0.2,2016,8,11,276.25,424.14
+Food Grains,Organic Staples,Cumbum,Central,Tamil Nadu,1512,0.23,2015,6,20,650.16,367.11
+Bakery,Breads & Buns,Krishnagiri,West,Tamil Nadu,2011,0.2,2015,4,7,784.29,478.85
+Fruits & Veggies,Organic Vegetables,Ramanadhapuram,Central,Tamil Nadu,1354,0.16,2016,12,27,446.82,343.32
+Fruits & Veggies,Organic Vegetables,Perambalur,West,Tamil Nadu,685,0.35,2018,3,28,68.5,185.77
+Food Grains,Dals & Pulses,Namakkal,West,Tamil Nadu,607,0.34,2015,8,9,91.05,185.36
+Oil & Masala,Spices,Dharmapuri,West,Tamil Nadu,1416,0.17,2015,3,4,481.44,324.07
+Oil & Masala,Spices,Pudukottai,West,Tamil Nadu,1659,0.15,2018,10,16,597.24,429.31
+"Eggs, Meat & Fish",Chicken,Bodi,East,Tamil Nadu,1793,0.13,2018,11,3,251.02,406.88
+Fruits & Veggies,Fresh Vegetables,Perambalur,West,Tamil Nadu,1208,0.28,2017,6,19,410.72,373.68
+Snacks,Noodles,Kanyakumari,West,Tamil Nadu,1543,0.16,2016,11,13,246.88,476.59
+Food Grains,Atta & Flour,Karur,South,Tamil Nadu,1769,0.18,2016,6,18,760.67,440.77
+Fruits & Veggies,Fresh Vegetables,Nagercoil,South,Tamil Nadu,1665,0.26,2015,12,8,549.45,349.17
+Fruits & Veggies,Fresh Vegetables,Coimbatore,West,Tamil Nadu,1530,0.26,2018,2,11,306.0,366.72
+Food Grains,Rice,Tenkasi,West,Tamil Nadu,559,0.29,2015,7,25,156.52,128.31
+Bakery,Cakes,Perambalur,West,Tamil Nadu,613,0.31,2015,11,10,263.59,169.78
+Snacks,Noodles,Karur,Central,Tamil Nadu,1512,0.16,2017,12,11,453.6,390.79
+Oil & Masala,Edible Oil & Ghee,Coimbatore,West,Tamil Nadu,1808,0.24,2015,8,9,108.48,438.32
+Food Grains,Rice,Theni,South,Tamil Nadu,2060,0.24,2016,7,12,412.0,513.31
+Fruits & Veggies,Organic Vegetables,Coimbatore,Central,Tamil Nadu,1618,0.18,2016,7,11,242.7,428.29
+Snacks,Noodles,Theni,South,Tamil Nadu,1606,0.18,2016,6,13,546.04,402.61
+Food Grains,Atta & Flour,Coimbatore,West,Tamil Nadu,1707,0.32,2015,7,22,238.98,466.63
+"Eggs, Meat & Fish",Chicken,Dharmapuri,South,Tamil Nadu,1539,0.23,2018,5,25,584.82,313.83
+Beverages,Health Drinks,Vellore,West,Tamil Nadu,1590,0.24,2018,2,9,699.6,470.87
+Beverages,Soft Drinks,Trichy,Central,Tamil Nadu,2183,0.19,2018,11,19,480.26,481.88
+Food Grains,Organic Staples,Theni,South,Tamil Nadu,1991,0.33,2015,1,26,696.85,586.97
+Oil & Masala,Edible Oil & Ghee,Cumbum,Central,Tamil Nadu,2149,0.31,2015,12,13,107.45,533.32
+Oil & Masala,Edible Oil & Ghee,Coimbatore,West,Tamil Nadu,1929,0.18,2018,4,13,327.93,424.88
+Oil & Masala,Edible Oil & Ghee,Madurai,West,Tamil Nadu,640,0.14,2016,6,25,262.4,170.54
+Beverages,Health Drinks,Madurai,East,Tamil Nadu,2138,0.25,2016,8,5,192.42,554.25
+Snacks,Cookies,Ramanadhapuram,East,Tamil Nadu,1157,0.32,2016,10,9,451.23,301.86
+"Eggs, Meat & Fish",Chicken,Tirunelveli,West,Tamil Nadu,1256,0.34,2018,11,13,326.56,296.72
+Bakery,Breads & Buns,Ooty,East,Tamil Nadu,860,0.1,2018,6,22,137.6,244.2
+Oil & Masala,Masalas,Perambalur,South,Tamil Nadu,2003,0.3,2015,1,8,781.17,502.35
+"Eggs, Meat & Fish",Chicken,Bodi,South,Tamil Nadu,1836,0.29,2015,11,21,201.96,489.94
+Bakery,Breads & Buns,Bodi,East,Tamil Nadu,2116,0.19,2018,8,18,359.72,552.36
+Oil & Masala,Edible Oil & Ghee,Salem,Central,Tamil Nadu,1094,0.16,2017,3,20,426.66,276.88
+Oil & Masala,Masalas,Dharmapuri,Central,Tamil Nadu,545,0.31,2015,12,14,168.95,129.0
+Oil & Masala,Masalas,Salem,East,Tamil Nadu,2065,0.17,2015,3,11,351.05,419.42
+Snacks,Chocolates,Theni,West,Tamil Nadu,1055,0.31,2015,12,19,126.6,271.63
+"Eggs, Meat & Fish",Fish,Tenkasi,West,Tamil Nadu,1787,0.15,2018,8,7,696.93,413.85
+Beverages,Health Drinks,Nagercoil,Central,Tamil Nadu,2216,0.21,2018,2,1,487.52,599.63
+Beverages,Health Drinks,Viluppuram,East,Tamil Nadu,1994,0.31,2018,1,12,458.62,518.08
+Food Grains,Rice,Bodi,West,Tamil Nadu,1784,0.26,2016,11,20,267.6,390.95
+Beverages,Soft Drinks,Madurai,South,Tamil Nadu,1490,0.18,2018,5,19,387.4,335.83
+Food Grains,Dals & Pulses,Vellore,West,Tamil Nadu,1011,0.12,2016,8,25,131.43,268.51
+Snacks,Chocolates,Viluppuram,East,Tamil Nadu,1113,0.25,2017,11,13,255.99,332.73
+Oil & Masala,Masalas,Pudukottai,West,Tamil Nadu,1536,0.35,2017,10,9,460.8,380.55
+Beverages,Health Drinks,Tirunelveli,South,Tamil Nadu,815,0.29,2015,1,6,171.15,193.2
+"Eggs, Meat & Fish",Mutton,Cumbum,Central,Tamil Nadu,1196,0.15,2018,5,23,394.68,265.17
+Snacks,Chocolates,Coimbatore,South,Tamil Nadu,868,0.32,2018,9,23,147.56,258.96
+Beverages,Soft Drinks,Vellore,West,Tamil Nadu,521,0.24,2018,9,3,182.35,130.96
+Beverages,Health Drinks,Krishnagiri,East,Tamil Nadu,1810,0.26,2018,1,29,796.4,578.12
+Beverages,Health Drinks,Bodi,West,Tamil Nadu,1652,0.16,2017,7,7,280.84,447.05
+Food Grains,Atta & Flour,Perambalur,East,Tamil Nadu,1713,0.22,2018,6,26,411.12,437.8
+"Eggs, Meat & Fish",Mutton,Theni,West,Tamil Nadu,993,0.16,2018,9,26,307.83,259.32
+Oil & Masala,Edible Oil & Ghee,Kanyakumari,Central,Tamil Nadu,1734,0.21,2015,5,18,329.46,388.23
+Snacks,Cookies,Tirunelveli,East,Tamil Nadu,2383,0.12,2015,10,31,881.71,518.57
+"Eggs, Meat & Fish",Eggs,Viluppuram,West,Tamil Nadu,1080,0.11,2018,1,10,108.0,269.78
+Snacks,Cookies,Dharmapuri,South,Tamil Nadu,1798,0.22,2017,9,29,323.64,437.05
+Food Grains,Rice,Tenkasi,East,Tamil Nadu,671,0.13,2018,4,9,33.55,190.9
+Bakery,Biscuits,Perambalur,Central,Tamil Nadu,938,0.26,2018,1,20,93.8,250.63
+Bakery,Breads & Buns,Nagercoil,South,Tamil Nadu,2481,0.32,2017,11,26,471.39,631.12
+Snacks,Chocolates,Dindigul,West,Tamil Nadu,2369,0.17,2016,11,20,829.15,600.51
+Beverages,Soft Drinks,Krishnagiri,Central,Tamil Nadu,1025,0.12,2017,8,26,92.25,285.87
+Bakery,Breads & Buns,Ooty,East,Tamil Nadu,1505,0.26,2015,5,24,617.05,381.25
+"Eggs, Meat & Fish",Mutton,Coimbatore,South,Tamil Nadu,983,0.31,2015,5,22,275.24,280.29
+Fruits & Veggies,Fresh Vegetables,Madurai,West,Tamil Nadu,1370,0.12,2016,12,13,232.9,400.65
+"Eggs, Meat & Fish",Mutton,Karur,West,Tamil Nadu,674,0.2,2015,6,13,289.82,127.45
+Snacks,Chocolates,Tirunelveli,East,Tamil Nadu,2470,0.25,2016,2,10,568.1,741.44
+Food Grains,Organic Staples,Cumbum,South,Tamil Nadu,741,0.25,2017,1,11,303.81,143.88
+Food Grains,Atta & Flour,Trichy,West,Tamil Nadu,1063,0.34,2018,7,14,457.09,294.69
+Snacks,Chocolates,Virudhunagar,South,Tamil Nadu,573,0.3,2015,9,10,206.28,159.16
+Bakery,Breads & Buns,Madurai,East,Tamil Nadu,1179,0.23,2017,4,4,436.23,298.86
+"Eggs, Meat & Fish",Fish,Bodi,South,Tamil Nadu,2298,0.31,2018,8,13,873.24,620.15
+"Eggs, Meat & Fish",Eggs,Krishnagiri,West,Tamil Nadu,2325,0.18,2015,1,20,813.75,704.02
+Fruits & Veggies,Fresh Vegetables,Viluppuram,Central,Tamil Nadu,2391,0.19,2016,12,27,358.65,519.92
+Bakery,Biscuits,Krishnagiri,South,Tamil Nadu,2223,0.23,2016,1,28,955.89,725.14
+Fruits & Veggies,Organic Vegetables,Madurai,Central,Tamil Nadu,1604,0.33,2017,6,21,561.4,479.47
+Fruits & Veggies,Fresh Fruits,Perambalur,Central,Tamil Nadu,757,0.16,2016,11,30,280.09,191.06
+Oil & Masala,Masalas,Vellore,West,Tamil Nadu,1448,0.26,2018,7,10,637.12,385.72
+"Eggs, Meat & Fish",Fish,Ramanadhapuram,West,Tamil Nadu,1906,0.19,2016,6,20,648.04,479.31
+Oil & Masala,Masalas,Viluppuram,South,Tamil Nadu,1859,0.22,2017,2,5,446.16,493.49
+Fruits & Veggies,Fresh Vegetables,Perambalur,Central,Tamil Nadu,1812,0.22,2018,8,12,108.72,361.9
+Fruits & Veggies,Fresh Fruits,Madurai,West,Tamil Nadu,503,0.1,2018,2,26,130.78,96.07
+"Eggs, Meat & Fish",Eggs,Trichy,West,Tamil Nadu,1236,0.33,2017,10,17,197.76,314.68
+Fruits & Veggies,Fresh Vegetables,Karur,West,Tamil Nadu,1051,0.32,2015,12,27,189.18,250.1
+"Eggs, Meat & Fish",Fish,Namakkal,East,Tamil Nadu,2474,0.28,2018,11,28,1039.08,593.48
+Snacks,Chocolates,Madurai,East,Tamil Nadu,2344,0.3,2018,8,18,468.8,548.24
+Food Grains,Atta & Flour,Namakkal,Central,Tamil Nadu,2068,0.17,2018,4,9,124.08,463.37
+Bakery,Cakes,Bodi,West,Tamil Nadu,509,0.26,2015,8,23,25.45,118.64
+Food Grains,Organic Staples,Dindigul,South,Tamil Nadu,1478,0.12,2017,7,23,251.26,342.38
+Oil & Masala,Masalas,Nagercoil,West,Tamil Nadu,2388,0.14,2018,1,14,692.52,596.32
+Beverages,Health Drinks,Pudukottai,East,Tamil Nadu,2162,0.22,2017,10,27,475.64,588.39
+Snacks,Cookies,Perambalur,Central,Tamil Nadu,1985,0.21,2015,10,20,833.7,510.4
+Oil & Masala,Spices,Chennai,East,Tamil Nadu,1052,0.33,2018,11,20,473.4,167.15
+Snacks,Chocolates,Vellore,South,Tamil Nadu,1254,0.12,2017,12,4,163.02,344.85
+Oil & Masala,Masalas,Coimbatore,East,Tamil Nadu,840,0.25,2018,7,15,361.2,242.87
+Snacks,Cookies,Namakkal,East,Tamil Nadu,781,0.23,2018,9,22,351.45,189.14
+Oil & Masala,Masalas,Tenkasi,West,Tamil Nadu,601,0.3,2016,6,12,114.19,162.2
+"Eggs, Meat & Fish",Chicken,Bodi,West,Tamil Nadu,799,0.35,2017,7,10,359.55,176.58
+Oil & Masala,Masalas,Tirunelveli,Central,Tamil Nadu,877,0.14,2016,4,12,368.34,204.76
+Food Grains,Dals & Pulses,Trichy,East,Tamil Nadu,1854,0.1,2017,1,15,389.34,417.85
+Snacks,Cookies,Chennai,West,Tamil Nadu,1331,0.3,2018,2,26,66.55,296.48
+Oil & Masala,Masalas,Namakkal,West,Tamil Nadu,2425,0.25,2017,3,11,218.25,634.25
+Oil & Masala,Spices,Nagercoil,East,Tamil Nadu,2466,0.26,2018,7,13,295.92,537.76
+Snacks,Chocolates,Dindigul,East,Tamil Nadu,777,0.25,2015,9,26,54.39,201.55
+Bakery,Biscuits,Namakkal,East,Tamil Nadu,742,0.28,2017,2,10,118.72,184.23
+Bakery,Cakes,Namakkal,Central,Tamil Nadu,1097,0.15,2016,6,2,186.49,254.19
+Snacks,Chocolates,Cumbum,West,Tamil Nadu,2292,0.21,2017,10,22,252.12,545.39
+Bakery,Breads & Buns,Trichy,East,Tamil Nadu,993,0.11,2017,8,19,148.95,279.77
+Food Grains,Rice,Ooty,East,Tamil Nadu,1442,0.27,2017,12,26,519.12,331.92
+Snacks,Cookies,Cumbum,East,Tamil Nadu,1284,0.11,2016,4,17,487.92,291.57
+Beverages,Health Drinks,Nagercoil,East,Tamil Nadu,972,0.16,2017,2,6,427.68,244.4
+Fruits & Veggies,Organic Vegetables,Vellore,Central,Tamil Nadu,2412,0.32,2018,9,25,337.68,596.34
+Beverages,Health Drinks,Dindigul,West,Tamil Nadu,801,0.25,2017,11,11,72.09,170.33
+Food Grains,Dals & Pulses,Dharmapuri,East,Tamil Nadu,647,0.3,2017,10,12,232.92,186.65
+Oil & Masala,Edible Oil & Ghee,Virudhunagar,Central,Tamil Nadu,775,0.3,2015,10,11,240.25,195.11
+Bakery,Breads & Buns,Karur,East,Tamil Nadu,1171,0.21,2018,9,19,210.78,318.74
+Snacks,Noodles,Krishnagiri,South,Tamil Nadu,1626,0.32,2017,11,20,715.44,416.41
+Oil & Masala,Edible Oil & Ghee,Dindigul,South,Tamil Nadu,1677,0.21,2018,5,18,620.49,385.29
+Bakery,Breads & Buns,Theni,Central,Tamil Nadu,1154,0.24,2018,7,9,80.78,285.71
+"Eggs, Meat & Fish",Eggs,Karur,East,Tamil Nadu,1678,0.19,2016,2,10,486.62,432.39
+Food Grains,Organic Staples,Tirunelveli,South,Tamil Nadu,1472,0.1,2017,5,28,73.6,326.0
+Fruits & Veggies,Fresh Vegetables,Ooty,West,Tamil Nadu,1261,0.12,2016,3,13,340.47,324.89
+Fruits & Veggies,Organic Vegetables,Perambalur,South,Tamil Nadu,2465,0.19,2017,7,2,1084.6,568.57
+Bakery,Biscuits,Vellore,West,Tamil Nadu,1322,0.19,2018,9,11,462.7,275.03
+Snacks,Noodles,Viluppuram,Central,Tamil Nadu,959,0.12,2018,12,23,163.03,258.23
+Snacks,Cookies,Krishnagiri,West,Tamil Nadu,717,0.11,2017,11,11,186.42,158.9
+Oil & Masala,Masalas,Bodi,Central,Tamil Nadu,912,0.24,2016,4,4,54.72,187.33
+Beverages,Soft Drinks,Namakkal,South,Tamil Nadu,2079,0.31,2018,9,24,873.18,476.79
+Food Grains,Dals & Pulses,Chennai,East,Tamil Nadu,1245,0.3,2017,5,23,410.85,390.0
+Snacks,Chocolates,Ooty,East,Tamil Nadu,1585,0.29,2015,12,31,317.0,406.26
+Beverages,Health Drinks,Salem,South,Tamil Nadu,2092,0.17,2015,3,15,920.48,516.45
+Snacks,Noodles,Cumbum,West,Tamil Nadu,1560,0.32,2017,7,14,140.4,338.06
+Fruits & Veggies,Fresh Vegetables,Tirunelveli,South,Tamil Nadu,1411,0.35,2017,5,5,253.98,347.05
+Food Grains,Rice,Ooty,Central,Tamil Nadu,1848,0.17,2015,5,7,332.64,489.81
+Food Grains,Atta & Flour,Viluppuram,South,Tamil Nadu,1918,0.35,2017,8,12,326.06,455.78
+Food Grains,Atta & Flour,Dindigul,Central,Tamil Nadu,1726,0.32,2015,3,29,586.84,450.85
+"Eggs, Meat & Fish",Fish,Krishnagiri,South,Tamil Nadu,2233,0.31,2018,3,2,491.26,630.77
+"Eggs, Meat & Fish",Chicken,Nagercoil,South,Tamil Nadu,1243,0.28,2015,4,29,198.88,385.28
+Beverages,Health Drinks,Tenkasi,Central,Tamil Nadu,685,0.14,2017,8,13,47.95,173.92
+"Eggs, Meat & Fish",Fish,Tenkasi,Central,Tamil Nadu,1120,0.17,2015,7,11,291.2,333.6
+Beverages,Soft Drinks,Ooty,South,Tamil Nadu,1768,0.13,2015,1,20,353.6,497.65
+Beverages,Soft Drinks,Namakkal,Central,Tamil Nadu,1786,0.19,2017,11,30,392.92,379.54
+Food Grains,Atta & Flour,Karur,West,Tamil Nadu,1398,0.26,2017,7,25,545.22,353.44
+"Eggs, Meat & Fish",Chicken,Ramanadhapuram,Central,Tamil Nadu,1339,0.2,2017,7,30,535.6,307.97
+Bakery,Breads & Buns,Chennai,West,Tamil Nadu,900,0.15,2017,8,21,333.0,217.9
+Bakery,Cakes,Salem,East,Tamil Nadu,2031,0.19,2018,7,23,101.55,501.14
+Bakery,Breads & Buns,Pudukottai,South,Tamil Nadu,866,0.16,2018,4,11,147.22,178.55
+Beverages,Health Drinks,Tirunelveli,West,Tamil Nadu,1887,0.28,2015,9,21,434.01,508.65
+Snacks,Chocolates,Trichy,East,Tamil Nadu,2021,0.11,2017,7,11,505.25,522.9
+Food Grains,Atta & Flour,Karur,Central,Tamil Nadu,1792,0.16,2018,4,26,680.96,457.35
+Snacks,Noodles,Coimbatore,East,Tamil Nadu,1460,0.32,2018,12,14,423.4,414.41
+Oil & Masala,Spices,Krishnagiri,West,Tamil Nadu,2128,0.24,2017,5,26,446.88,448.21
+Food Grains,Rice,Virudhunagar,West,Tamil Nadu,2159,0.27,2017,12,31,928.37,524.96
+Beverages,Health Drinks,Coimbatore,East,Tamil Nadu,2120,0.25,2018,4,17,742.0,630.87
+Bakery,Cakes,Tenkasi,South,Tamil Nadu,2128,0.21,2018,2,11,744.8,559.99
+Bakery,Cakes,Pudukottai,West,Tamil Nadu,1418,0.14,2018,12,10,255.24,433.55
+Fruits & Veggies,Fresh Vegetables,Chennai,Central,Tamil Nadu,547,0.23,2016,9,2,153.16,145.66
+Oil & Masala,Edible Oil & Ghee,Bodi,West,Tamil Nadu,997,0.2,2018,12,30,438.68,258.94
+Beverages,Health Drinks,Nagercoil,West,Tamil Nadu,565,0.21,2016,9,17,163.85,143.54
+"Eggs, Meat & Fish",Chicken,Salem,East,Tamil Nadu,912,0.22,2016,11,23,228.0,181.33
+Fruits & Veggies,Organic Vegetables,Krishnagiri,East,Tamil Nadu,1213,0.17,2016,5,4,266.86,337.8
+Oil & Masala,Spices,Vellore,West,Tamil Nadu,1802,0.16,2018,3,28,108.12,466.57
+Fruits & Veggies,Fresh Vegetables,Vellore,Central,Tamil Nadu,1792,0.27,2018,5,29,430.08,455.82
+Bakery,Breads & Buns,Krishnagiri,South,Tamil Nadu,2265,0.22,2016,11,13,249.15,538.05
+Beverages,Health Drinks,Theni,South,Tamil Nadu,995,0.25,2017,8,26,338.3,254.17
+Fruits & Veggies,Organic Vegetables,Chennai,Central,Tamil Nadu,671,0.23,2017,1,11,187.88,158.55
+Beverages,Soft Drinks,Salem,Central,Tamil Nadu,2267,0.27,2016,11,26,974.81,697.54
+Beverages,Health Drinks,Dindigul,South,Tamil Nadu,1570,0.22,2017,5,5,298.3,481.54
+Food Grains,Dals & Pulses,Perambalur,South,Tamil Nadu,1272,0.3,2017,7,7,63.6,414.14
+Fruits & Veggies,Organic Vegetables,Viluppuram,West,Tamil Nadu,1123,0.18,2015,8,9,101.07,319.89
+Food Grains,Rice,Bodi,South,Tamil Nadu,2403,0.33,2018,9,22,1033.29,579.22
+Snacks,Chocolates,Chennai,South,Tamil Nadu,612,0.16,2015,2,2,153.0,148.24
+Fruits & Veggies,Fresh Fruits,Kanyakumari,West,Tamil Nadu,1389,0.28,2017,3,11,555.6,332.18
+Snacks,Noodles,Salem,Central,Tamil Nadu,1912,0.31,2017,3,15,133.84,430.78
+Oil & Masala,Edible Oil & Ghee,Madurai,Central,Tamil Nadu,2181,0.21,2017,7,31,697.92,509.48
+Beverages,Health Drinks,Kanyakumari,Central,Tamil Nadu,997,0.14,2018,12,22,199.4,292.05
+Snacks,Cookies,Vellore,West,Tamil Nadu,1883,0.14,2015,9,7,357.77,513.87
+"Eggs, Meat & Fish",Chicken,Cumbum,Central,Tamil Nadu,2245,0.18,2018,1,1,606.15,634.33
+Oil & Masala,Masalas,Coimbatore,West,Tamil Nadu,2386,0.33,2018,5,30,835.1,566.75
+Oil & Masala,Spices,Perambalur,East,Tamil Nadu,1360,0.16,2017,9,18,176.8,269.65
+"Eggs, Meat & Fish",Chicken,Nagercoil,East,Tamil Nadu,695,0.14,2016,8,8,83.4,158.86
+Oil & Masala,Edible Oil & Ghee,Krishnagiri,South,Tamil Nadu,660,0.24,2018,5,8,118.8,138.28
+Food Grains,Dals & Pulses,Dindigul,West,Tamil Nadu,988,0.23,2016,12,12,148.2,253.26
+Bakery,Biscuits,Dindigul,East,Tamil Nadu,2234,0.11,2016,9,17,714.88,635.76
+"Eggs, Meat & Fish",Fish,Vellore,Central,Tamil Nadu,1985,0.26,2017,5,12,734.45,484.52
+Snacks,Noodles,Karur,West,Tamil Nadu,2058,0.11,2018,11,2,720.3,521.9
+Bakery,Breads & Buns,Coimbatore,South,Tamil Nadu,2443,0.13,2017,2,21,171.01,589.59
+"Eggs, Meat & Fish",Fish,Cumbum,West,Tamil Nadu,2290,0.21,2017,8,12,137.4,596.57
+Bakery,Biscuits,Kanyakumari,South,Tamil Nadu,1452,0.17,2017,7,29,304.92,318.36
+Fruits & Veggies,Organic Vegetables,Dharmapuri,West,Tamil Nadu,1375,0.23,2017,5,5,261.25,356.93
+Food Grains,Atta & Flour,Karur,East,Tamil Nadu,1808,0.34,2016,11,20,162.72,448.31
+"Eggs, Meat & Fish",Chicken,Dindigul,East,Tamil Nadu,1575,0.26,2018,5,12,267.75,397.98
+Food Grains,Atta & Flour,Namakkal,South,Tamil Nadu,2441,0.11,2017,12,12,1000.81,523.11
+Oil & Masala,Spices,Coimbatore,East,Tamil Nadu,2061,0.15,2017,12,16,927.45,440.41
+Food Grains,Dals & Pulses,Dindigul,West,Tamil Nadu,2353,0.11,2017,7,18,188.24,648.03
+Oil & Masala,Masalas,Dharmapuri,East,Tamil Nadu,611,0.16,2017,8,28,42.77,160.12
+Beverages,Soft Drinks,Dharmapuri,West,Tamil Nadu,540,0.34,2015,1,27,156.6,125.83
+Fruits & Veggies,Organic Fruits,Chennai,East,Tamil Nadu,1502,0.29,2016,6,7,570.76,387.68
+Food Grains,Organic Staples,Ooty,South,Tamil Nadu,1721,0.12,2016,11,30,258.15,432.16
+Snacks,Noodles,Madurai,East,Tamil Nadu,557,0.25,2018,7,11,178.24,121.23
+Bakery,Biscuits,Krishnagiri,Central,Tamil Nadu,899,0.12,2015,12,30,287.68,278.63
+Beverages,Soft Drinks,Karur,West,Tamil Nadu,648,0.31,2018,7,8,77.76,162.2
+Oil & Masala,Edible Oil & Ghee,Coimbatore,West,Tamil Nadu,1439,0.15,2017,5,11,316.58,349.62
+Food Grains,Atta & Flour,Salem,West,Tamil Nadu,1643,0.28,2016,12,20,624.34,418.72
+Oil & Masala,Masalas,Theni,South,Tamil Nadu,537,0.14,2016,1,5,26.85,110.22
+Beverages,Soft Drinks,Chennai,East,Tamil Nadu,1277,0.14,2018,11,16,204.32,374.01
+Snacks,Chocolates,Namakkal,West,Tamil Nadu,2154,0.31,2018,10,15,172.32,560.09
+"Eggs, Meat & Fish",Chicken,Trichy,West,Tamil Nadu,1132,0.25,2018,12,16,56.6,327.42
+"Eggs, Meat & Fish",Eggs,Chennai,East,Tamil Nadu,2167,0.29,2018,10,2,736.78,499.15
+"Eggs, Meat & Fish",Chicken,Theni,Central,Tamil Nadu,1471,0.1,2016,11,15,308.91,384.79
+Oil & Masala,Edible Oil & Ghee,Tirunelveli,South,Tamil Nadu,1659,0.11,2018,11,19,613.83,422.44
+Fruits & Veggies,Organic Vegetables,Chennai,East,Tamil Nadu,1410,0.16,2018,9,7,70.5,403.15
+Fruits & Veggies,Fresh Vegetables,Cumbum,West,Tamil Nadu,1105,0.15,2016,8,28,198.9,284.12
+Food Grains,Rice,Theni,West,Tamil Nadu,1173,0.32,2015,6,22,129.03,307.15
+Bakery,Breads & Buns,Pudukottai,West,Tamil Nadu,1899,0.16,2018,9,19,493.74,441.21
+Snacks,Noodles,Bodi,West,Tamil Nadu,2088,0.11,2018,12,9,647.28,567.16
+Beverages,Health Drinks,Bodi,West,Tamil Nadu,1617,0.19,2015,5,13,113.19,454.75
+Oil & Masala,Masalas,Salem,South,Tamil Nadu,1797,0.19,2015,3,11,521.13,434.13
+Snacks,Chocolates,Trichy,West,Tamil Nadu,2396,0.32,2018,3,7,958.4,583.73
+Beverages,Health Drinks,Pudukottai,Central,Tamil Nadu,865,0.21,2016,8,31,328.7,252.49
+Bakery,Breads & Buns,Pudukottai,East,Tamil Nadu,1177,0.14,2016,11,20,506.11,309.37
+Fruits & Veggies,Fresh Fruits,Krishnagiri,South,Tamil Nadu,1196,0.32,2016,3,12,382.72,347.8
+Fruits & Veggies,Fresh Fruits,Theni,West,Tamil Nadu,1802,0.16,2018,2,12,90.1,497.77
+Beverages,Soft Drinks,Tenkasi,West,Tamil Nadu,1892,0.32,2015,9,17,718.96,475.79
+Snacks,Chocolates,Ooty,Central,Tamil Nadu,658,0.18,2018,1,15,223.72,189.6
+Food Grains,Organic Staples,Nagercoil,South,Tamil Nadu,888,0.22,2017,5,29,115.44,260.55
+"Eggs, Meat & Fish",Fish,Ramanadhapuram,East,Tamil Nadu,640,0.24,2018,2,2,140.8,156.16
+Snacks,Noodles,Virudhunagar,Central,Tamil Nadu,1860,0.11,2018,7,16,837.0,474.28
+Oil & Masala,Spices,Viluppuram,West,Tamil Nadu,2110,0.29,2018,12,11,611.9,615.13
+Snacks,Noodles,Virudhunagar,East,Tamil Nadu,1792,0.28,2018,9,4,197.12,368.41
+Fruits & Veggies,Organic Fruits,Ooty,South,Tamil Nadu,2122,0.33,2015,1,26,530.5,531.78
+Fruits & Veggies,Fresh Vegetables,Karur,East,Tamil Nadu,1288,0.22,2018,4,23,386.4,257.94
+Oil & Masala,Masalas,Karur,West,Tamil Nadu,868,0.21,2018,8,10,260.4,201.37
+Fruits & Veggies,Organic Vegetables,Dharmapuri,West,Tamil Nadu,1668,0.29,2017,7,15,383.64,354.66
+Food Grains,Rice,Viluppuram,South,Tamil Nadu,745,0.15,2018,10,12,149.0,198.91
+Oil & Masala,Masalas,Namakkal,East,Tamil Nadu,903,0.24,2018,8,19,144.48,266.88
+Food Grains,Rice,Tenkasi,West,Tamil Nadu,2098,0.33,2015,11,10,734.3,571.56
+"Eggs, Meat & Fish",Eggs,Dindigul,East,Tamil Nadu,2484,0.1,2018,7,27,645.84,619.6
+Food Grains,Organic Staples,Cumbum,East,Tamil Nadu,1624,0.27,2017,9,24,519.68,439.63
+Bakery,Breads & Buns,Ramanadhapuram,Central,Tamil Nadu,824,0.15,2016,10,19,164.8,156.57
+Snacks,Noodles,Namakkal,East,Tamil Nadu,624,0.31,2017,1,22,56.16,169.11
